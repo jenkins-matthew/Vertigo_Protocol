@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Vertigo_Protocol",
+			"Path": "G:\\CS425_SeniorProject\\MainProject\\Vertigo_Protocol_Github\\Vertigo_Protocol\\Source\\Vertigo_Protocol.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Vertigo_ProtocolEditor",
+			"Path": "G:\\CS425_SeniorProject\\MainProject\\Vertigo_Protocol_Github\\Vertigo_Protocol\\Source\\Vertigo_ProtocolEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"G:\\CS425_SeniorProject\\MainProject\\Vertigo_Protocol_Github\\Vertigo_Protocol\\Source\\Vertigo_Protocol\\Vertigo_Protocol.Build.cs",
+		"G:\\CS425_SeniorProject\\MainProject\\Vertigo_Protocol_Github\\Vertigo_Protocol\\Source\\Vertigo_Protocol.Target.cs",
+		"G:\\CS425_SeniorProject\\MainProject\\Vertigo_Protocol_Github\\Vertigo_Protocol\\Source\\Vertigo_ProtocolEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}
