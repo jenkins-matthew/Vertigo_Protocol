@@ -28,6 +28,14 @@
 			"Type": "Executable"
 		},
 		{
+			"Path": "$(EngineDir)/Plugins/Marketplace/RestartEditor/Binaries/Win64/UE4Editor-RestartEditor.dll",
+			"Type": "DynamicLibrary"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Marketplace/RestartEditor/Binaries/Win64/UE4Editor-RestartEditor.pdb",
+			"Type": "SymbolFile"
+		},
+		{
 			"Path": "$(EngineDir)/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll",
 			"Type": "DynamicLibrary"
 		},
@@ -862,14 +870,6 @@
 		{
 			"Path": "$(EngineDir)/Plugins/XGEController/Binaries/Win64/UE4Editor-XGEController.dll",
 			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(ProjectDir)/Binaries/Win64/UE4Editor-Vertigo_Protocol.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(ProjectDir)/Binaries/Win64/UE4Editor-Vertigo_Protocol.pdb",
-			"Type": "SymbolFile"
 		},
 		{
 			"Path": "$(EngineDir)/Binaries/Win64/UE4Editor-BuildSettings.dll",
@@ -2396,6 +2396,10 @@
 			"Type": "RequiredResource"
 		},
 		{
+			"Path": "$(EngineDir)/Plugins/Marketplace/RestartEditor/Binaries/Win64/UE4Editor.modules",
+			"Type": "RequiredResource"
+		},
+		{
 			"Path": "$(EngineDir)/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor.modules",
 			"Type": "RequiredResource"
 		},
@@ -2856,10 +2860,6 @@
 			"Type": "RequiredResource"
 		},
 		{
-			"Path": "$(ProjectDir)/Binaries/Win64/UE4Editor.modules",
-			"Type": "RequiredResource"
-		},
-		{
 			"Path": "$(EngineDir)/Binaries/Win64/UE4Editor.modules",
 			"Type": "RequiredResource"
 		},
@@ -2883,6 +2883,10 @@
 	"RuntimeDependencies": [
 		{
 			"Path": "$(ProjectDir)/Vertigo_Protocol.uproject",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Marketplace/RestartEditor/RestartEditor.uplugin",
 			"Type": "UFS"
 		},
 		{
