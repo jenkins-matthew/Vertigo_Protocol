@@ -1,5 +1,0 @@
-G:\CS425_SeniorProject\MainProject\Vertigo_Protocol_Github\Vertigo_Protocol\Intermediate\Build\Win64\UE4Editor\Development\Vertigo_Protocol\Definitions.Vertigo_Protocol.h
-G:\unreal engine 5.1\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
-G:\unreal engine 5.1\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
-G:\CS425_SeniorProject\MainProject\Vertigo_Protocol_Github\Vertigo_Protocol\Source\Vertigo_Protocol/Vertigo_ProtocolProjectile.h
-G:\CS425_SeniorProject\MainProject\Vertigo_Protocol_Github\Vertigo_Protocol\Intermediate\Build\Win64\UE4Editor\Inc\Vertigo_Protocol\Vertigo_ProtocolProjectile.generated.h
