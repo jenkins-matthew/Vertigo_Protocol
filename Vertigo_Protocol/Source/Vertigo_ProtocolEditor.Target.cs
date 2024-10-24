@@ -9,6 +9,6 @@ public class Vertigo_ProtocolEditorTarget : TargetRules
 	{
 		Type = TargetType.Editor;
 		DefaultBuildSettings = BuildSettingsVersion.V2;
-		ExtraModuleNames.Add("Vertigo_Protocol");
+		// ExtraModuleNames.Add("Vertigo_Protocol");
 	}
 }

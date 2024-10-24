@@ -9,6 +9,6 @@ public class Vertigo_ProtocolTarget : TargetRules
 	{
 		Type = TargetType.Game;
 		DefaultBuildSettings = BuildSettingsVersion.V2;
-		ExtraModuleNames.Add("Vertigo_Protocol");
+		//ExtraModuleNames.Add("Vertigo_Protocol");
 	}
 }
