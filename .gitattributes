@@ -6,3 +6,4 @@
 *.umap filter=lfs diff=lfs merge=lfs -text
 *.tmp filter=lfs diff=lfs merge=lfs -text
 *.dmp filter=lfs diff=lfs merge=lfs -text
+*.sav filter=lfs diff=lfs merge=lfs -text
