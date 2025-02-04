@@ -1,0 +1,1304 @@
+﻿Log file open, 02/03/25 01:03:06
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Vertigo_Protocol
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.195706
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -8:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogLuminAPIImpl: Warning: MLSDK not found.  This likely means the MLSDK environment variable is not set.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-18319896
+LogInit: Engine Version: 4.27.2-18319896+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i9-9900KF CPU @ 3.60GHz, GPU: NVIDIA GeForce RTX 2080 Ti
+LogInit: Compiled (64-bit): Nov 30 2021 07:12:08
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line: 
+LogInit: Base Directory: G:/unreal engine 5.1/UE_4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [G:/CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.EarlyZPass:2]]
+LogConfig: Setting CVar [[r.DBuffer:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2025.02.03-09.03.07:141][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2025.02.03-09.03.07:141][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2025.02.03-09.03.07:141][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [G:/CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Saved/Config/Windows/Engine.ini]
+[2025.02.03-09.03.07:142][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2025.02.03-09.03.07:142][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:0]]
+[2025.02.03-09.03.07:142][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [G:/CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Saved/Config/Windows/Engine.ini]
+[2025.02.03-09.03.07:142][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [G:/CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Saved/Config/Windows/Engine.ini]
+[2025.02.03-09.03.07:142][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2025.02.03-09.03.07:142][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2025.02.03-09.03.07:142][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2025.02.03-09.03.07:142][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2025.02.03-09.03.07:142][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2025.02.03-09.03.07:142][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2025.02.03-09.03.07:142][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2025.02.03-09.03.07:142][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2025.02.03-09.03.07:142][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2025.02.03-09.03.07:142][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2025.02.03-09.03.07:142][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2025.02.03-09.03.07:142][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2025.02.03-09.03.07:142][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2025.02.03-09.03.07:142][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2025.02.03-09.03.07:142][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [G:/CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Saved/Config/Windows/Engine.ini]
+[2025.02.03-09.03.07:142][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2025.02.03-09.03.07:142][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2025.02.03-09.03.07:142][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2025.02.03-09.03.07:142][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2025.02.03-09.03.07:142][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2025.02.03-09.03.07:142][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2025.02.03-09.03.07:142][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2025.02.03-09.03.07:142][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2025.02.03-09.03.07:142][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2025.02.03-09.03.07:142][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2025.02.03-09.03.07:142][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2025.02.03-09.03.07:142][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2025.02.03-09.03.07:142][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2025.02.03-09.03.07:142][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2025.02.03-09.03.07:142][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [G:/CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Saved/Config/Windows/Engine.ini]
+[2025.02.03-09.03.07:142][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [G:/CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Saved/Config/Windows/Engine.ini]
+[2025.02.03-09.03.07:201][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [G:/CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Saved/Config/Windows/Scalability.ini]
+[2025.02.03-09.03.07:201][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2025.02.03-09.03.07:201][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2025.02.03-09.03.07:201][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [G:/CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Saved/Config/Windows/Scalability.ini]
+[2025.02.03-09.03.07:201][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2025.02.03-09.03.07:201][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [G:/CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Saved/Config/Windows/Scalability.ini]
+[2025.02.03-09.03.07:201][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2025.02.03-09.03.07:201][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2025.02.03-09.03.07:201][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2025.02.03-09.03.07:201][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2025.02.03-09.03.07:201][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2025.02.03-09.03.07:201][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2025.02.03-09.03.07:201][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2025.02.03-09.03.07:201][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2025.02.03-09.03.07:201][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2025.02.03-09.03.07:201][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2025.02.03-09.03.07:201][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2025.02.03-09.03.07:201][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2025.02.03-09.03.07:201][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2025.02.03-09.03.07:201][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2025.02.03-09.03.07:201][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2025.02.03-09.03.07:201][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2025.02.03-09.03.07:201][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2025.02.03-09.03.07:201][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2025.02.03-09.03.07:201][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [G:/CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Saved/Config/Windows/Scalability.ini]
+[2025.02.03-09.03.07:201][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2025.02.03-09.03.07:201][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2025.02.03-09.03.07:201][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2025.02.03-09.03.07:201][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2025.02.03-09.03.07:201][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2025.02.03-09.03.07:201][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2025.02.03-09.03.07:201][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2025.02.03-09.03.07:201][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2025.02.03-09.03.07:201][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2025.02.03-09.03.07:201][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2025.02.03-09.03.07:201][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2025.02.03-09.03.07:201][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2025.02.03-09.03.07:201][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2025.02.03-09.03.07:201][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2025.02.03-09.03.07:201][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2025.02.03-09.03.07:201][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2025.02.03-09.03.07:201][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2025.02.03-09.03.07:201][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2025.02.03-09.03.07:201][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2025.02.03-09.03.07:201][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2025.02.03-09.03.07:201][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2025.02.03-09.03.07:201][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2025.02.03-09.03.07:201][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2025.02.03-09.03.07:201][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2025.02.03-09.03.07:201][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2025.02.03-09.03.07:201][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2025.02.03-09.03.07:201][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2025.02.03-09.03.07:201][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2025.02.03-09.03.07:201][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2025.02.03-09.03.07:201][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2025.02.03-09.03.07:201][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [G:/CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Saved/Config/Windows/Scalability.ini]
+[2025.02.03-09.03.07:201][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2025.02.03-09.03.07:201][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2025.02.03-09.03.07:201][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2025.02.03-09.03.07:201][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2025.02.03-09.03.07:201][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2025.02.03-09.03.07:201][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2025.02.03-09.03.07:201][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2025.02.03-09.03.07:201][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2025.02.03-09.03.07:201][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2025.02.03-09.03.07:201][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [G:/CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Saved/Config/Windows/Scalability.ini]
+[2025.02.03-09.03.07:201][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2025.02.03-09.03.07:201][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2025.02.03-09.03.07:201][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2025.02.03-09.03.07:201][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2025.02.03-09.03.07:201][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2025.02.03-09.03.07:201][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2025.02.03-09.03.07:201][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2025.02.03-09.03.07:201][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2025.02.03-09.03.07:201][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2025.02.03-09.03.07:201][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2025.02.03-09.03.07:202][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2025.02.03-09.03.07:202][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2025.02.03-09.03.07:202][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2025.02.03-09.03.07:202][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2025.02.03-09.03.07:202][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2025.02.03-09.03.07:202][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2025.02.03-09.03.07:202][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2025.02.03-09.03.07:202][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2025.02.03-09.03.07:202][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2025.02.03-09.03.07:202][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2025.02.03-09.03.07:202][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2025.02.03-09.03.07:202][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2025.02.03-09.03.07:202][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2025.02.03-09.03.07:202][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2025.02.03-09.03.07:202][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2025.02.03-09.03.07:202][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2025.02.03-09.03.07:202][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2025.02.03-09.03.07:202][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2025.02.03-09.03.07:202][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [G:/CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Saved/Config/Windows/Scalability.ini]
+[2025.02.03-09.03.07:202][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2025.02.03-09.03.07:202][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2025.02.03-09.03.07:202][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [G:/CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Saved/Config/Windows/Scalability.ini]
+[2025.02.03-09.03.07:202][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2025.02.03-09.03.07:202][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2025.02.03-09.03.07:202][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2025.02.03-09.03.07:202][  0]LogInit: Selected Device Profile: [Windows]
+[2025.02.03-09.03.07:202][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2025.02.03-09.03.07:202][  0]LogHAL: Display: Platform has ~ 32 GB [34285621248 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2025.02.03-09.03.07:202][  0]LogInit: Going up to parent DeviceProfile []
+[2025.02.03-09.03.07:202][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [G:/CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Saved/Config/Windows/Scalability.ini]
+[2025.02.03-09.03.07:202][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2025.02.03-09.03.07:202][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2025.02.03-09.03.07:202][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [G:/CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Saved/Config/Windows/Scalability.ini]
+[2025.02.03-09.03.07:202][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2025.02.03-09.03.07:202][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [G:/CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Saved/Config/Windows/Scalability.ini]
+[2025.02.03-09.03.07:202][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2025.02.03-09.03.07:202][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2025.02.03-09.03.07:202][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2025.02.03-09.03.07:202][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2025.02.03-09.03.07:202][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2025.02.03-09.03.07:202][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2025.02.03-09.03.07:202][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2025.02.03-09.03.07:202][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2025.02.03-09.03.07:202][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2025.02.03-09.03.07:202][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2025.02.03-09.03.07:202][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2025.02.03-09.03.07:202][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2025.02.03-09.03.07:202][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2025.02.03-09.03.07:202][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2025.02.03-09.03.07:202][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2025.02.03-09.03.07:202][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2025.02.03-09.03.07:202][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2025.02.03-09.03.07:202][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2025.02.03-09.03.07:202][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [G:/CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Saved/Config/Windows/Scalability.ini]
+[2025.02.03-09.03.07:202][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2025.02.03-09.03.07:202][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2025.02.03-09.03.07:202][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2025.02.03-09.03.07:202][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2025.02.03-09.03.07:202][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2025.02.03-09.03.07:202][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2025.02.03-09.03.07:202][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2025.02.03-09.03.07:202][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2025.02.03-09.03.07:202][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2025.02.03-09.03.07:202][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2025.02.03-09.03.07:202][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2025.02.03-09.03.07:202][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2025.02.03-09.03.07:202][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2025.02.03-09.03.07:202][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2025.02.03-09.03.07:202][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2025.02.03-09.03.07:202][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2025.02.03-09.03.07:202][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2025.02.03-09.03.07:202][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2025.02.03-09.03.07:202][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2025.02.03-09.03.07:202][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2025.02.03-09.03.07:202][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2025.02.03-09.03.07:202][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2025.02.03-09.03.07:202][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2025.02.03-09.03.07:202][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2025.02.03-09.03.07:202][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2025.02.03-09.03.07:202][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2025.02.03-09.03.07:202][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2025.02.03-09.03.07:202][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2025.02.03-09.03.07:202][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2025.02.03-09.03.07:202][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2025.02.03-09.03.07:202][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [G:/CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Saved/Config/Windows/Scalability.ini]
+[2025.02.03-09.03.07:202][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2025.02.03-09.03.07:202][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2025.02.03-09.03.07:202][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2025.02.03-09.03.07:202][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2025.02.03-09.03.07:202][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2025.02.03-09.03.07:203][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2025.02.03-09.03.07:203][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2025.02.03-09.03.07:203][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2025.02.03-09.03.07:203][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2025.02.03-09.03.07:203][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [G:/CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Saved/Config/Windows/Scalability.ini]
+[2025.02.03-09.03.07:203][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2025.02.03-09.03.07:203][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2025.02.03-09.03.07:203][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2025.02.03-09.03.07:203][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2025.02.03-09.03.07:203][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2025.02.03-09.03.07:203][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2025.02.03-09.03.07:203][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2025.02.03-09.03.07:203][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2025.02.03-09.03.07:203][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2025.02.03-09.03.07:203][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2025.02.03-09.03.07:203][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2025.02.03-09.03.07:203][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2025.02.03-09.03.07:203][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2025.02.03-09.03.07:203][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2025.02.03-09.03.07:203][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2025.02.03-09.03.07:203][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2025.02.03-09.03.07:203][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2025.02.03-09.03.07:203][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2025.02.03-09.03.07:203][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2025.02.03-09.03.07:203][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2025.02.03-09.03.07:203][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2025.02.03-09.03.07:203][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2025.02.03-09.03.07:203][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2025.02.03-09.03.07:203][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2025.02.03-09.03.07:203][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2025.02.03-09.03.07:203][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2025.02.03-09.03.07:203][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2025.02.03-09.03.07:203][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2025.02.03-09.03.07:203][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [G:/CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Saved/Config/Windows/Scalability.ini]
+[2025.02.03-09.03.07:203][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2025.02.03-09.03.07:203][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2025.02.03-09.03.07:203][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [G:/CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Saved/Config/Windows/Scalability.ini]
+[2025.02.03-09.03.07:203][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2025.02.03-09.03.07:203][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2025.02.03-09.03.07:203][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2025.02.03-09.03.07:203][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2025.02.03-09.03.07:203][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2025.02.03-09.03.07:203][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2025.02.03-09.03.07:203][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2025.02.03-09.03.07:203][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [G:/CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Saved/Config/Windows/Engine.ini]
+[2025.02.03-09.03.07:203][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [G:/CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Saved/Config/Windows/Editor.ini]
+[2025.02.03-09.03.07:203][  0]LogInit: Computer: DESKTOP-JRLUCO1
+[2025.02.03-09.03.07:203][  0]LogInit: User: hdsiz
+[2025.02.03-09.03.07:203][  0]LogInit: CPU Page size=4096, Cores=8
+[2025.02.03-09.03.07:203][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2025.02.03-09.03.07:203][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2025.02.03-09.03.07:203][  0]LogMemory: Platform Memory Stats for Windows
+[2025.02.03-09.03.07:203][  0]LogMemory: Process Physical Memory: 146.41 MB used, 146.42 MB peak
+[2025.02.03-09.03.07:203][  0]LogMemory: Process Virtual Memory: 129.26 MB used, 129.26 MB peak
+[2025.02.03-09.03.07:203][  0]LogMemory: Physical Memory: 17160.05 MB used,  15537.27 MB free, 32697.32 MB total
+[2025.02.03-09.03.07:203][  0]LogMemory: Virtual Memory: 134188336.00 MB used,  29395.73 MB free, 134217728.00 MB total
+[2025.02.03-09.03.07:208][  0]LogWindows: WindowsPlatformFeatures enabled
+[2025.02.03-09.03.07:245][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2025.02.03-09.03.07:246][  0]LogInit: Using OS detected language (en-US).
+[2025.02.03-09.03.07:246][  0]LogInit: Using OS detected locale (en-US).
+[2025.02.03-09.03.07:248][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2025.02.03-09.03.07:408][  0]LogInit: Setting process to per monitor DPI aware
+[2025.02.03-09.03.07:424][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2025.02.03-09.03.07:440][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2025.02.03-09.03.07:440][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2025.02.03-09.03.07:556][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2025.02.03-09.03.07:560][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2025.02.03-09.03.07:560][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2025.02.03-09.03.07:560][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2025.02.03-09.03.07:560][  0]LogD3D11RHI: D3D11 adapters:
+[2025.02.03-09.03.07:741][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2080 Ti' (Feature Level 11_0)
+[2025.02.03-09.03.07:741][  0]LogD3D11RHI:       11027/0/16348 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2025.02.03-09.03.07:895][  0]LogD3D11RHI:    1. 'NVIDIA GeForce RTX 2070' (Feature Level 11_0)
+[2025.02.03-09.03.07:896][  0]LogD3D11RHI:       8006/0/16348 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2025.02.03-09.03.07:897][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2025.02.03-09.03.07:897][  0]LogD3D11RHI:       0/0/16348 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2025.02.03-09.03.07:897][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2025.02.03-09.03.07:897][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 2080 Ti
+[2025.02.03-09.03.07:897][  0]LogD3D11RHI:     VendorId    : 10de
+[2025.02.03-09.03.07:898][  0]LogD3D11RHI:     DeviceId    : 1e04
+[2025.02.03-09.03.07:898][  0]LogD3D11RHI:     SubSysId    : 12ae10de
+[2025.02.03-09.03.07:898][  0]LogD3D11RHI:     Revision    : 00a1
+[2025.02.03-09.03.07:898][  0]LogD3D11RHI:     DedicatedVideoMemory : 11562647552 bytes
+[2025.02.03-09.03.07:898][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2025.02.03-09.03.07:898][  0]LogD3D11RHI:     SharedSystemMemory : 17142810624 bytes
+[2025.02.03-09.03.07:898][  0]LogD3D11RHI:     AdapterLuid : 0 77950
+[2025.02.03-09.03.07:906][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2025.02.03-09.03.07:906][  0]LogD3D11RHI:     GPU DeviceId: 0x1e04 (for the marketing name, search the web for "GPU Device Id")
+[2025.02.03-09.03.07:906][  0]LogWindows: EnumDisplayDevices:
+[2025.02.03-09.03.07:906][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2080 Ti' (P:1 D:1)
+[2025.02.03-09.03.07:906][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2080 Ti' (P:0 D:1)
+[2025.02.03-09.03.07:907][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2080 Ti' (P:0 D:0)
+[2025.02.03-09.03.07:907][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2080 Ti' (P:0 D:0)
+[2025.02.03-09.03.07:907][  0]LogWindows:    4. 'NVIDIA GeForce RTX 2070' (P:0 D:1)
+[2025.02.03-09.03.07:907][  0]LogWindows:    5. 'NVIDIA GeForce RTX 2070' (P:0 D:0)
+[2025.02.03-09.03.07:907][  0]LogWindows:    6. 'NVIDIA GeForce RTX 2070' (P:0 D:0)
+[2025.02.03-09.03.07:908][  0]LogWindows:    7. 'NVIDIA GeForce RTX 2070' (P:0 D:0)
+[2025.02.03-09.03.07:908][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2025.02.03-09.03.07:908][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2080 Ti
+[2025.02.03-09.03.07:908][  0]LogD3D11RHI:   Driver Version: 566.14 (internal:32.0.15.6614, unified:566.14)
+[2025.02.03-09.03.07:908][  0]LogD3D11RHI:      Driver Date: 11-6-2024
+[2025.02.03-09.03.07:908][  0]LogRHI: Texture pool is 7718 MB (70% of 11027 MB)
+[2025.02.03-09.03.07:908][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2025.02.03-09.03.07:908][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 2080 Ti
+[2025.02.03-09.03.07:908][  0]LogD3D11RHI:     VendorId    : 10de
+[2025.02.03-09.03.07:908][  0]LogD3D11RHI:     DeviceId    : 1e04
+[2025.02.03-09.03.07:908][  0]LogD3D11RHI:     SubSysId    : 12ae10de
+[2025.02.03-09.03.07:908][  0]LogD3D11RHI:     Revision    : 00a1
+[2025.02.03-09.03.07:908][  0]LogD3D11RHI:     DedicatedVideoMemory : 11562647552 bytes
+[2025.02.03-09.03.07:908][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2025.02.03-09.03.07:908][  0]LogD3D11RHI:     SharedSystemMemory : 17142810624 bytes
+[2025.02.03-09.03.07:908][  0]LogD3D11RHI:     AdapterLuid : 0 77950
+[2025.02.03-09.03.08:019][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2025.02.03-09.03.08:019][  0]LogD3D11RHI: Async texture creation enabled
+[2025.02.03-09.03.08:019][  0]LogD3D11RHI: Array index from any shader is supported
+[2025.02.03-09.03.08:021][  0]LogD3D11RHI: HDR output is supported on display 0 (NvId: 0x80061083).
+[2025.02.03-09.03.08:048][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2025.02.03-09.03.08:089][  0]LogRHI: GeForceNow SDK initialized: 1
+[2025.02.03-09.03.08:339][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2025.02.03-09.03.08:356][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2025.02.03-09.03.08:356][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2025.02.03-09.03.08:356][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2025.02.03-09.03.08:356][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2025.02.03-09.03.08:356][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2025.02.03-09.03.08:356][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2025.02.03-09.03.08:356][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2025.02.03-09.03.08:356][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2025.02.03-09.03.08:356][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2025.02.03-09.03.08:356][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2025.02.03-09.03.08:369][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2025.02.03-09.03.08:369][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2025.02.03-09.03.08:377][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2025.02.03-09.03.08:380][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2025.02.03-09.03.08:383][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2025.02.03-09.03.08:386][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2025.02.03-09.03.08:393][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2025.02.03-09.03.08:396][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2025.02.03-09.03.08:399][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2025.02.03-09.03.08:416][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2025.02.03-09.03.08:416][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2025.02.03-09.03.08:422][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2025.02.03-09.03.08:426][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2025.02.03-09.03.08:429][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2025.02.03-09.03.08:432][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2025.02.03-09.03.08:440][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2025.02.03-09.03.08:440][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2025.02.03-09.03.08:446][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2025.02.03-09.03.08:449][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2025.02.03-09.03.08:452][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2025.02.03-09.03.08:456][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2025.02.03-09.03.08:456][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2025.02.03-09.03.08:461][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2025.02.03-09.03.08:480][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2025.02.03-09.03.08:503][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2025.02.03-09.03.08:503][  0]LogShaderCompilers: Guid format shader working directory is -35 characters bigger than the processId version (../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Intermediate/Shaders/WorkingDirectory/37748/).
+[2025.02.03-09.03.08:503][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/hdsiz/AppData/Local/Temp/UnrealShaderWorkingDir/3195ADCA44AF6A429504BEA021678209/'.
+[2025.02.03-09.03.08:503][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2025.02.03-09.03.08:503][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2025.02.03-09.03.08:503][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2025.02.03-09.03.09:115][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2025.02.03-09.03.09:167][  0]LogDerivedDataCache: Loaded boot cache 0.05s 94MB C:/Users/hdsiz/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2025.02.03-09.03.09:167][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/hdsiz/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2025.02.03-09.03.09:167][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2025.02.03-09.03.09:167][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2025.02.03-09.03.09:167][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2025.02.03-09.03.09:167][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2025.02.03-09.03.09:181][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2025.02.03-09.03.09:181][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2025.02.03-09.03.09:181][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2025.02.03-09.03.09:186][  0]LogDerivedDataCache: Speed tests for C:/Users/hdsiz/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2025.02.03-09.03.09:186][  0]LogDerivedDataCache: Display: Performance to C:/Users/hdsiz/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.02ms. RandomReadSpeed=1411.40MBs, RandomWriteSpeed=219.72MBs. Assigned SpeedClass 'Local'
+[2025.02.03-09.03.09:187][  0]LogDerivedDataCache: Using Local data cache path C:/Users/hdsiz/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2025.02.03-09.03.09:187][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2025.02.03-09.03.09:187][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2025.02.03-09.03.09:227][  0]LogSlate: Using FreeType 2.10.0
+[2025.02.03-09.03.09:227][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2025.02.03-09.03.09:246][  0]LogAssetRegistry: FAssetRegistry took 0.0022 seconds to start up
+[2025.02.03-09.03.09:457][  0]LogInit: Selected Device Profile: [Windows]
+[2025.02.03-09.03.09:457][  0]LogInit: Active device profile: [0000029F1E799100][0000029F1D0B09C0 49] Windows
+[2025.02.03-09.03.09:457][  0]LogInit: Profiles: [0000029F1E799100][0000029F1D0B09C0 49] Windows, [0000029F1E6EAD00][0000029F1D0A8B00 49] WindowsNoEditor, [0000029F1E79A200][0000029F1D0BEC40 49] WindowsServer, [0000029F1E6E9F00][0000029F1D0C6D80 49] WindowsClient, [0000029F1E799700][0000029F053F4F00 49] IOS, [0000029F1E6EAF00][0000029F053FF080 49] iPadAir, [0000029F1E79BC00][0000029F0541B200 49] iPadAir2, [0000029F1E425400][0000029F18DE34C0 49] IPadPro, [0000029F1E425500][0000029F1CFB7500 49] iPadAir3, [0000029F1E6E9A00][0000029F18DED680 49] iPadAir4, [0000029F1E426300][0000029F18DF1800 49] iPadMini2, [0000029F1E6EB700][0000029F18DF5980 49] iPadMini3, [0000029F1E426F00][0000029F18DF9B00 49] iPadMini4, [0000029F1E6EA400][0000029F18DFC100 49] iPadMini5, [0000029F1E445000][0000029F1A9E43C0 49] iPhone6, [0000029F1E445100][0000029F18E00400 49] iPodTouch6, [0000029F1E79B900][0000029F1A9EC6C0 49] iPhone7, [0000029F1E79A900][0000029F1A9E8700 49] iPodTouch7, [0000029F1E425000][0000029F1A9F0880 49] iPhone5S, [0000029F1E79AF00][0000029F1A9F4A00 49] iPhone6Plus, [0000029F1E427600][0000029F1D0CAB40 49] iPhone6S, [0000029F1E798C00][0000029F1A9F8C80 49] iPhone6SPlus, [0000029F1E799D00][0000029F1A9FCDC0 49] iPhone7Plus, [0000029F1E444800][0000029F1AA00F00 49] iPhoneSE, [0000029F1E798400][0000029F1AA09080 49] iPhone8, [0000029F1E444900][0000029F1AA0D200 49] iPhone8Plus, [0000029F1E446E00][0000029F1AA11380 49] iPhoneX, [0000029F1E425D00][0000029F1AA15500 49] iPhoneXS, [0000029F1E446700][0000029F1AA19680 49] iPhoneXSMax, [0000029F1E425C00][0000029F1AA1D800 49] iPhoneXR, [0000029F1E446800][0000029F1AA21980 49] iPhone11, [0000029F1E424F00][0000029F1AA25B00 49] iPhone11Pro, [0000029F1E444B00][0000029F1AA28100 49] iPhone11ProMax, [0000029F1E424D00][0000029F1AA2C280 49] iPhoneSE2, [0000029F1E444E00][0000029F1D69A400 49] iPhone12Mini, [0000029F1E79B800][0000029F1D69E580 49] iPhone12, [0000029F1E447000][0000029F1D6A2700 49] iPhone12Pro, [0000029F1E79B700][0000029F1D6A6880 49] iPhone12ProMax, [0000029F1E445E00][0000029F1D6AAA00 49] iPadPro105, [0000029F1E799300][0000029F1D6AEB80 49] iPadPro129, [0000029F1E447E00][0000029F1D6B2D00 49] iPadPro97, [0000029F1E799C00][0000029F1AA04E40 49] iPadPro2_129, [0000029F1E446000][0000029F1D6B6F80 49] iPad5, [0000029F1E79A300][0000029F1D6BB0C0 49] iPad6, [0000029F1E447B00][0000029F1D6C3240 49] iPad7, [0000029F1E799E00][0000029F1D6C73C0 49] iPad8, [0000029F1E444A00][0000029F1D6CB540 49] iPadPro11, [0000029F1E79A600][0000029F1D6CF6C0 49] iPadPro2_11, [0000029F1E444F00][0000029F1D6D3840 49] iPadPro3_129, [0000029F1E79A800][0000029F1D6D79C0 49] iPadPro4_129, [0000029F1E447C00][0000029F1D6DBB40 49] AppleTV, [0000029F1E799A00][0000029F1D6DE140 49] AppleTV4K, [0000029F1E446600][0000029F1D6E22C0 49] TVOS, [0000029F1E79A100][0000029F1D6E6440 49] Mac, [0000029F1E446F00][0000029F1D6EA5C0 49] MacClient, [0000029F1E79AA00][0000029F1D6EE740 49] MacNoEditor, [0000029F1E446C00][0000029F1D6F28C0 49] MacServer, [0000029F1E79B000][0000029F1D6F6A40 49] Linux, [0000029F1E444400][0000029F1D6FABC0 49] LinuxAArch64, [0000029F1E798700][0000029F1D6FED40 49] LinuxNoEditor, [0000029F1E447700][0000029F1D702EC0 49] LinuxAArch64NoEditor, [0000029F1E79BB00][0000029F1D6BF000 49] LinuxClient, [0000029F1E447400][0000029F1D707140 49] LinuxAArch64Client, [0000029F1E79BE00][0000029F1D70B280 49] LinuxServer, [0000029F1E444700][0000029F1DE0B3C0 49] LinuxAArch64Server, [0000029F1E799F00][0000029F1DE13540 49] Android, [0000029F1E446A00][0000029F1DE176C0 49] Android_Low, [0000029F1E79AD00][0000029F1DE1B840 49] Android_Mid, [0000029F1E445F00][0000029F1DE1F9C0 49] Android_High, [0000029F1E79AB00][0000029F1DE23B40 49] Android_Default, [0000029F1E444100][0000029F1DE26140 49] Android_Adreno4xx, [0000029F1E798500][0000029F1DE2A2C0 49] Android_Adreno5xx_Low, [0000029F1E445400][0000029F1DE2E440 49] Android_Adreno5xx, [0000029F1E79B400][0000029F1DE325C0 49] Android_Adreno6xx, [0000029F1E446300][0000029F1DE36740 49] Android_Adreno6xx_Vulkan, [0000029F1E79BD00][0000029F1DE3A8C0 49] Android_Mali_T6xx, [0000029F1E444200][0000029F1DE3EA40 49] Android_Mali_T7xx, [0000029F1E79B600][0000029F1DE42BC0 49] Android_Mali_T8xx, [0000029F1E447200][0000029F1DE46D40 49] Android_Mali_G71, [0000029F1E427100][0000029F1DE4AEC0 49] Android_Mali_G72, [0000029F1E6EB500][0000029F1DE4F040 49] Android_Mali_G72_Vulkan, [0000029F1E426B00][0000029F1DE0F180 49] Android_Mali_G76, [0000029F1E6E8500][0000029F1DE532C0 49] Android_Mali_G76_Vulkan, [0000029F1E424C00][0000029F1DE57400 49] Android_Mali_G77, [0000029F1E6E8600][0000029F1DE5B540 49] Android_Mali_G77_Vulkan, [0000029F1E426400][0000029F1DE63700 49] Android_Mali_G78, [0000029F1E6E8D00][0000029F1DE67880 49] Android_Mali_G78_Vulkan, [0000029F1E427D00][0000029F1DE6BA00 49] Android_Mali_G710, [0000029F1E6EB100][0000029F1DE6FB80 49] Android_Mali_G710_Vulkan, [0000029F1E426A00][0000029F1DE72180 49] Android_Vulkan_SM5, [0000029F1E6EA000][0000029F1DE76300 49] Android_PowerVR_G6xxx, [0000029F1E424500][0000029F1DE7A480 49] Android_PowerVR_GT7xxx, [0000029F1E6E8200][0000029F1DE7E600 49] Android_PowerVR_GE8xxx, [0000029F1E427B00][0000029F1DE82780 49] Android_PowerVR_GM9xxx, [0000029F1E6EA700][0000029F1D7FE900 49] Android_PowerVR_GM9xxx_Vulkan, [0000029F1E425F00][0000029F1D802A80 49] Android_TegraK1, [0000029F1E6E8A00][0000029F1D806C00 49] Android_Unknown_Vulkan, [0000029F1E427900][0000029F1D80AD80 49] Lumin, [0000029F1E6E9100][0000029F1D80EF00 49] Lumin_Desktop, [0000029F1E426000][0000029F1D813080 49] HoloLens, 
+[2025.02.03-09.03.09:555][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2025.02.03-09.03.09:555][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2025.02.03-09.03.09:555][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2025.02.03-09.03.09:555][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2025.02.03-09.03.09:555][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2025.02.03-09.03.09:570][  0]LogNetVersion: Vertigo_Protocol 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 1914338960)
+[2025.02.03-09.03.09:869][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2025.02.03-09.03.09:918][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2025.02.03-09.03.09:923][  0]LogUObjectArray: 17178 objects as part of root set at end of initial load.
+[2025.02.03-09.03.09:923][  0]LogUObjectAllocator: 4302048 out of 0 bytes used by permanent object pool.
+[2025.02.03-09.03.09:923][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2025.02.03-09.03.10:124][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: DC7FB6DB46301394666B2CBA1A616E2F | Instance: 24CC494045B49B1E4B212AB08635EAF9 (DESKTOP-JRLUCO1-37748).
+[2025.02.03-09.03.10:149][  0]LogPython: Using Python 3.7.7
+[2025.02.03-09.03.10:640][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2025.02.03-09.03.10:653][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2025.02.03-09.03.10:704][  0]LogLinker: Warning: Failed to load '/Game/VehicleCPP/VehicleOverview': Can't find file.
+[2025.02.03-09.03.10:704][  0]LogLinker: Warning: Failed to load '/Game/VehicleCPP/VehicleOverview': Can't find file.
+[2025.02.03-09.03.10:704][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/VehicleCPP/VehicleOverview.VehicleOverview_C'
+[2025.02.03-09.03.10:773][  0]SourceControl: Source control is disabled
+[2025.02.03-09.03.10:774][  0]SourceControl: Source control is disabled
+[2025.02.03-09.03.10:776][  0]SourceControl: Source control is disabled
+[2025.02.03-09.03.10:782][  0]SourceControl: Source control is disabled
+[2025.02.03-09.03.10:824][  0]SourceControl: Source control is disabled
+[2025.02.03-09.03.10:829][  0]LogUProjectInfo: Found projects:
+[2025.02.03-09.03.10:927][  0]LogOpenImageDenoise: OIDN starting up
+[2025.02.03-09.03.10:956][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2025.02.03-09.03.10:973][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2025.02.03-09.03.10:973][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2025.02.03-09.03.11:074][  0]LogCollectionManager: Loaded 0 collections in 0.000539 seconds
+[2025.02.03-09.03.11:091][  0]LogFileCache: Scanning file cache for directory 'G:/CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Saved/Collections/' took 0.00s
+[2025.02.03-09.03.11:091][  0]LogFileCache: Scanning file cache for directory 'G:/CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/Developers/hdsiz/Collections/' took 0.00s
+[2025.02.03-09.03.11:091][  0]LogFileCache: Scanning file cache for directory 'G:/CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/Collections/' took 0.00s
+[2025.02.03-09.03.11:091][  0]LogOcInput: OculusInput pre-init called
+[2025.02.03-09.03.11:274][  0]LogEngine: Initializing Engine...
+[2025.02.03-09.03.11:276][  0]LogHMD: Failed to enumerate extensions. Please check that you have a valid OpenXR runtime installed.
+[2025.02.03-09.03.11:276][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2025.02.03-09.03.11:276][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2025.02.03-09.03.11:277][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2025.02.03-09.03.11:372][  0]LogInit: Initializing FReadOnlyCVARCache
+[2025.02.03-09.03.11:379][  0]LogAIModule: Creating AISystem for world Untitled
+[2025.02.03-09.03.11:392][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2025.02.03-09.03.11:395][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2025.02.03-09.03.11:395][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2025.02.03-09.03.11:395][  0]LogAudio: Display: Audio Device Manager Initialized
+[2025.02.03-09.03.11:396][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2025.02.03-09.03.11:396][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.02.03-09.03.11:396][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.02.03-09.03.11:396][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.02.03-09.03.11:396][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.02.03-09.03.11:396][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.02.03-09.03.11:396][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.02.03-09.03.11:396][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.02.03-09.03.11:396][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.02.03-09.03.11:396][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.02.03-09.03.11:396][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.02.03-09.03.11:396][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.02.03-09.03.11:396][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2025.02.03-09.03.11:418][  0]LogAudioMixer: Display: 0: FrontLeft
+[2025.02.03-09.03.11:418][  0]LogAudioMixer: Display: 1: FrontRight
+[2025.02.03-09.03.11:443][  0]LogAudioMixer: Display: Using Audio Device Headphones (Realtek(R) Audio)
+[2025.02.03-09.03.11:445][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.02.03-09.03.11:447][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.02.03-09.03.11:447][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.02.03-09.03.11:448][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2025.02.03-09.03.11:448][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2025.02.03-09.03.11:448][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2025.02.03-09.03.11:449][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2025.02.03-09.03.11:449][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2025.02.03-09.03.11:449][  0]LogInit: FAudioDevice initialized.
+[2025.02.03-09.03.11:449][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2025.02.03-09.03.11:449][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2025.02.03-09.03.11:489][  0]LogDerivedDataCache: Saved boot cache 0.04s 94MB C:/Users/hdsiz/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2025.02.03-09.03.11:493][  0]LogInit: Texture streaming: Enabled
+[2025.02.03-09.03.11:502][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.27.2-18319896+++UE4+Release-4.27
+[2025.02.03-09.03.11:505][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2025.02.03-09.03.11:505][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2025.02.03-09.03.11:507][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2025.02.03-09.03.11:523][  0]LogInit: Transaction tracking system initialized
+[2025.02.03-09.03.11:538][  0]BlueprintLog: New page: Editor Load
+[2025.02.03-09.03.11:579][  0]LocalizationService: Localization service is disabled
+[2025.02.03-09.03.11:594][  0]TimingProfiler: Initialize
+[2025.02.03-09.03.11:594][  0]TimingProfiler: OnSessionChanged
+[2025.02.03-09.03.11:594][  0]LoadingProfiler: Initialize
+[2025.02.03-09.03.11:594][  0]LoadingProfiler: OnSessionChanged
+[2025.02.03-09.03.11:594][  0]NetworkingProfiler: Initialize
+[2025.02.03-09.03.11:594][  0]NetworkingProfiler: OnSessionChanged
+[2025.02.03-09.03.11:594][  0]MemoryProfiler: Initialize
+[2025.02.03-09.03.11:594][  0]MemoryProfiler: OnSessionChanged
+[2025.02.03-09.03.11:707][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2025.02.03-09.03.11:707][  0]LogCook: Display: Mobile HDR setting 1
+[2025.02.03-09.03.11:836][  0]LogFileCache: Scanning file cache for directory 'G:/CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/' took 0.00s
+[2025.02.03-09.03.11:976][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2025.02.03-09.03.11:979][  0]SourceControl: Source control is disabled
+[2025.02.03-09.03.11:979][  0]LogUnrealEdMisc: Loading editor; pre map load, took 5.811
+[2025.02.03-09.03.11:980][  0]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 G:/unreal engine 5.1/UE_4.27/FeaturePacks/StarterContent.upack)
+[2025.02.03-09.03.11:980][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2025.02.03-09.03.11:980][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2025.02.03-09.03.11:980][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2025.02.03-09.03.11:981][  0]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2025.02.03-09.03.11:982][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2025.02.03-09.03.11:982][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2025.02.03-09.03.11:982][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2025.02.03-09.03.11:983][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2025.02.03-09.03.11:983][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2025.02.03-09.03.11:983][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2025.02.03-09.03.11:983][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2025.02.03-09.03.11:984][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2025.02.03-09.03.11:984][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2025.02.03-09.03.11:984][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2025.02.03-09.03.11:985][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2025.02.03-09.03.11:985][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Audio/Collapse01.uasset"
+[2025.02.03-09.03.11:986][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Audio/Collapse02.uasset"
+[2025.02.03-09.03.11:986][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2025.02.03-09.03.11:987][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Audio/Explosion01.uasset"
+[2025.02.03-09.03.11:990][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Audio/Explosion02.uasset"
+[2025.02.03-09.03.11:990][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2025.02.03-09.03.11:991][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Audio/Fire01.uasset"
+[2025.02.03-09.03.11:991][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Audio/Fire01_Cue.uasset"
+[2025.02.03-09.03.11:992][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2025.02.03-09.03.11:993][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2025.02.03-09.03.11:993][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Audio/Light01.uasset"
+[2025.02.03-09.03.11:994][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2025.02.03-09.03.11:994][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Audio/Light02.uasset"
+[2025.02.03-09.03.11:994][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2025.02.03-09.03.11:995][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Audio/Smoke01.uasset"
+[2025.02.03-09.03.11:995][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2025.02.03-09.03.11:996][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
+[2025.02.03-09.03.11:999][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2025.02.03-09.03.12:004][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2025.02.03-09.03.12:004][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2025.02.03-09.03.12:006][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2025.02.03-09.03.12:007][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Audio/Starter_Wind06.uasset"
+[2025.02.03-09.03.12:008][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Audio/Steam01.uasset"
+[2025.02.03-09.03.12:008][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Audio/Steam01_Cue.uasset"
+[2025.02.03-09.03.12:009][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2025.02.03-09.03.12:009][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2025.02.03-09.03.12:009][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2025.02.03-09.03.12:010][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2025.02.03-09.03.12:010][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2025.02.03-09.03.12:010][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
+[2025.02.03-09.03.12:011][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2025.02.03-09.03.12:011][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2025.02.03-09.03.12:012][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2025.02.03-09.03.12:012][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2025.02.03-09.03.12:013][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
+[2025.02.03-09.03.12:013][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2025.02.03-09.03.12:014][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2025.02.03-09.03.12:015][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2025.02.03-09.03.12:016][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2025.02.03-09.03.12:016][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
+[2025.02.03-09.03.12:055][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+[2025.02.03-09.03.12:056][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Maps/Advanced_Lighting.umap"
+[2025.02.03-09.03.12:057][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+[2025.02.03-09.03.12:057][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Maps/Minimal_Default.umap"
+[2025.02.03-09.03.12:060][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset"
+[2025.02.03-09.03.12:061][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Maps/StarterMap.umap"
+[2025.02.03-09.03.12:073][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
+[2025.02.03-09.03.12:073][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+[2025.02.03-09.03.12:073][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+[2025.02.03-09.03.12:074][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+[2025.02.03-09.03.12:074][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2025.02.03-09.03.12:074][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+[2025.02.03-09.03.12:075][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2025.02.03-09.03.12:075][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2025.02.03-09.03.12:075][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2025.02.03-09.03.12:076][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2025.02.03-09.03.12:076][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2025.02.03-09.03.12:076][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2025.02.03-09.03.12:077][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2025.02.03-09.03.12:078][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+[2025.02.03-09.03.12:078][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2025.02.03-09.03.12:079][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+[2025.02.03-09.03.12:079][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+[2025.02.03-09.03.12:079][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+[2025.02.03-09.03.12:080][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Materials/M_Glass.uasset"
+[2025.02.03-09.03.12:081][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+[2025.02.03-09.03.12:082][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+[2025.02.03-09.03.12:082][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+[2025.02.03-09.03.12:083][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2025.02.03-09.03.12:083][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2025.02.03-09.03.12:084][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+[2025.02.03-09.03.12:084][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+[2025.02.03-09.03.12:085][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+[2025.02.03-09.03.12:085][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2025.02.03-09.03.12:086][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+[2025.02.03-09.03.12:086][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+[2025.02.03-09.03.12:087][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2025.02.03-09.03.12:087][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+[2025.02.03-09.03.12:088][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+[2025.02.03-09.03.12:088][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2025.02.03-09.03.12:089][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2025.02.03-09.03.12:089][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2025.02.03-09.03.12:090][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2025.02.03-09.03.12:090][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Materials/M_Water_Lake.uasset"
+[2025.02.03-09.03.12:091][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2025.02.03-09.03.12:091][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2025.02.03-09.03.12:092][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2025.02.03-09.03.12:093][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2025.02.03-09.03.12:093][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+[2025.02.03-09.03.12:094][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2025.02.03-09.03.12:094][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+[2025.02.03-09.03.12:094][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Particles/P_Explosion.uasset"
+[2025.02.03-09.03.12:095][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Particles/P_Fire.uasset"
+[2025.02.03-09.03.12:095][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Particles/P_Smoke.uasset"
+[2025.02.03-09.03.12:096][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Particles/P_Sparks.uasset"
+[2025.02.03-09.03.12:096][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Particles/P_Steam_Lit.uasset"
+[2025.02.03-09.03.12:097][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+[2025.02.03-09.03.12:097][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2025.02.03-09.03.12:097][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2025.02.03-09.03.12:098][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2025.02.03-09.03.12:098][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2025.02.03-09.03.12:099][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+[2025.02.03-09.03.12:099][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2025.02.03-09.03.12:099][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2025.02.03-09.03.12:100][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2025.02.03-09.03.12:100][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2025.02.03-09.03.12:101][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Props/MaterialSphere.uasset"
+[2025.02.03-09.03.12:101][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Props/SM_Bush.uasset"
+[2025.02.03-09.03.12:102][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Props/SM_Chair.uasset"
+[2025.02.03-09.03.12:102][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Props/SM_CornerFrame.uasset"
+[2025.02.03-09.03.12:103][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Props/SM_Couch.uasset"
+[2025.02.03-09.03.12:103][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Props/SM_Door.uasset"
+[2025.02.03-09.03.12:104][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2025.02.03-09.03.12:104][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Props/SM_GlassWindow.uasset"
+[2025.02.03-09.03.12:107][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2025.02.03-09.03.12:107][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2025.02.03-09.03.12:113][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset"
+[2025.02.03-09.03.12:113][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Props/SM_PillarFrame.uasset"
+[2025.02.03-09.03.12:114][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Props/SM_PillarFrame300.uasset"
+[2025.02.03-09.03.12:114][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Props/SM_Rock.uasset"
+[2025.02.03-09.03.12:115][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Props/SM_Shelf.uasset"
+[2025.02.03-09.03.12:115][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Props/SM_Stairs.uasset"
+[2025.02.03-09.03.12:116][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Props/SM_Statue.uasset"
+[2025.02.03-09.03.12:117][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Props/SM_TableRound.uasset"
+[2025.02.03-09.03.12:117][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Props/SM_WindowFrame.uasset"
+[2025.02.03-09.03.12:118][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2025.02.03-09.03.12:118][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2025.02.03-09.03.12:119][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2025.02.03-09.03.12:119][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Props/Materials/M_Frame.uasset"
+[2025.02.03-09.03.12:120][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2025.02.03-09.03.12:120][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset"
+[2025.02.03-09.03.12:120][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+[2025.02.03-09.03.12:121][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2025.02.03-09.03.12:121][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2025.02.03-09.03.12:122][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Props/Materials/M_Statue.uasset"
+[2025.02.03-09.03.12:122][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2025.02.03-09.03.12:122][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2025.02.03-09.03.12:123][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Shapes/Shape_Cone.uasset"
+[2025.02.03-09.03.12:123][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Shapes/Shape_Cube.uasset"
+[2025.02.03-09.03.12:124][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
+[2025.02.03-09.03.12:124][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2025.02.03-09.03.12:126][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2025.02.03-09.03.12:128][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
+[2025.02.03-09.03.12:128][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
+[2025.02.03-09.03.12:129][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Shapes/Shape_Plane.uasset"
+[2025.02.03-09.03.12:129][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2025.02.03-09.03.12:130][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Shapes/Shape_Sphere.uasset"
+[2025.02.03-09.03.12:131][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2025.02.03-09.03.12:132][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Shapes/Shape_Trim.uasset"
+[2025.02.03-09.03.12:132][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2025.02.03-09.03.12:133][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2025.02.03-09.03.12:133][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2025.02.03-09.03.12:134][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Shapes/Shape_Tube.uasset"
+[2025.02.03-09.03.12:134][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
+[2025.02.03-09.03.12:134][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
+[2025.02.03-09.03.12:135][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+[2025.02.03-09.03.12:142][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2025.02.03-09.03.12:146][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2025.02.03-09.03.12:150][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2025.02.03-09.03.12:154][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2025.02.03-09.03.12:159][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2025.02.03-09.03.12:163][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2025.02.03-09.03.12:169][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2025.02.03-09.03.12:173][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2025.02.03-09.03.12:180][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2025.02.03-09.03.12:183][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2025.02.03-09.03.12:187][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2025.02.03-09.03.12:190][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2025.02.03-09.03.12:195][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2025.02.03-09.03.12:195][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2025.02.03-09.03.12:196][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2025.02.03-09.03.12:196][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Textures/T_Bush_N.uasset"
+[2025.02.03-09.03.12:196][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2025.02.03-09.03.12:197][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2025.02.03-09.03.12:197][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Textures/T_Chair_M.uasset"
+[2025.02.03-09.03.12:200][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Textures/T_Chair_N.uasset"
+[2025.02.03-09.03.12:200][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
+[2025.02.03-09.03.12:207][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2025.02.03-09.03.12:207][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2025.02.03-09.03.12:213][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2025.02.03-09.03.12:215][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2025.02.03-09.03.12:217][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2025.02.03-09.03.12:220][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2025.02.03-09.03.12:223][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2025.02.03-09.03.12:227][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2025.02.03-09.03.12:232][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2025.02.03-09.03.12:237][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2025.02.03-09.03.12:240][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2025.02.03-09.03.12:247][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2025.02.03-09.03.12:250][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2025.02.03-09.03.12:253][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2025.02.03-09.03.12:255][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2025.02.03-09.03.12:259][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2025.02.03-09.03.12:259][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2025.02.03-09.03.12:261][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2025.02.03-09.03.12:261][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Textures/T_Door_M.uasset"
+[2025.02.03-09.03.12:262][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Textures/T_Door_N.uasset"
+[2025.02.03-09.03.12:263][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Textures/T_Dust_Particle_D.uasset"
+[2025.02.03-09.03.12:265][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Textures/T_Explosion_SubUV.uasset"
+[2025.02.03-09.03.12:266][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Textures/T_Fire_SubUV.uasset"
+[2025.02.03-09.03.12:266][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2025.02.03-09.03.12:268][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Textures/T_Frame_M.uasset"
+[2025.02.03-09.03.12:269][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Textures/T_Frame_N.uasset"
+[2025.02.03-09.03.12:270][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2025.02.03-09.03.12:276][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Textures/T_Ground_Grass_D.uasset"
+[2025.02.03-09.03.12:282][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
+[2025.02.03-09.03.12:287][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2025.02.03-09.03.12:291][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2025.02.03-09.03.12:299][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Textures/T_ground_Moss_D.uasset"
+[2025.02.03-09.03.12:304][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2025.02.03-09.03.12:305][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Textures/T_Lamp_M.uasset"
+[2025.02.03-09.03.12:306][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Textures/T_Lamp_N.uasset"
+[2025.02.03-09.03.12:313][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Textures/T_MacroVariation.uasset"
+[2025.02.03-09.03.12:318][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2025.02.03-09.03.12:323][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
+[2025.02.03-09.03.12:328][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Textures/T_Metal_Gold_D.uasset"
+[2025.02.03-09.03.12:329][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2025.02.03-09.03.12:334][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Textures/T_Metal_Rust_D.uasset"
+[2025.02.03-09.03.12:338][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
+[2025.02.03-09.03.12:340][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Textures/T_Metal_Steel_D.uasset"
+[2025.02.03-09.03.12:343][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
+[2025.02.03-09.03.12:347][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2025.02.03-09.03.12:348][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Textures/T_RockMesh_M.uasset"
+[2025.02.03-09.03.12:351][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Textures/T_RockMesh_N.uasset"
+[2025.02.03-09.03.12:355][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2025.02.03-09.03.12:359][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2025.02.03-09.03.12:362][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2025.02.03-09.03.12:366][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2025.02.03-09.03.12:370][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2025.02.03-09.03.12:376][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2025.02.03-09.03.12:380][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
+[2025.02.03-09.03.12:384][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2025.02.03-09.03.12:385][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2025.02.03-09.03.12:386][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Textures/T_Shelf_N.uasset"
+[2025.02.03-09.03.12:386][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2025.02.03-09.03.12:388][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Textures/T_Smoke_SubUV.uasset"
+[2025.02.03-09.03.12:389][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2025.02.03-09.03.12:389][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Textures/T_Spark_Core.uasset"
+[2025.02.03-09.03.12:389][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2025.02.03-09.03.12:390][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Textures/T_Statue_N.uasset"
+[2025.02.03-09.03.12:391][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2025.02.03-09.03.12:392][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2025.02.03-09.03.12:392][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2025.02.03-09.03.12:393][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Textures/T_Tech_Dot_N.uasset"
+[2025.02.03-09.03.12:393][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2025.02.03-09.03.12:394][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2025.02.03-09.03.12:395][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2025.02.03-09.03.12:397][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Textures/T_Tech_Panel_N.uasset"
+[2025.02.03-09.03.12:399][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Textures/T_Water_M.uasset"
+[2025.02.03-09.03.12:400][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Textures/T_Water_N.uasset"
+[2025.02.03-09.03.12:403][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2025.02.03-09.03.12:406][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2025.02.03-09.03.12:408][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2025.02.03-09.03.12:411][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
+[2025.02.03-09.03.12:414][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2025.02.03-09.03.12:418][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
+[2025.02.03-09.03.12:421][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2025.02.03-09.03.12:424][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2025.02.03-09.03.12:425][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2025.02.03-09.03.12:467][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 10 NumSamples 1 (Frame:1).
+[2025.02.03-09.03.12:521][  0]LogSavePackage: Moving '../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Saved/Floor_400x400506499FA4CE094E16DF8D9A8BF5F0144.tmp' to '../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/StarterContent/Architecture/Floor_400x400.uasset'
+[2025.02.03-09.03.12:522][  0]LogFeaturePack: Warning: Inserted 1 feature packs
+[2025.02.03-09.03.12:522][  0]Cmd: MAP LOAD FILE="../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/Static/StarterContent/Maps/MainMenuMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2025.02.03-09.03.12:522][  0]LightingResults: New page: Lighting Build
+[2025.02.03-09.03.12:523][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2025.02.03-09.03.12:523][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.03-09.03.12:523][  0]MapCheck: New page: Map Check
+[2025.02.03-09.03.12:523][  0]LightingResults: New page: Lighting Build
+[2025.02.03-09.03.12:527][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.02.03-09.03.12:530][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2025.02.03-09.03.12:565][  0]LogLinker: Warning: [AssetLog] G:\CS425_SeniorProject\MainProject\Vertigo_Protocol\Vertigo_Protocol\Content\Static\StarterContent\Maps\MainMenuMap.umap: Failed to load '/Game/Static/StarterContent/Maps/MainMenuMap_BuiltData': Can't find file.
+[2025.02.03-09.03.12:565][  0]LogLinker: Warning: [AssetLog] G:\CS425_SeniorProject\MainProject\Vertigo_Protocol\Vertigo_Protocol\Content\Static\StarterContent\Maps\MainMenuMap.umap: Failed to load '/Game/Static/StarterContent/Maps/MainMenuMap_BuiltData': Can't find file.
+[2025.02.03-09.03.12:756][  0]LogLinker: Warning: [AssetLog] G:\CS425_SeniorProject\MainProject\Vertigo_Protocol\Vertigo_Protocol\Content\Static\StarterContent\Maps\MainMenuMap.umap: Failed to load '/Game/Static/StarterContent/Maps/MainMenuMap_BuiltData': Can't find file.
+[2025.02.03-09.03.12:757][  0]LogLinker: Warning: Failed to load '/Game/Static/StarterContent/Maps/MainMenuMap_BuiltData': Can't find file.
+[2025.02.03-09.03.12:757][  0]LogLinker: Warning: Failed to load '/Game/Static/StarterContent/Maps/MainMenuMap_BuiltData': Can't find file.
+[2025.02.03-09.03.12:764][  0]LogLinker: Warning: [AssetLog] G:\CS425_SeniorProject\MainProject\Vertigo_Protocol\Vertigo_Protocol\Content\Static\StarterContent\Maps\MainMenuMap.umap: Failed to load '/Game/Static/StarterContent/Maps/MainMenuMap_BuiltData': Can't find file.
+[2025.02.03-09.03.12:764][  0]LoadErrors: Failed to load /Game/Static/StarterContent/Maps/MainMenuMap_BuiltData.MainMenuMap_BuiltData Referenced by PersistentLevel
+[2025.02.03-09.03.12:781][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenuMap'.
+[2025.02.03-09.03.12:781][  0]LogAIModule: Creating AISystem for world MainMenuMap
+[2025.02.03-09.03.12:784][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.02.03-09.03.12:792][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2025.02.03-09.03.12:792][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.02.03-09.03.12:792][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.096ms to complete.
+[2025.02.03-09.03.12:792][  0]LogFileHelpers: Loading map 'MainMenuMap' took 0.271
+[2025.02.03-09.03.12:794][  0]LogUnrealEdMisc: Total Editor Startup Time, took 6.627
+[2025.02.03-09.03.12:924][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0078 seconds. Added 3822 classes and 928 folders.
+[2025.02.03-09.03.12:926][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2025.02.03-09.03.12:926][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2025.02.03-09.03.12:926][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2025.02.03-09.03.12:926][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2025.02.03-09.03.12:926][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/unreal engine 5.1/UE_4.27/FeaturePacks/FP_FirstPerson.upack' (chunk index -1, root 'root:/') mounted
+[2025.02.03-09.03.12:926][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/unreal engine 5.1/UE_4.27/FeaturePacks/FP_FirstPerson.upack)
+[2025.02.03-09.03.12:926][  0]LogPakFile: OnPakFileMounted2Time == 0.000051
+[2025.02.03-09.03.12:927][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2025.02.03-09.03.12:927][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2025.02.03-09.03.12:927][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2025.02.03-09.03.12:927][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/unreal engine 5.1/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2025.02.03-09.03.12:927][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/unreal engine 5.1/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack)
+[2025.02.03-09.03.12:927][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2025.02.03-09.03.12:927][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2025.02.03-09.03.12:927][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2025.02.03-09.03.12:927][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2025.02.03-09.03.12:927][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/unreal engine 5.1/UE_4.27/FeaturePacks/MobileStarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2025.02.03-09.03.12:927][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/unreal engine 5.1/UE_4.27/FeaturePacks/MobileStarterContent.upack)
+[2025.02.03-09.03.12:927][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2025.02.03-09.03.12:929][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2025.02.03-09.03.12:929][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2025.02.03-09.03.12:929][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2025.02.03-09.03.12:929][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/unreal engine 5.1/UE_4.27/FeaturePacks/StarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2025.02.03-09.03.12:929][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/unreal engine 5.1/UE_4.27/FeaturePacks/StarterContent.upack)
+[2025.02.03-09.03.12:929][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2025.02.03-09.03.12:929][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2025.02.03-09.03.12:929][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2025.02.03-09.03.12:929][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2025.02.03-09.03.12:929][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/unreal engine 5.1/UE_4.27/FeaturePacks/TP_2DSideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2025.02.03-09.03.12:929][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/unreal engine 5.1/UE_4.27/FeaturePacks/TP_2DSideScroller.upack)
+[2025.02.03-09.03.12:929][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2025.02.03-09.03.12:930][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2025.02.03-09.03.12:930][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2025.02.03-09.03.12:930][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2025.02.03-09.03.12:930][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/unreal engine 5.1/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2025.02.03-09.03.12:930][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/unreal engine 5.1/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack)
+[2025.02.03-09.03.12:930][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2025.02.03-09.03.12:930][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2025.02.03-09.03.12:930][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2025.02.03-09.03.12:930][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2025.02.03-09.03.12:930][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/unreal engine 5.1/UE_4.27/FeaturePacks/TP_Flying.upack' (chunk index -1, root 'root:/') mounted
+[2025.02.03-09.03.12:930][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/unreal engine 5.1/UE_4.27/FeaturePacks/TP_Flying.upack)
+[2025.02.03-09.03.12:930][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2025.02.03-09.03.12:930][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2025.02.03-09.03.12:930][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2025.02.03-09.03.12:930][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2025.02.03-09.03.12:930][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/unreal engine 5.1/UE_4.27/FeaturePacks/TP_FlyingBP.upack' (chunk index -1, root 'root:/') mounted
+[2025.02.03-09.03.12:930][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/unreal engine 5.1/UE_4.27/FeaturePacks/TP_FlyingBP.upack)
+[2025.02.03-09.03.12:930][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2025.02.03-09.03.12:931][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2025.02.03-09.03.12:931][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2025.02.03-09.03.12:931][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2025.02.03-09.03.12:931][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/unreal engine 5.1/UE_4.27/FeaturePacks/TP_HandheldARBP.upack' (chunk index -1, root 'root:/') mounted
+[2025.02.03-09.03.12:931][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/unreal engine 5.1/UE_4.27/FeaturePacks/TP_HandheldARBP.upack)
+[2025.02.03-09.03.12:931][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2025.02.03-09.03.12:931][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2025.02.03-09.03.12:931][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2025.02.03-09.03.12:931][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2025.02.03-09.03.12:931][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/unreal engine 5.1/UE_4.27/FeaturePacks/TP_Puzzle.upack' (chunk index -1, root 'root:/') mounted
+[2025.02.03-09.03.12:931][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/unreal engine 5.1/UE_4.27/FeaturePacks/TP_Puzzle.upack)
+[2025.02.03-09.03.12:931][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2025.02.03-09.03.12:932][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2025.02.03-09.03.12:932][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2025.02.03-09.03.12:932][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2025.02.03-09.03.12:932][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/unreal engine 5.1/UE_4.27/FeaturePacks/TP_PuzzleBP.upack' (chunk index -1, root 'root:/') mounted
+[2025.02.03-09.03.12:932][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/unreal engine 5.1/UE_4.27/FeaturePacks/TP_PuzzleBP.upack)
+[2025.02.03-09.03.12:932][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2025.02.03-09.03.12:932][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2025.02.03-09.03.12:932][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2025.02.03-09.03.12:932][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2025.02.03-09.03.12:932][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/unreal engine 5.1/UE_4.27/FeaturePacks/TP_Rolling.upack' (chunk index -1, root 'root:/') mounted
+[2025.02.03-09.03.12:932][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/unreal engine 5.1/UE_4.27/FeaturePacks/TP_Rolling.upack)
+[2025.02.03-09.03.12:932][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2025.02.03-09.03.12:932][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2025.02.03-09.03.12:932][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2025.02.03-09.03.12:932][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2025.02.03-09.03.12:932][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/unreal engine 5.1/UE_4.27/FeaturePacks/TP_RollingBP.upack' (chunk index -1, root 'root:/') mounted
+[2025.02.03-09.03.12:932][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/unreal engine 5.1/UE_4.27/FeaturePacks/TP_RollingBP.upack)
+[2025.02.03-09.03.12:932][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2025.02.03-09.03.12:933][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2025.02.03-09.03.12:933][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2025.02.03-09.03.12:933][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2025.02.03-09.03.12:933][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/unreal engine 5.1/UE_4.27/FeaturePacks/TP_SideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2025.02.03-09.03.12:933][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/unreal engine 5.1/UE_4.27/FeaturePacks/TP_SideScroller.upack)
+[2025.02.03-09.03.12:933][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2025.02.03-09.03.12:933][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2025.02.03-09.03.12:933][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2025.02.03-09.03.12:933][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2025.02.03-09.03.12:933][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/unreal engine 5.1/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2025.02.03-09.03.12:933][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/unreal engine 5.1/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack)
+[2025.02.03-09.03.12:933][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2025.02.03-09.03.12:934][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2025.02.03-09.03.12:934][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2025.02.03-09.03.12:934][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2025.02.03-09.03.12:934][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/unreal engine 5.1/UE_4.27/FeaturePacks/TP_ThirdPerson.upack' (chunk index -1, root 'root:/') mounted
+[2025.02.03-09.03.12:934][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/unreal engine 5.1/UE_4.27/FeaturePacks/TP_ThirdPerson.upack)
+[2025.02.03-09.03.12:934][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2025.02.03-09.03.12:934][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2025.02.03-09.03.12:934][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2025.02.03-09.03.12:934][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2025.02.03-09.03.12:934][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/unreal engine 5.1/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2025.02.03-09.03.12:934][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/unreal engine 5.1/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack)
+[2025.02.03-09.03.12:934][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2025.02.03-09.03.12:934][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2025.02.03-09.03.12:934][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2025.02.03-09.03.12:934][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2025.02.03-09.03.12:934][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/unreal engine 5.1/UE_4.27/FeaturePacks/TP_TopDown.upack' (chunk index -1, root 'root:/') mounted
+[2025.02.03-09.03.12:935][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/unreal engine 5.1/UE_4.27/FeaturePacks/TP_TopDown.upack)
+[2025.02.03-09.03.12:935][  0]LogPakFile: OnPakFileMounted2Time == 0.000042
+[2025.02.03-09.03.12:935][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2025.02.03-09.03.12:935][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2025.02.03-09.03.12:935][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2025.02.03-09.03.12:935][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/unreal engine 5.1/UE_4.27/FeaturePacks/TP_TopDownBP.upack' (chunk index -1, root 'root:/') mounted
+[2025.02.03-09.03.12:935][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/unreal engine 5.1/UE_4.27/FeaturePacks/TP_TopDownBP.upack)
+[2025.02.03-09.03.12:935][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2025.02.03-09.03.12:935][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2025.02.03-09.03.12:935][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2025.02.03-09.03.12:935][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2025.02.03-09.03.12:935][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/unreal engine 5.1/UE_4.27/FeaturePacks/TP_TwinStick.upack' (chunk index -1, root 'root:/') mounted
+[2025.02.03-09.03.12:935][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/unreal engine 5.1/UE_4.27/FeaturePacks/TP_TwinStick.upack)
+[2025.02.03-09.03.12:935][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2025.02.03-09.03.12:936][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2025.02.03-09.03.12:936][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2025.02.03-09.03.12:936][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2025.02.03-09.03.12:936][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/unreal engine 5.1/UE_4.27/FeaturePacks/TP_TwinStickBP.upack' (chunk index -1, root 'root:/') mounted
+[2025.02.03-09.03.12:936][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/unreal engine 5.1/UE_4.27/FeaturePacks/TP_TwinStickBP.upack)
+[2025.02.03-09.03.12:936][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2025.02.03-09.03.12:936][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2025.02.03-09.03.12:936][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2025.02.03-09.03.12:936][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2025.02.03-09.03.12:936][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/unreal engine 5.1/UE_4.27/FeaturePacks/TP_Vehicle.upack' (chunk index -1, root 'root:/') mounted
+[2025.02.03-09.03.12:936][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/unreal engine 5.1/UE_4.27/FeaturePacks/TP_Vehicle.upack)
+[2025.02.03-09.03.12:936][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2025.02.03-09.03.12:936][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2025.02.03-09.03.12:936][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2025.02.03-09.03.12:936][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2025.02.03-09.03.12:936][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/unreal engine 5.1/UE_4.27/FeaturePacks/TP_VehicleAdv.upack' (chunk index -1, root 'root:/') mounted
+[2025.02.03-09.03.12:936][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/unreal engine 5.1/UE_4.27/FeaturePacks/TP_VehicleAdv.upack)
+[2025.02.03-09.03.12:937][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2025.02.03-09.03.12:937][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2025.02.03-09.03.12:937][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2025.02.03-09.03.12:937][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2025.02.03-09.03.12:937][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/unreal engine 5.1/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack' (chunk index -1, root 'root:/') mounted
+[2025.02.03-09.03.12:937][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/unreal engine 5.1/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack)
+[2025.02.03-09.03.12:937][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2025.02.03-09.03.12:937][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2025.02.03-09.03.12:937][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2025.02.03-09.03.12:937][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2025.02.03-09.03.12:937][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/unreal engine 5.1/UE_4.27/FeaturePacks/TP_VehicleBP.upack' (chunk index -1, root 'root:/') mounted
+[2025.02.03-09.03.12:937][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/unreal engine 5.1/UE_4.27/FeaturePacks/TP_VehicleBP.upack)
+[2025.02.03-09.03.12:937][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2025.02.03-09.03.12:938][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2025.02.03-09.03.12:938][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2025.02.03-09.03.12:938][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2025.02.03-09.03.12:938][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/unreal engine 5.1/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack' (chunk index -1, root 'root:/') mounted
+[2025.02.03-09.03.12:938][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/unreal engine 5.1/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack)
+[2025.02.03-09.03.12:938][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2025.02.03-09.03.12:967][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2025.02.03-09.03.12:984][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.03-09.03.12:988][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.03-09.03.12:997][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.03-09.03.13:002][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.03-09.03.13:005][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 2 classes and 0 folders.
+[2025.02.03-09.03.13:328][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2025.02.03-09.03.13:471][  0]LogSlate: Took 0.000142 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2025.02.03-09.03.13:472][  0]LogSlate: Took 0.000099 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2025.02.03-09.03.13:473][  0]LogSlate: Took 0.000101 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2025.02.03-09.03.13:476][  0]LogSlate: Took 0.000086 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2025.02.03-09.03.13:611][  0]LogRenderer: Reallocating scene render targets to support 1460x900 Format 10 NumSamples 1 (Frame:1).
+[2025.02.03-09.03.13:686][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2025.02.03-09.03.13:686][  0]LogLoad: (Engine Initialization) Total time: 7.52 seconds
+[2025.02.03-09.03.13:686][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2025.02.03-09.03.13:703][  0]AssetCheck: New page: Asset Save: Floor_400x400
+[2025.02.03-09.03.13:703][  0]LogContentValidation: Display: Validating StaticMesh /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2025.02.03-09.03.13:798][  0]LogAssetRegistry: Asset discovery search completed in 4.5532 seconds
+[2025.02.03-09.03.13:802][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2025.02.03-09.03.13:803][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2025.02.03-09.03.21:823][949]LogSlate: Window 'Message Log' being destroyed
+[2025.02.03-09.03.21:831][949]LogSlate: Window 'Message Log' being destroyed
+[2025.02.03-09.03.24:222][231]LogSlate: Window 'Output Log' being destroyed
+[2025.02.03-09.03.26:720][504]LogTemp: Repeating last play command: Selected Viewport
+[2025.02.03-09.03.26:723][504]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.02.03-09.03.26:723][504]PIE: New page: PIE session: MainMenuMap (Feb 2, 2025, 5:03:26 PM)
+[2025.02.03-09.03.26:724][504]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2025.02.03-09.03.26:725][504]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2025.02.03-09.03.26:725][504]LogPlayLevel: Creating play world package: /Game/Static/StarterContent/Maps/UEDPIE_0_MainMenuMap
+[2025.02.03-09.03.26:728][504]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002164s)
+[2025.02.03-09.03.26:728][504]LogAIModule: Creating AISystem for world MainMenuMap
+[2025.02.03-09.03.26:729][504]LogPlayLevel: PIE: World Init took: (0.000851s)
+[2025.02.03-09.03.26:729][504]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Static/StarterContent/Maps/MainMenuMap.MainMenuMap to /Game/Static/StarterContent/Maps/UEDPIE_0_MainMenuMap.MainMenuMap (0.003142s)
+[2025.02.03-09.03.26:734][504]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2025.02.03-09.03.26:735][504]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2025.02.03-09.03.26:735][504]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.02.03-09.03.26:735][504]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.02.03-09.03.26:735][504]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.02.03-09.03.26:735][504]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.02.03-09.03.26:735][504]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.02.03-09.03.26:735][504]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.02.03-09.03.26:735][504]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.02.03-09.03.26:735][504]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.02.03-09.03.26:735][504]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.02.03-09.03.26:735][504]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.02.03-09.03.26:735][504]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.02.03-09.03.26:735][504]LogAudioMixer: Display: Initializing audio mixer.
+[2025.02.03-09.03.26:746][504]LogAudioMixer: Display: 0: FrontLeft
+[2025.02.03-09.03.26:746][504]LogAudioMixer: Display: 1: FrontRight
+[2025.02.03-09.03.26:760][504]LogAudioMixer: Display: Using Audio Device Headphones (Realtek(R) Audio)
+[2025.02.03-09.03.26:761][504]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.02.03-09.03.26:761][504]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.02.03-09.03.26:761][504]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.02.03-09.03.26:761][504]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2025.02.03-09.03.26:761][504]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2025.02.03-09.03.26:761][504]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2025.02.03-09.03.26:762][504]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2025.02.03-09.03.26:762][504]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2025.02.03-09.03.26:762][504]LogInit: FAudioDevice initialized.
+[2025.02.03-09.03.26:762][504]LogAudio: Display: Audio Device (ID: 2) registered with world 'MainMenuMap'.
+[2025.02.03-09.03.26:771][504]LogLoad: Game class is 'GameMode_C'
+[2025.02.03-09.03.26:773][504]LogWorld: Bringing World /Game/Static/StarterContent/Maps/UEDPIE_0_MainMenuMap.MainMenuMap up for play (max tick rate 0) at 2025.02.03-01.03.26
+[2025.02.03-09.03.26:773][504]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2025.02.03-09.03.26:805][504]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.033 s
+[2025.02.03-09.03.26:805][504]LogOutputDevice: Error: === Handled ensure: ===
+[2025.02.03-09.03.26:805][504]LogOutputDevice: Error: 
+[2025.02.03-09.03.26:805][504]LogOutputDevice: Error: Ensure condition failed: Class.IsValid() [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/Engine/Private/UserInterface/InputSettings.cpp] [Line: 460]
+[2025.02.03-09.03.26:805][504]LogOutputDevice: Error: Invalid InputComponent class in Input Settings. Manual reset required.
+[2025.02.03-09.03.26:805][504]LogOutputDevice: Error: Stack: 
+[2025.02.03-09.03.26:805][504]LogOutputDevice: Error: [Callstack] 0x00007ff9feff1e99 UE4Editor-Engine.dll!UnknownFunction []
+[2025.02.03-09.03.26:806][504]LogOutputDevice: Error: [Callstack] 0x00007ff9fe806373 UE4Editor-Engine.dll!UnknownFunction []
+[2025.02.03-09.03.26:806][504]LogOutputDevice: Error: [Callstack] 0x00007ff9fddd0454 UE4Editor-Engine.dll!UnknownFunction []
+[2025.02.03-09.03.26:806][504]LogOutputDevice: Error: [Callstack] 0x00007ff9fdde2da8 UE4Editor-Engine.dll!UnknownFunction []
+[2025.02.03-09.03.26:806][504]LogOutputDevice: Error: [Callstack] 0x00007ff9fe88461d UE4Editor-Engine.dll!UnknownFunction []
+[2025.02.03-09.03.26:806][504]LogOutputDevice: Error: [Callstack] 0x00007ff9fdc1e979 UE4Editor-Engine.dll!UnknownFunction []
+[2025.02.03-09.03.26:806][504]LogOutputDevice: Error: [Callstack] 0x00007ffa05d72c45 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2025.02.03-09.03.26:806][504]LogOutputDevice: Error: [Callstack] 0x00007ffa05d9622f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2025.02.03-09.03.26:806][504]LogOutputDevice: Error: [Callstack] 0x00007ffa05d7397d UE4Editor-UnrealEd.dll!UnknownFunction []
+[2025.02.03-09.03.26:806][504]LogOutputDevice: Error: [Callstack] 0x00007ffa05db3772 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2025.02.03-09.03.26:806][504]LogOutputDevice: Error: [Callstack] 0x00007ffa05db6d31 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2025.02.03-09.03.26:806][504]LogOutputDevice: Error: [Callstack] 0x00007ffa05db65f8 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2025.02.03-09.03.26:806][504]LogOutputDevice: Error: [Callstack] 0x00007ffa05810c8c UE4Editor-UnrealEd.dll!UnknownFunction []
+[2025.02.03-09.03.26:806][504]LogOutputDevice: Error: [Callstack] 0x00007ffa06112ba6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2025.02.03-09.03.26:806][504]LogOutputDevice: Error: [Callstack] 0x00007ff6c40087a0 UE4Editor.exe!UnknownFunction []
+[2025.02.03-09.03.26:806][504]LogOutputDevice: Error: [Callstack] 0x00007ff6c4020fcc UE4Editor.exe!UnknownFunction []
+[2025.02.03-09.03.26:806][504]LogOutputDevice: Error: [Callstack] 0x00007ff6c40210ba UE4Editor.exe!UnknownFunction []
+[2025.02.03-09.03.26:806][504]LogOutputDevice: Error: [Callstack] 0x00007ff6c40240dd UE4Editor.exe!UnknownFunction []
+[2025.02.03-09.03.26:806][504]LogOutputDevice: Error: [Callstack] 0x00007ff6c4035984 UE4Editor.exe!UnknownFunction []
+[2025.02.03-09.03.26:806][504]LogOutputDevice: Error: [Callstack] 0x00007ff6c403853a UE4Editor.exe!UnknownFunction []
+[2025.02.03-09.03.26:806][504]LogOutputDevice: Error: [Callstack] 0x00007ffab65f7374 KERNEL32.DLL!UnknownFunction []
+[2025.02.03-09.03.26:806][504]LogOutputDevice: Error: [Callstack] 0x00007ffab689cc91 ntdll.dll!UnknownFunction []
+[2025.02.03-09.03.26:806][504]LogOutputDevice: Error: 
+[2025.02.03-09.03.26:814][504]LogStats:                SubmitErrorReport -  0.000 s
+[2025.02.03-09.03.28:282][504]LogStats:                    SendNewReport -  1.467 s
+[2025.02.03-09.03.28:282][504]LogStats:             FDebug::EnsureFailed -  1.509 s
+[2025.02.03-09.03.28:282][504]LogWorld: Bringing up level for play took: 1.509584
+[2025.02.03-09.03.28:282][504]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2025.02.03-09.03.28:284][504]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2025.02.03-09.03.28:303][504]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.020 s
+[2025.02.03-09.03.28:303][504]LogOutputDevice: Error: === Handled ensure: ===
+[2025.02.03-09.03.28:303][504]LogOutputDevice: Error: 
+[2025.02.03-09.03.28:304][504]LogOutputDevice: Error: Ensure condition failed: Class.IsValid() [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/Engine/Private/UserInterface/InputSettings.cpp] [Line: 453]
+[2025.02.03-09.03.28:304][504]LogOutputDevice: Error: Invalid PlayerInput class in Input Settings. Manual reset required.
+[2025.02.03-09.03.28:304][504]LogOutputDevice: Error: Stack: 
+[2025.02.03-09.03.28:304][504]LogOutputDevice: Error: [Callstack] 0x00007ff9feff2709 UE4Editor-Engine.dll!UnknownFunction []
+[2025.02.03-09.03.28:304][504]LogOutputDevice: Error: [Callstack] 0x00007ff9fe8066f3 UE4Editor-Engine.dll!UnknownFunction []
+[2025.02.03-09.03.28:304][504]LogOutputDevice: Error: [Callstack] 0x00007ff9fe2fd7ee UE4Editor-Engine.dll!UnknownFunction []
+[2025.02.03-09.03.28:304][504]LogOutputDevice: Error: [Callstack] 0x00007ff9fe31105b UE4Editor-Engine.dll!UnknownFunction []
+[2025.02.03-09.03.28:304][504]LogOutputDevice: Error: [Callstack] 0x00007ff9fddeb769 UE4Editor-Engine.dll!UnknownFunction []
+[2025.02.03-09.03.28:304][504]LogOutputDevice: Error: [Callstack] 0x00007ff9fde498ad UE4Editor-Engine.dll!UnknownFunction []
+[2025.02.03-09.03.28:304][504]LogOutputDevice: Error: [Callstack] 0x00007ff9fdc1e9de UE4Editor-Engine.dll!UnknownFunction []
+[2025.02.03-09.03.28:304][504]LogOutputDevice: Error: [Callstack] 0x00007ffa05d72c45 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2025.02.03-09.03.28:304][504]LogOutputDevice: Error: [Callstack] 0x00007ffa05d9622f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2025.02.03-09.03.28:304][504]LogOutputDevice: Error: [Callstack] 0x00007ffa05d7397d UE4Editor-UnrealEd.dll!UnknownFunction []
+[2025.02.03-09.03.28:304][504]LogOutputDevice: Error: [Callstack] 0x00007ffa05db3772 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2025.02.03-09.03.28:304][504]LogOutputDevice: Error: [Callstack] 0x00007ffa05db6d31 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2025.02.03-09.03.28:304][504]LogOutputDevice: Error: [Callstack] 0x00007ffa05db65f8 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2025.02.03-09.03.28:304][504]LogOutputDevice: Error: [Callstack] 0x00007ffa05810c8c UE4Editor-UnrealEd.dll!UnknownFunction []
+[2025.02.03-09.03.28:304][504]LogOutputDevice: Error: [Callstack] 0x00007ffa06112ba6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2025.02.03-09.03.28:304][504]LogOutputDevice: Error: [Callstack] 0x00007ff6c40087a0 UE4Editor.exe!UnknownFunction []
+[2025.02.03-09.03.28:304][504]LogOutputDevice: Error: [Callstack] 0x00007ff6c4020fcc UE4Editor.exe!UnknownFunction []
+[2025.02.03-09.03.28:304][504]LogOutputDevice: Error: [Callstack] 0x00007ff6c40210ba UE4Editor.exe!UnknownFunction []
+[2025.02.03-09.03.28:304][504]LogOutputDevice: Error: [Callstack] 0x00007ff6c40240dd UE4Editor.exe!UnknownFunction []
+[2025.02.03-09.03.28:304][504]LogOutputDevice: Error: [Callstack] 0x00007ff6c4035984 UE4Editor.exe!UnknownFunction []
+[2025.02.03-09.03.28:304][504]LogOutputDevice: Error: [Callstack] 0x00007ff6c403853a UE4Editor.exe!UnknownFunction []
+[2025.02.03-09.03.28:304][504]LogOutputDevice: Error: [Callstack] 0x00007ffab65f7374 KERNEL32.DLL!UnknownFunction []
+[2025.02.03-09.03.28:304][504]LogOutputDevice: Error: [Callstack] 0x00007ffab689cc91 ntdll.dll!UnknownFunction []
+[2025.02.03-09.03.28:304][504]LogOutputDevice: Error: 
