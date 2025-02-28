@@ -7,3 +7,5 @@
 *.tmp filter=lfs diff=lfs merge=lfs -text
 *.dmp filter=lfs diff=lfs merge=lfs -text
 *.sav filter=lfs diff=lfs merge=lfs -text
+Vertigo_Protocol/Saved/Logs/Vertigo_Protocol-backup-2025.02.28-03.10.14.log filter=lfs diff=lfs merge=lfs -text
+Vertigo_Protocol/Saved/Crashes/UE4CC-Windows-1EC861D24211507F260E01AA4862F576_0002/Vertigo_Protocol.log filter=lfs diff=lfs merge=lfs -text
