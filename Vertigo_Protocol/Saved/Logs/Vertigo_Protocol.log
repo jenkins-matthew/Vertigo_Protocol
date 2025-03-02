@@ -7530,3 +7530,1189 @@ Make sure 'BP_JetPackKoisk_C' has been compiled for  Heal
 [2025.03.02-20.23.19:990][654]LogSavePackage: Moving '../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Saved/BP_Agent3BE7CCBF484DE00B088F43845AD51F13.tmp' to '../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/Dynamic/Agents/BP_Agent.uasset'
 [2025.03.02-20.23.20:010][654]AssetCheck: New page: Asset Save: BP_Agent
 [2025.03.02-20.23.20:010][654]LogContentValidation: Display: Validating Blueprint /Game/Dynamic/Agents/BP_Agent.BP_Agent
+[2025.03.02-20.31.57:007][298]LogUObjectHash: Compacting FUObjectHashTables data took   4.97ms
+[2025.03.02-20.31.57:193][298]LogSavePackage: Moving '../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Saved/ActualFirstLevel_Auto7267199EA4D9B0DB32604D6839715199C.tmp' to '../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Saved/Autosaves/Game/Dynamic/Levels/ActualFirstLevel_Auto7.umap'
+[2025.03.02-20.31.57:194][298]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Dynamic/Levels/ActualFirstLevel' took 0.270
+[2025.03.02-20.31.57:194][298]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.270
+[2025.03.02-20.41.57:486][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2025.03.02-20.41.57:489][ 88]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Dynamic/Levels/ActualFirstLevel' took 0.064
+[2025.03.02-20.51.58:238][879]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2025.03.02-20.51.58:241][879]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Dynamic/Levels/ActualFirstLevel' took 0.064
+[2025.03.02-21.01.58:759][669]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2025.03.02-21.01.58:762][669]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Dynamic/Levels/ActualFirstLevel' took 0.064
+[2025.03.02-21.04.54:024][715]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Dynamic/Weapons/BP_Gun.BP_Gun
+[2025.03.02-21.08.33:954][223]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2025.03.02-21.08.33:973][223]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.03.02-21.08.47:230][ 39]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Dynamic/Weapons/Projectiles/Projectile_Type-Bullet.Projectile_Type-Bullet
+[2025.03.02-21.11.25:559][527]BlueprintLog: New page: Compile BP_Agent
+[2025.03.02-21.11.25:619][527]LogBlueprint: Error: [AssetLog] G:\CS425_SeniorProject\MainProject\Vertigo_Protocol\Vertigo_Protocol\Content\Dynamic\Agents\BP_Agent.uasset: [Compiler] Message node  Hit Enemy  must have a valid target or reference to self.
+[2025.03.02-21.11.25:755][527]LogUObjectHash: Compacting FUObjectHashTables data took   4.26ms
+[2025.03.02-21.11.38:960][963]BlueprintLog: New page: Compile BP_Agent
+[2025.03.02-21.11.39:134][963]LogUObjectHash: Compacting FUObjectHashTables data took   4.29ms
+[2025.03.02-21.11.40:463][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   3.99ms
+[2025.03.02-21.11.40:537][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2025.03.02-21.11.40:722][ 67]LogSavePackage: Moving '../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Saved/ActualFirstLevel0235DF3F4033EFE34C3AF7996BE124DA.tmp' to '../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/Dynamic/Levels/ActualFirstLevel.umap'
+[2025.03.02-21.11.40:734][ 67]LogFileHelpers: Saving map 'ActualFirstLevel' took 0.255
+[2025.03.02-21.11.40:862][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2025.03.02-21.11.40:965][ 67]LogSavePackage: Moving '../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Saved/DemoLevelA409D6E34304FE28C09FD282F7BDAD82.tmp' to '../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/Dynamic/Levels/DemoLevel.umap'
+[2025.03.02-21.11.41:005][ 67]LogFileHelpers: Saving map 'DemoLevel' took 0.271
+[2025.03.02-21.11.41:005][ 67]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dynamic/Agents/BP_Agent" FILE="../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/Dynamic/Agents/BP_Agent.uasset" SILENT=true
+[2025.03.02-21.11.41:191][ 67]LogSavePackage: Moving '../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Saved/BP_Agent49163F2447A8997FD1910DB93408CA07.tmp' to '../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/Dynamic/Agents/BP_Agent.uasset'
+[2025.03.02-21.11.41:207][ 67]AssetCheck: New page: Asset Save: multiple assets
+[2025.03.02-21.11.41:207][ 67]LogContentValidation: Display: Validating Blueprint /Game/Dynamic/Agents/BP_Agent.BP_Agent
+[2025.03.02-21.11.41:207][ 67]LogContentValidation: Display: Validating World /Game/Dynamic/Levels/ActualFirstLevel.ActualFirstLevel
+[2025.03.02-21.11.41:207][ 67]LogContentValidation: Display: Validating World /Game/Dynamic/Levels/DemoLevel.DemoLevel
+[2025.03.02-21.11.59:296][531]BlueprintLog: New page: Compile BP_Agent
+[2025.03.02-21.11.59:459][531]LogUObjectHash: Compacting FUObjectHashTables data took   3.53ms
+[2025.03.02-21.12.00:261][573]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dynamic/Agents/BP_Agent" FILE="../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/Dynamic/Agents/BP_Agent.uasset" SILENT=true
+[2025.03.02-21.12.00:442][573]LogSavePackage: Moving '../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Saved/BP_Agent7D7A3D604A4282BBDD6D268765D72C50.tmp' to '../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/Dynamic/Agents/BP_Agent.uasset'
+[2025.03.02-21.12.00:464][573]AssetCheck: New page: Asset Save: BP_Agent
+[2025.03.02-21.12.00:464][573]LogContentValidation: Display: Validating Blueprint /Game/Dynamic/Agents/BP_Agent.BP_Agent
+[2025.03.02-21.12.01:130][636]LogUObjectHash: Compacting FUObjectHashTables data took   4.15ms
+[2025.03.02-21.12.01:220][636]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2025.03.02-21.12.01:403][636]LogSavePackage: Moving '../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Saved/ActualFirstLevel6A1DE9EB42E5FBCDDF275FBB68A1122F.tmp' to '../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/Dynamic/Levels/ActualFirstLevel.umap'
+[2025.03.02-21.12.01:415][636]LogFileHelpers: Saving map 'ActualFirstLevel' took 0.254
+[2025.03.02-21.12.01:540][636]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2025.03.02-21.12.01:642][636]LogSavePackage: Moving '../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Saved/DemoLevel2226F0E0425046B565F5348D94FC2249.tmp' to '../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/Dynamic/Levels/DemoLevel.umap'
+[2025.03.02-21.12.01:685][636]LogFileHelpers: Saving map 'DemoLevel' took 0.270
+[2025.03.02-21.12.01:709][636]AssetCheck: New page: Asset Save: multiple assets
+[2025.03.02-21.12.01:709][636]LogContentValidation: Display: Validating World /Game/Dynamic/Levels/ActualFirstLevel.ActualFirstLevel
+[2025.03.02-21.12.01:709][636]LogContentValidation: Display: Validating World /Game/Dynamic/Levels/DemoLevel.DemoLevel
+[2025.03.02-21.12.02:972][779]LogTemp: Repeating last play command: Selected Viewport
+[2025.03.02-21.12.02:978][779]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.02-21.12.02:978][779]PIE: New page: PIE session: ActualFirstLevel (Mar 2, 2025, 5:12:02 AM)
+[2025.03.02-21.12.02:978][779]LogPlayLevel: Creating play world package: /Game/Dynamic/Levels/UEDPIE_0_ActualFirstLevel
+[2025.03.02-21.12.03:033][779]LogPlayLevel: PIE: StaticDuplicateObject took: (0.054577s)
+[2025.03.02-21.12.03:034][779]LogAIModule: Creating AISystem for world ActualFirstLevel
+[2025.03.02-21.12.03:034][779]LogPlayLevel: PIE: World Init took: (0.000922s)
+[2025.03.02-21.12.03:034][779]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dynamic/Levels/ActualFirstLevel.ActualFirstLevel to /Game/Dynamic/Levels/UEDPIE_0_ActualFirstLevel.ActualFirstLevel (0.055672s)
+[2025.03.02-21.12.03:099][779]LogUObjectHash: Compacting FUObjectHashTables data took   3.43ms
+[2025.03.02-21.12.03:101][779]LogAudio: Display: Creating Audio Device:                 Id: 39, Scope: Unique, Realtime: True
+[2025.03.02-21.12.03:101][779]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.02-21.12.03:101][779]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.02-21.12.03:101][779]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.02-21.12.03:101][779]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.02-21.12.03:101][779]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.03.02-21.12.03:101][779]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.02-21.12.03:101][779]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.03.02-21.12.03:101][779]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.02-21.12.03:102][779]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.02-21.12.03:102][779]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.02-21.12.03:102][779]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.02-21.12.03:102][779]LogAudioMixer: Display: Initializing audio mixer.
+[2025.03.02-21.12.03:113][779]LogAudioMixer: Display: 0: FrontLeft
+[2025.03.02-21.12.03:113][779]LogAudioMixer: Display: 1: FrontRight
+[2025.03.02-21.12.03:128][779]LogAudioMixer: Display: Using Audio Device Headphones (Realtek(R) Audio)
+[2025.03.02-21.12.03:129][779]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.02-21.12.03:129][779]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.02-21.12.03:129][779]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.02-21.12.03:129][779]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2025.03.02-21.12.03:129][779]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2025.03.02-21.12.03:129][779]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2025.03.02-21.12.03:130][779]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2025.03.02-21.12.03:130][779]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2025.03.02-21.12.03:130][779]LogInit: FAudioDevice initialized.
+[2025.03.02-21.12.03:130][779]LogAudio: Display: Audio Device (ID: 39) registered with world 'ActualFirstLevel'.
+[2025.03.02-21.12.03:136][779]LogLoad: Game class is 'GameMode_C'
+[2025.03.02-21.12.03:165][779]LogWorld: Bringing World /Game/Dynamic/Levels/UEDPIE_0_ActualFirstLevel.ActualFirstLevel up for play (max tick rate 0) at 2025.03.02-13.12.03
+[2025.03.02-21.12.03:168][779]LogWorld: Bringing up level for play took: 0.032098
+[2025.03.02-21.12.03:168][779]LogOnline: OSS: Creating online subsystem instance for: :Context_94
+[2025.03.02-21.12.03:170][779]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2025.03.02-21.12.03:170][779]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2025.03.02-21.12.03:170][779]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2025.03.02-21.12.03:173][779]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2025.03.02-21.12.03:174][779]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2025.03.02-21.12.03:174][779]PIE: Server logged in
+[2025.03.02-21.12.03:174][779]PIE: Play in editor total start time 0.198 seconds.
+[2025.03.02-21.12.33:692][420]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.03.02-21.12.33:692][420]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2025.03.02-21.12.33:692][420]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2025.03.02-21.12.37:557][868]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.02-21.12.37:557][868]LogWorld: BeginTearingDown for /Game/Dynamic/Levels/UEDPIE_0_ActualFirstLevel
+[2025.03.02-21.12.37:558][868]LogWorld: UWorld::CleanupWorld for ActualFirstLevel, bSessionEnded=true, bCleanupResources=true
+[2025.03.02-21.12.37:562][868]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.02-21.12.37:578][868]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.02-21.12.37:595][868]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.02-21.12.37:654][868]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.02-21.12.37:654][868]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2025.03.02-21.12.37:655][868]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2025.03.02-21.12.37:658][868]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.02-21.12.37:667][868]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2025.03.02-21.12.37:684][869]LogPlayLevel: Display: Destroying online subsystem :Context_94
+[2025.03.02-21.14.19:396][124]BlueprintLog: New page: Compile BP_Agent
+[2025.03.02-21.14.19:595][124]LogUObjectHash: Compacting FUObjectHashTables data took   4.73ms
+[2025.03.02-21.14.21:679][326]LogTemp: Repeating last play command: Selected Viewport
+[2025.03.02-21.14.21:684][326]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.02-21.14.21:685][326]PIE: New page: PIE session: ActualFirstLevel (Mar 2, 2025, 5:14:21 AM)
+[2025.03.02-21.14.21:706][326]LogPlayLevel: Creating play world package: /Game/Dynamic/Levels/UEDPIE_0_ActualFirstLevel
+[2025.03.02-21.14.21:760][326]LogPlayLevel: PIE: StaticDuplicateObject took: (0.053989s)
+[2025.03.02-21.14.21:761][326]LogAIModule: Creating AISystem for world ActualFirstLevel
+[2025.03.02-21.14.21:761][326]LogPlayLevel: PIE: World Init took: (0.000911s)
+[2025.03.02-21.14.21:761][326]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dynamic/Levels/ActualFirstLevel.ActualFirstLevel to /Game/Dynamic/Levels/UEDPIE_0_ActualFirstLevel.ActualFirstLevel (0.055120s)
+[2025.03.02-21.14.21:827][326]LogUObjectHash: Compacting FUObjectHashTables data took   4.20ms
+[2025.03.02-21.14.21:829][326]LogAudio: Display: Creating Audio Device:                 Id: 40, Scope: Unique, Realtime: True
+[2025.03.02-21.14.21:829][326]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.02-21.14.21:829][326]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.02-21.14.21:829][326]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.02-21.14.21:829][326]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.02-21.14.21:829][326]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.03.02-21.14.21:829][326]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.02-21.14.21:829][326]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.03.02-21.14.21:829][326]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.02-21.14.21:829][326]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.02-21.14.21:829][326]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.02-21.14.21:829][326]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.02-21.14.21:829][326]LogAudioMixer: Display: Initializing audio mixer.
+[2025.03.02-21.14.21:840][326]LogAudioMixer: Display: 0: FrontLeft
+[2025.03.02-21.14.21:840][326]LogAudioMixer: Display: 1: FrontRight
+[2025.03.02-21.14.21:855][326]LogAudioMixer: Display: Using Audio Device Headphones (Realtek(R) Audio)
+[2025.03.02-21.14.21:855][326]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.02-21.14.21:855][326]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.02-21.14.21:855][326]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.02-21.14.21:855][326]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2025.03.02-21.14.21:855][326]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2025.03.02-21.14.21:855][326]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2025.03.02-21.14.21:856][326]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2025.03.02-21.14.21:856][326]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2025.03.02-21.14.21:856][326]LogInit: FAudioDevice initialized.
+[2025.03.02-21.14.21:856][326]LogAudio: Display: Audio Device (ID: 40) registered with world 'ActualFirstLevel'.
+[2025.03.02-21.14.21:886][326]LogLoad: Game class is 'GameMode_C'
+[2025.03.02-21.14.21:923][326]LogWorld: Bringing World /Game/Dynamic/Levels/UEDPIE_0_ActualFirstLevel.ActualFirstLevel up for play (max tick rate 0) at 2025.03.02-13.14.21
+[2025.03.02-21.14.21:926][326]LogWorld: Bringing up level for play took: 0.037279
+[2025.03.02-21.14.21:926][326]LogOnline: OSS: Creating online subsystem instance for: :Context_95
+[2025.03.02-21.14.21:927][326]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2025.03.02-21.14.21:927][326]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2025.03.02-21.14.21:927][326]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2025.03.02-21.14.21:930][326]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2025.03.02-21.14.21:931][326]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2025.03.02-21.14.21:931][326]PIE: Server logged in
+[2025.03.02-21.14.21:931][326]PIE: Play in editor total start time 0.248 seconds.
+[2025.03.02-21.14.25:147][700]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.03.02-21.14.25:147][700]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2025.03.02-21.14.25:147][700]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2025.03.02-21.14.29:118][148]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.02-21.14.29:118][148]LogWorld: BeginTearingDown for /Game/Dynamic/Levels/UEDPIE_0_ActualFirstLevel
+[2025.03.02-21.14.29:119][148]LogWorld: UWorld::CleanupWorld for ActualFirstLevel, bSessionEnded=true, bCleanupResources=true
+[2025.03.02-21.14.29:123][148]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.02-21.14.29:133][148]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.02-21.14.29:149][148]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.02-21.14.29:206][148]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.02-21.14.29:208][148]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2025.03.02-21.14.29:209][148]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2025.03.02-21.14.29:211][148]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.02-21.14.29:219][148]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
+[2025.03.02-21.14.29:248][149]LogPlayLevel: Display: Destroying online subsystem :Context_95
+[2025.03.02-21.15.21:434][902]BlueprintLog: New page: Compile BP_Agent
+[2025.03.02-21.15.21:618][902]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2025.03.02-21.15.22:799][984]LogUObjectHash: Compacting FUObjectHashTables data took   4.52ms
+[2025.03.02-21.15.22:886][984]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2025.03.02-21.15.23:071][984]LogSavePackage: Moving '../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Saved/ActualFirstLevelA3C523DF49431DF110B7B383273A0B07.tmp' to '../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/Dynamic/Levels/ActualFirstLevel.umap'
+[2025.03.02-21.15.23:084][984]LogFileHelpers: Saving map 'ActualFirstLevel' took 0.256
+[2025.03.02-21.15.23:210][984]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2025.03.02-21.15.23:311][984]LogSavePackage: Moving '../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Saved/DemoLevel5090DA124D49D9712BDAAFB2AA2A6281.tmp' to '../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/Dynamic/Levels/DemoLevel.umap'
+[2025.03.02-21.15.23:350][984]LogFileHelpers: Saving map 'DemoLevel' took 0.266
+[2025.03.02-21.15.23:350][984]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dynamic/Agents/BP_Agent" FILE="../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/Dynamic/Agents/BP_Agent.uasset" SILENT=true
+[2025.03.02-21.15.23:534][984]LogSavePackage: Moving '../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Saved/BP_Agent6F73E909494E5779B3359895606F4A29.tmp' to '../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/Dynamic/Agents/BP_Agent.uasset'
+[2025.03.02-21.15.23:551][984]AssetCheck: New page: Asset Save: multiple assets
+[2025.03.02-21.15.23:551][984]LogContentValidation: Display: Validating Blueprint /Game/Dynamic/Agents/BP_Agent.BP_Agent
+[2025.03.02-21.15.23:551][984]LogContentValidation: Display: Validating World /Game/Dynamic/Levels/ActualFirstLevel.ActualFirstLevel
+[2025.03.02-21.15.23:551][984]LogContentValidation: Display: Validating World /Game/Dynamic/Levels/DemoLevel.DemoLevel
+[2025.03.02-21.15.24:001][ 38]LogTemp: Repeating last play command: Selected Viewport
+[2025.03.02-21.15.24:007][ 38]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.02-21.15.24:007][ 38]PIE: New page: PIE session: ActualFirstLevel (Mar 2, 2025, 5:15:24 AM)
+[2025.03.02-21.15.24:007][ 38]LogPlayLevel: Creating play world package: /Game/Dynamic/Levels/UEDPIE_0_ActualFirstLevel
+[2025.03.02-21.15.24:059][ 38]LogPlayLevel: PIE: StaticDuplicateObject took: (0.052298s)
+[2025.03.02-21.15.24:059][ 38]LogAIModule: Creating AISystem for world ActualFirstLevel
+[2025.03.02-21.15.24:060][ 38]LogPlayLevel: PIE: World Init took: (0.000921s)
+[2025.03.02-21.15.24:060][ 38]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dynamic/Levels/ActualFirstLevel.ActualFirstLevel to /Game/Dynamic/Levels/UEDPIE_0_ActualFirstLevel.ActualFirstLevel (0.053386s)
+[2025.03.02-21.15.24:125][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2025.03.02-21.15.24:126][ 38]LogAudio: Display: Creating Audio Device:                 Id: 41, Scope: Unique, Realtime: True
+[2025.03.02-21.15.24:126][ 38]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.02-21.15.24:126][ 38]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.02-21.15.24:126][ 38]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.02-21.15.24:126][ 38]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.02-21.15.24:126][ 38]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.03.02-21.15.24:126][ 38]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.02-21.15.24:126][ 38]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.03.02-21.15.24:126][ 38]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.02-21.15.24:126][ 38]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.02-21.15.24:126][ 38]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.02-21.15.24:126][ 38]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.02-21.15.24:126][ 38]LogAudioMixer: Display: Initializing audio mixer.
+[2025.03.02-21.15.24:137][ 38]LogAudioMixer: Display: 0: FrontLeft
+[2025.03.02-21.15.24:137][ 38]LogAudioMixer: Display: 1: FrontRight
+[2025.03.02-21.15.24:152][ 38]LogAudioMixer: Display: Using Audio Device Headphones (Realtek(R) Audio)
+[2025.03.02-21.15.24:152][ 38]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.02-21.15.24:152][ 38]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.02-21.15.24:152][ 38]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.02-21.15.24:152][ 38]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2025.03.02-21.15.24:152][ 38]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2025.03.02-21.15.24:152][ 38]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2025.03.02-21.15.24:153][ 38]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2025.03.02-21.15.24:153][ 38]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2025.03.02-21.15.24:153][ 38]LogInit: FAudioDevice initialized.
+[2025.03.02-21.15.24:153][ 38]LogAudio: Display: Audio Device (ID: 41) registered with world 'ActualFirstLevel'.
+[2025.03.02-21.15.24:161][ 38]LogLoad: Game class is 'GameMode_C'
+[2025.03.02-21.15.24:192][ 38]LogWorld: Bringing World /Game/Dynamic/Levels/UEDPIE_0_ActualFirstLevel.ActualFirstLevel up for play (max tick rate 0) at 2025.03.02-13.15.24
+[2025.03.02-21.15.24:195][ 38]LogWorld: Bringing up level for play took: 0.033522
+[2025.03.02-21.15.24:195][ 38]LogOnline: OSS: Creating online subsystem instance for: :Context_96
+[2025.03.02-21.15.24:197][ 38]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2025.03.02-21.15.24:197][ 38]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2025.03.02-21.15.24:197][ 38]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2025.03.02-21.15.24:199][ 38]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2025.03.02-21.15.24:200][ 38]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2025.03.02-21.15.24:200][ 38]PIE: Server logged in
+[2025.03.02-21.15.24:201][ 38]PIE: Play in editor total start time 0.196 seconds.
+[2025.03.02-21.15.26:483][300]LogBlueprintUserMessages: [Pistol_2] 56
+[2025.03.02-21.15.27:439][414]LogBlueprintUserMessages: [Pistol_2] 55
+[2025.03.02-21.15.27:631][437]LogBlueprintUserMessages: [Pistol_2] 54
+[2025.03.02-21.15.27:831][461]LogBlueprintUserMessages: [Pistol_2] 53
+[2025.03.02-21.15.39:989][917]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.03.02-21.15.39:989][917]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2025.03.02-21.15.39:989][917]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2025.03.02-21.15.43:217][295]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.02-21.15.43:217][295]LogWorld: BeginTearingDown for /Game/Dynamic/Levels/UEDPIE_0_ActualFirstLevel
+[2025.03.02-21.15.43:218][295]LogWorld: UWorld::CleanupWorld for ActualFirstLevel, bSessionEnded=true, bCleanupResources=true
+[2025.03.02-21.15.43:223][295]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.02-21.15.43:236][295]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.02-21.15.43:251][295]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.02-21.15.43:310][295]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.02-21.15.43:313][295]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2025.03.02-21.15.43:314][295]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2025.03.02-21.15.43:316][295]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.02-21.15.43:325][295]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
+[2025.03.02-21.15.43:350][296]LogPlayLevel: Display: Destroying online subsystem :Context_96
+[2025.03.02-21.16.15:071][811]BlueprintLog: New page: Compile BP_Agent
+[2025.03.02-21.16.15:238][811]LogUObjectHash: Compacting FUObjectHashTables data took   4.11ms
+[2025.03.02-21.16.16:028][859]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dynamic/Agents/BP_Agent" FILE="../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/Dynamic/Agents/BP_Agent.uasset" SILENT=true
+[2025.03.02-21.16.16:207][859]LogSavePackage: Moving '../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Saved/BP_Agent7D10E88E4089A1EE36736A930A80FFA7.tmp' to '../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/Dynamic/Agents/BP_Agent.uasset'
+[2025.03.02-21.16.16:227][859]AssetCheck: New page: Asset Save: BP_Agent
+[2025.03.02-21.16.16:228][859]LogContentValidation: Display: Validating Blueprint /Game/Dynamic/Agents/BP_Agent.BP_Agent
+[2025.03.02-21.16.17:717][ 14]LogTemp: Repeating last play command: Selected Viewport
+[2025.03.02-21.16.17:723][ 14]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.02-21.16.17:723][ 14]PIE: New page: PIE session: ActualFirstLevel (Mar 2, 2025, 5:16:17 AM)
+[2025.03.02-21.16.17:756][ 14]LogPlayLevel: Creating play world package: /Game/Dynamic/Levels/UEDPIE_0_ActualFirstLevel
+[2025.03.02-21.16.17:812][ 14]LogPlayLevel: PIE: StaticDuplicateObject took: (0.055779s)
+[2025.03.02-21.16.17:813][ 14]LogAIModule: Creating AISystem for world ActualFirstLevel
+[2025.03.02-21.16.17:813][ 14]LogPlayLevel: PIE: World Init took: (0.000896s)
+[2025.03.02-21.16.17:813][ 14]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dynamic/Levels/ActualFirstLevel.ActualFirstLevel to /Game/Dynamic/Levels/UEDPIE_0_ActualFirstLevel.ActualFirstLevel (0.056887s)
+[2025.03.02-21.16.17:882][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   4.51ms
+[2025.03.02-21.16.17:884][ 14]LogAudio: Display: Creating Audio Device:                 Id: 42, Scope: Unique, Realtime: True
+[2025.03.02-21.16.17:884][ 14]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.02-21.16.17:884][ 14]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.02-21.16.17:884][ 14]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.02-21.16.17:884][ 14]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.02-21.16.17:884][ 14]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.03.02-21.16.17:884][ 14]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.02-21.16.17:884][ 14]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.03.02-21.16.17:884][ 14]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.02-21.16.17:884][ 14]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.02-21.16.17:884][ 14]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.02-21.16.17:884][ 14]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.02-21.16.17:884][ 14]LogAudioMixer: Display: Initializing audio mixer.
+[2025.03.02-21.16.17:899][ 14]LogAudioMixer: Display: 0: FrontLeft
+[2025.03.02-21.16.17:899][ 14]LogAudioMixer: Display: 1: FrontRight
+[2025.03.02-21.16.17:914][ 14]LogAudioMixer: Display: Using Audio Device Headphones (Realtek(R) Audio)
+[2025.03.02-21.16.17:915][ 14]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.02-21.16.17:915][ 14]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.02-21.16.17:915][ 14]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.02-21.16.17:915][ 14]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2025.03.02-21.16.17:915][ 14]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2025.03.02-21.16.17:915][ 14]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2025.03.02-21.16.17:916][ 14]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2025.03.02-21.16.17:916][ 14]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2025.03.02-21.16.17:916][ 14]LogInit: FAudioDevice initialized.
+[2025.03.02-21.16.17:916][ 14]LogAudio: Display: Audio Device (ID: 42) registered with world 'ActualFirstLevel'.
+[2025.03.02-21.16.17:925][ 14]LogLoad: Game class is 'GameMode_C'
+[2025.03.02-21.16.17:958][ 14]LogWorld: Bringing World /Game/Dynamic/Levels/UEDPIE_0_ActualFirstLevel.ActualFirstLevel up for play (max tick rate 0) at 2025.03.02-13.16.17
+[2025.03.02-21.16.17:961][ 14]LogWorld: Bringing up level for play took: 0.034658
+[2025.03.02-21.16.17:961][ 14]LogOnline: OSS: Creating online subsystem instance for: :Context_97
+[2025.03.02-21.16.17:963][ 14]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2025.03.02-21.16.17:963][ 14]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2025.03.02-21.16.17:963][ 14]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2025.03.02-21.16.17:965][ 14]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2025.03.02-21.16.17:966][ 14]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2025.03.02-21.16.17:966][ 14]PIE: Server logged in
+[2025.03.02-21.16.17:968][ 14]PIE: Play in editor total start time 0.246 seconds.
+[2025.03.02-21.16.28:538][258]Cmd: ToggleDebugCamera
+[2025.03.02-21.16.30:812][531]Cmd: ToggleDebugCamera
+[2025.03.02-21.16.33:863][896]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.16.33:871][897]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.16.33:879][898]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.16.33:888][899]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.16.33:896][900]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.16.33:904][901]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.16.33:913][902]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.16.33:921][903]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.16.34:763][  4]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.16.34:771][  5]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.16.34:779][  6]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.16.34:788][  7]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.16.34:796][  8]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.16.34:804][  9]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.16.34:813][ 10]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.16.38:091][403]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.16.38:099][404]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.16.38:107][405]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.16.38:116][406]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.16.38:124][407]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.16.38:132][408]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.16.38:141][409]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.16.38:149][410]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.16.38:157][411]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.16.38:166][412]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.16.38:174][413]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.16.39:299][548]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.16.39:307][549]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.16.39:316][550]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.16.39:324][551]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.16.39:332][552]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.16.39:341][553]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.16.39:349][554]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.16.39:357][555]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.16.39:366][556]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.16.39:374][557]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.16.39:382][558]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.16.39:391][559]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.16.39:399][560]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.16.39:407][561]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.16.43:216][ 18]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.03.02-21.16.43:216][ 18]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2025.03.02-21.16.43:216][ 18]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2025.03.02-21.16.47:549][503]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.02-21.16.47:549][503]LogWorld: BeginTearingDown for /Game/Dynamic/Levels/UEDPIE_0_ActualFirstLevel
+[2025.03.02-21.16.47:550][503]LogWorld: UWorld::CleanupWorld for ActualFirstLevel, bSessionEnded=true, bCleanupResources=true
+[2025.03.02-21.16.47:558][503]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.02-21.16.47:573][503]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.02-21.16.47:591][503]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.02-21.16.47:649][503]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.02-21.16.47:652][503]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2025.03.02-21.16.47:653][503]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2025.03.02-21.16.47:656][503]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.02-21.16.47:664][503]LogUObjectHash: Compacting FUObjectHashTables data took   3.75ms
+[2025.03.02-21.16.47:690][504]LogPlayLevel: Display: Destroying online subsystem :Context_97
+[2025.03.02-21.17.01:469][994]BlueprintLog: New page: Compile BP_Agent
+[2025.03.02-21.17.01:642][994]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2025.03.02-21.17.02:975][ 96]LogTemp: Repeating last play command: Selected Viewport
+[2025.03.02-21.17.02:980][ 96]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.02-21.17.02:980][ 96]PIE: New page: PIE session: ActualFirstLevel (Mar 2, 2025, 5:17:02 AM)
+[2025.03.02-21.17.03:006][ 96]LogPlayLevel: Creating play world package: /Game/Dynamic/Levels/UEDPIE_0_ActualFirstLevel
+[2025.03.02-21.17.03:060][ 96]LogPlayLevel: PIE: StaticDuplicateObject took: (0.053324s)
+[2025.03.02-21.17.03:060][ 96]LogAIModule: Creating AISystem for world ActualFirstLevel
+[2025.03.02-21.17.03:061][ 96]LogPlayLevel: PIE: World Init took: (0.001087s)
+[2025.03.02-21.17.03:061][ 96]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dynamic/Levels/ActualFirstLevel.ActualFirstLevel to /Game/Dynamic/Levels/UEDPIE_0_ActualFirstLevel.ActualFirstLevel (0.054623s)
+[2025.03.02-21.17.03:127][ 96]LogUObjectHash: Compacting FUObjectHashTables data took   4.12ms
+[2025.03.02-21.17.03:128][ 96]LogAudio: Display: Creating Audio Device:                 Id: 43, Scope: Unique, Realtime: True
+[2025.03.02-21.17.03:128][ 96]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.02-21.17.03:128][ 96]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.02-21.17.03:128][ 96]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.02-21.17.03:128][ 96]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.02-21.17.03:128][ 96]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.03.02-21.17.03:128][ 96]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.02-21.17.03:128][ 96]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.03.02-21.17.03:128][ 96]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.02-21.17.03:129][ 96]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.02-21.17.03:129][ 96]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.02-21.17.03:129][ 96]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.02-21.17.03:129][ 96]LogAudioMixer: Display: Initializing audio mixer.
+[2025.03.02-21.17.03:140][ 96]LogAudioMixer: Display: 0: FrontLeft
+[2025.03.02-21.17.03:140][ 96]LogAudioMixer: Display: 1: FrontRight
+[2025.03.02-21.17.03:154][ 96]LogAudioMixer: Display: Using Audio Device Headphones (Realtek(R) Audio)
+[2025.03.02-21.17.03:155][ 96]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.02-21.17.03:155][ 96]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.02-21.17.03:155][ 96]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.02-21.17.03:155][ 96]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2025.03.02-21.17.03:155][ 96]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2025.03.02-21.17.03:155][ 96]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2025.03.02-21.17.03:156][ 96]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2025.03.02-21.17.03:156][ 96]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2025.03.02-21.17.03:156][ 96]LogInit: FAudioDevice initialized.
+[2025.03.02-21.17.03:156][ 96]LogAudio: Display: Audio Device (ID: 43) registered with world 'ActualFirstLevel'.
+[2025.03.02-21.17.03:165][ 96]LogLoad: Game class is 'GameMode_C'
+[2025.03.02-21.17.03:201][ 96]LogWorld: Bringing World /Game/Dynamic/Levels/UEDPIE_0_ActualFirstLevel.ActualFirstLevel up for play (max tick rate 0) at 2025.03.02-13.17.03
+[2025.03.02-21.17.03:204][ 96]LogWorld: Bringing up level for play took: 0.038245
+[2025.03.02-21.17.03:205][ 96]LogOnline: OSS: Creating online subsystem instance for: :Context_98
+[2025.03.02-21.17.03:206][ 96]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2025.03.02-21.17.03:206][ 96]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2025.03.02-21.17.03:206][ 96]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2025.03.02-21.17.03:209][ 96]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2025.03.02-21.17.03:210][ 96]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2025.03.02-21.17.03:210][ 96]PIE: Server logged in
+[2025.03.02-21.17.03:210][ 96]PIE: Play in editor total start time 0.231 seconds.
+[2025.03.02-21.17.08:535][724]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.17.08:543][725]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.17.08:552][726]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.17.08:560][727]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.17.08:568][728]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.17.08:577][729]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.17.08:585][730]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.17.08:593][731]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.17.08:602][732]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.17.08:610][733]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.17.08:619][734]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.17.08:627][735]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.17.08:635][736]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.17.09:527][843]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.17.09:535][844]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.17.09:543][845]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.17.09:552][846]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.17.09:560][847]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.17.09:569][848]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.17.09:577][849]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.17.09:585][850]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.17.09:593][851]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.17.09:602][852]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.17.09:610][853]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.17.09:619][854]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.17.09:627][855]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.17.09:635][856]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.17.09:643][857]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.17.09:652][858]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.17.09:660][859]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.17.10:518][962]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.17.10:527][963]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.17.10:535][964]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.17.10:543][965]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.17.10:552][966]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.17.10:560][967]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.17.10:568][968]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.17.10:576][969]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.17.10:585][970]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.17.10:593][971]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.17.10:601][972]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.17.10:610][973]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.17.10:618][974]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.17.10:626][975]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.17.10:635][976]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.17.10:643][977]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.17.11:418][ 70]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.17.11:426][ 71]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.17.11:435][ 72]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.17.11:443][ 73]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.17.11:451][ 74]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.17.11:460][ 75]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.17.11:468][ 76]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.17.11:476][ 77]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.17.11:485][ 78]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.17.11:493][ 79]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.17.11:501][ 80]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.17.11:510][ 81]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.17.11:518][ 82]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.17.11:526][ 83]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.17.11:535][ 84]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.17.11:543][ 85]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.17.11:551][ 86]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.17.12:460][195]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.17.12:469][196]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.17.12:477][197]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.17.12:485][198]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.17.12:493][199]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.17.12:502][200]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.17.12:510][201]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.17.12:519][202]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.17.12:527][203]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.17.12:535][204]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.17.12:544][205]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.17.12:552][206]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.17.12:560][207]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.17.12:569][208]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.17.12:577][209]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.17.12:585][210]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.17.12:593][211]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.17.13:535][324]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.03.02-21.17.13:535][324]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2025.03.02-21.17.13:535][324]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2025.03.02-21.17.22:488][314]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.02-21.17.22:488][314]LogWorld: BeginTearingDown for /Game/Dynamic/Levels/UEDPIE_0_ActualFirstLevel
+[2025.03.02-21.17.22:489][314]LogWorld: UWorld::CleanupWorld for ActualFirstLevel, bSessionEnded=true, bCleanupResources=true
+[2025.03.02-21.17.22:494][314]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.02-21.17.22:509][314]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.02-21.17.22:527][314]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.02-21.17.22:584][314]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.02-21.17.22:586][314]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2025.03.02-21.17.22:587][314]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2025.03.02-21.17.22:589][314]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.02-21.17.22:598][314]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2025.03.02-21.17.22:623][315]LogPlayLevel: Display: Destroying online subsystem :Context_98
+[2025.03.02-21.17.27:028][764]LogTemp: Repeating last play command: Selected Viewport
+[2025.03.02-21.17.27:033][764]BlueprintLog: New page: Pre-Play auto-recompile
+[2025.03.02-21.17.27:049][764]LogPlayLevel: [PlayLevel] Compiling BP_Agent before play...
+[2025.03.02-21.17.27:429][764]LogUObjectHash: Compacting FUObjectHashTables data took   4.36ms
+[2025.03.02-21.17.27:430][764]LogPlayLevel: PlayLevel: Blueprint regeneration took 397 ms (1 blueprints)
+[2025.03.02-21.17.27:431][764]PIE: New page: PIE session: ActualFirstLevel (Mar 2, 2025, 5:17:27 AM)
+[2025.03.02-21.17.27:431][764]LogPlayLevel: Creating play world package: /Game/Dynamic/Levels/UEDPIE_0_ActualFirstLevel
+[2025.03.02-21.17.27:484][764]LogPlayLevel: PIE: StaticDuplicateObject took: (0.053063s)
+[2025.03.02-21.17.27:484][764]LogAIModule: Creating AISystem for world ActualFirstLevel
+[2025.03.02-21.17.27:485][764]LogPlayLevel: PIE: World Init took: (0.001052s)
+[2025.03.02-21.17.27:485][764]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dynamic/Levels/ActualFirstLevel.ActualFirstLevel to /Game/Dynamic/Levels/UEDPIE_0_ActualFirstLevel.ActualFirstLevel (0.054317s)
+[2025.03.02-21.17.27:545][764]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2025.03.02-21.17.27:546][764]LogAudio: Display: Creating Audio Device:                 Id: 44, Scope: Unique, Realtime: True
+[2025.03.02-21.17.27:546][764]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.02-21.17.27:546][764]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.02-21.17.27:546][764]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.02-21.17.27:546][764]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.02-21.17.27:546][764]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.03.02-21.17.27:546][764]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.02-21.17.27:546][764]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.03.02-21.17.27:546][764]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.02-21.17.27:546][764]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.02-21.17.27:546][764]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.02-21.17.27:546][764]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.02-21.17.27:546][764]LogAudioMixer: Display: Initializing audio mixer.
+[2025.03.02-21.17.27:558][764]LogAudioMixer: Display: 0: FrontLeft
+[2025.03.02-21.17.27:558][764]LogAudioMixer: Display: 1: FrontRight
+[2025.03.02-21.17.27:572][764]LogAudioMixer: Display: Using Audio Device Headphones (Realtek(R) Audio)
+[2025.03.02-21.17.27:573][764]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.02-21.17.27:573][764]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.02-21.17.27:573][764]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.02-21.17.27:573][764]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2025.03.02-21.17.27:573][764]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2025.03.02-21.17.27:573][764]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2025.03.02-21.17.27:574][764]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2025.03.02-21.17.27:574][764]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2025.03.02-21.17.27:574][764]LogInit: FAudioDevice initialized.
+[2025.03.02-21.17.27:574][764]LogAudio: Display: Audio Device (ID: 44) registered with world 'ActualFirstLevel'.
+[2025.03.02-21.17.27:589][764]LogLoad: Game class is 'GameMode_C'
+[2025.03.02-21.17.27:622][764]LogWorld: Bringing World /Game/Dynamic/Levels/UEDPIE_0_ActualFirstLevel.ActualFirstLevel up for play (max tick rate 0) at 2025.03.02-13.17.27
+[2025.03.02-21.17.27:625][764]LogWorld: Bringing up level for play took: 0.034775
+[2025.03.02-21.17.27:625][764]LogOnline: OSS: Creating online subsystem instance for: :Context_99
+[2025.03.02-21.17.27:627][764]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2025.03.02-21.17.27:627][764]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2025.03.02-21.17.27:627][764]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2025.03.02-21.17.27:630][764]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2025.03.02-21.17.27:630][764]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2025.03.02-21.17.27:630][764]PIE: Server logged in
+[2025.03.02-21.17.27:631][764]PIE: Play in editor total start time 0.599 seconds.
+[2025.03.02-21.17.31:633][232]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.17.31:641][233]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.17.31:650][234]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.17.31:658][235]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.17.31:666][236]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.17.31:675][237]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.17.31:683][238]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.17.31:691][239]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.17.31:700][240]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.17.31:708][241]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.17.31:716][242]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.17.31:725][243]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.17.31:733][244]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.17.31:741][245]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.17.31:750][246]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.17.31:758][247]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.17.31:766][248]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.17.31:775][249]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.17.31:783][250]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.17.31:791][251]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.17.31:800][252]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.17.31:808][253]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.17.32:508][337]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.17.32:517][338]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.17.32:525][339]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.17.32:533][340]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.17.32:541][341]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.17.32:550][342]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.17.32:558][343]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.17.32:566][344]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.17.32:575][345]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.17.32:583][346]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.17.32:592][347]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.17.32:600][348]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.17.32:608][349]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.17.32:616][350]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.17.32:625][351]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.17.32:633][352]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.17.32:641][353]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.17.32:650][354]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.17.32:658][355]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.17.32:666][356]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.17.32:675][357]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.17.32:683][358]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.17.34:189][538]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.03.02-21.17.34:189][538]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2025.03.02-21.17.34:189][538]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2025.03.02-21.17.34:987][631]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2025.03.02-21.17.34:987][631]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2025.03.02-21.17.38:389][ 36]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.02-21.17.38:389][ 36]LogWorld: BeginTearingDown for /Game/Dynamic/Levels/UEDPIE_0_ActualFirstLevel
+[2025.03.02-21.17.38:391][ 36]LogWorld: UWorld::CleanupWorld for ActualFirstLevel, bSessionEnded=true, bCleanupResources=true
+[2025.03.02-21.17.38:397][ 36]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.02-21.17.38:411][ 36]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.02-21.17.38:426][ 36]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.02-21.17.38:483][ 36]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.02-21.17.38:486][ 36]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2025.03.02-21.17.38:487][ 36]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2025.03.02-21.17.38:497][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2025.03.02-21.17.38:533][ 37]LogPlayLevel: Display: Destroying online subsystem :Context_99
+[2025.03.02-21.17.49:872][226]BlueprintLog: New page: Compile BP_Agent
+[2025.03.02-21.17.50:037][226]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2025.03.02-21.17.51:455][340]LogTemp: Repeating last play command: Selected Viewport
+[2025.03.02-21.17.51:461][340]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.02-21.17.51:461][340]PIE: New page: PIE session: ActualFirstLevel (Mar 2, 2025, 5:17:51 AM)
+[2025.03.02-21.17.51:507][340]LogPlayLevel: Creating play world package: /Game/Dynamic/Levels/UEDPIE_0_ActualFirstLevel
+[2025.03.02-21.17.51:575][340]LogPlayLevel: PIE: StaticDuplicateObject took: (0.067992s)
+[2025.03.02-21.17.51:576][340]LogAIModule: Creating AISystem for world ActualFirstLevel
+[2025.03.02-21.17.51:576][340]LogPlayLevel: PIE: World Init took: (0.001010s)
+[2025.03.02-21.17.51:576][340]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dynamic/Levels/ActualFirstLevel.ActualFirstLevel to /Game/Dynamic/Levels/UEDPIE_0_ActualFirstLevel.ActualFirstLevel (0.069436s)
+[2025.03.02-21.17.51:643][340]LogUObjectHash: Compacting FUObjectHashTables data took   4.10ms
+[2025.03.02-21.17.51:644][340]LogAudio: Display: Creating Audio Device:                 Id: 45, Scope: Unique, Realtime: True
+[2025.03.02-21.17.51:644][340]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.02-21.17.51:644][340]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.02-21.17.51:644][340]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.02-21.17.51:644][340]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.02-21.17.51:644][340]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.03.02-21.17.51:644][340]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.02-21.17.51:644][340]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.03.02-21.17.51:644][340]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.02-21.17.51:644][340]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.02-21.17.51:644][340]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.02-21.17.51:644][340]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.02-21.17.51:644][340]LogAudioMixer: Display: Initializing audio mixer.
+[2025.03.02-21.17.51:656][340]LogAudioMixer: Display: 0: FrontLeft
+[2025.03.02-21.17.51:656][340]LogAudioMixer: Display: 1: FrontRight
+[2025.03.02-21.17.51:670][340]LogAudioMixer: Display: Using Audio Device Headphones (Realtek(R) Audio)
+[2025.03.02-21.17.51:670][340]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.02-21.17.51:670][340]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.02-21.17.51:670][340]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.02-21.17.51:670][340]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2025.03.02-21.17.51:670][340]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2025.03.02-21.17.51:670][340]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2025.03.02-21.17.51:672][340]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2025.03.02-21.17.51:672][340]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2025.03.02-21.17.51:672][340]LogInit: FAudioDevice initialized.
+[2025.03.02-21.17.51:672][340]LogAudio: Display: Audio Device (ID: 45) registered with world 'ActualFirstLevel'.
+[2025.03.02-21.17.51:680][340]LogLoad: Game class is 'GameMode_C'
+[2025.03.02-21.17.51:714][340]LogWorld: Bringing World /Game/Dynamic/Levels/UEDPIE_0_ActualFirstLevel.ActualFirstLevel up for play (max tick rate 0) at 2025.03.02-13.17.51
+[2025.03.02-21.17.51:717][340]LogWorld: Bringing up level for play took: 0.035757
+[2025.03.02-21.17.51:717][340]LogOnline: OSS: Creating online subsystem instance for: :Context_100
+[2025.03.02-21.17.51:719][340]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2025.03.02-21.17.51:719][340]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2025.03.02-21.17.51:719][340]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2025.03.02-21.17.51:721][340]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2025.03.02-21.17.51:722][340]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2025.03.02-21.17.51:722][340]PIE: Server logged in
+[2025.03.02-21.17.51:723][340]PIE: Play in editor total start time 0.263 seconds.
+[2025.03.02-21.17.54:280][628]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.17.54:289][629]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.17.54:297][630]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.17.54:305][631]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.17.54:314][632]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.17.54:322][633]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.17.54:330][634]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.17.54:339][635]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.17.54:347][636]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.17.54:355][637]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.17.54:364][638]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.17.54:372][639]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.17.54:380][640]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.17.54:389][641]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.17.54:397][642]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.17.54:405][643]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.17.54:414][644]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.17.54:422][645]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.17.54:430][646]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.17.54:439][647]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.17.54:447][648]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.17.54:455][649]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.17.54:464][650]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.17.54:472][651]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.17.54:480][652]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.17.54:489][653]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.17.54:497][654]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.17.54:505][655]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.17.54:514][656]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.17.54:522][657]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.17.54:530][658]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.17.55:706][799]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.17.55:714][800]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.17.55:722][801]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.17.55:731][802]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.17.55:739][803]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.17.55:747][804]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.18.08:267][306]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.18.08:275][307]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.18.08:283][308]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.18.08:292][309]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.18.08:300][310]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.18.08:308][311]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.18.08:450][328]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.18.08:458][329]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.18.08:467][330]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.18.08:475][331]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.18.08:483][332]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.18.08:492][333]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.18.08:500][334]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.18.08:508][335]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.18.08:517][336]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.18.08:525][337]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.18.08:533][338]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.18.18:691][555]LogBlueprintUserMessages: [Pistol_2] 56
+[2025.03.02-21.18.18:693][555]LogBlueprintUserMessages: [BP_EnemyCharger_2] 70.063477
+[2025.03.02-21.18.18:923][583]LogBlueprintUserMessages: [Pistol_2] 55
+[2025.03.02-21.18.18:925][583]LogBlueprintUserMessages: [BP_EnemyCharger_2] 43.776054
+[2025.03.02-21.18.19:106][605]LogBlueprintUserMessages: [Pistol_2] 54
+[2025.03.02-21.18.19:108][605]LogBlueprintUserMessages: [BP_EnemyCharger_2] 14.018982
+[2025.03.02-21.18.19:449][646]LogBlueprintUserMessages: [Pistol_2] 53
+[2025.03.02-21.18.19:451][646]LogBlueprintUserMessages: [BP_EnemyCharger_2] Enemy killed
+[2025.03.02-21.18.19:657][671]LogBlueprintUserMessages: [Pistol_2] 52
+[2025.03.02-21.18.19:823][691]LogBlueprintUserMessages: [Pistol_2] 51
+[2025.03.02-21.18.20:264][744]LogCharacterMovement: BP_EnemyCharger2 is stuck and failed to move! Velocity: X=13.73 Y=-549.83 Z=0.00 Location: X=-229.22 Y=-886.75 Z=11910.71 Normal: X=-0.93 Y=0.30 Z=0.22 PenetrationDepth:17.466 Actor:Projectile_Type-Enemy_Lazer_Fast_C_8 Component:Sphere BoneName:None (0 other events since notify)
+[2025.03.02-21.18.20:899][820]LogBlueprintUserMessages: [Pistol_2] 50
+[2025.03.02-21.18.20:907][821]LogBlueprintUserMessages: [BP_EnemyCharger2] 75.728325
+[2025.03.02-21.18.21:107][845]LogBlueprintUserMessages: [Pistol_2] 49
+[2025.03.02-21.18.21:116][846]LogBlueprintUserMessages: [BP_EnemyCharger2] 50.340282
+[2025.03.02-21.18.21:307][869]LogBlueprintUserMessages: [Pistol_2] 48
+[2025.03.02-21.18.21:316][870]LogBlueprintUserMessages: [BP_EnemyCharger2] 29.078648
+[2025.03.02-21.18.21:475][888]LogBlueprintUserMessages: [Pistol_2] 47
+[2025.03.02-21.18.21:477][888]LogBlueprintUserMessages: [BP_EnemyCharger2] Enemy killed
+[2025.03.02-21.18.21:659][910]LogBlueprintUserMessages: [Pistol_2] 46
+[2025.03.02-21.18.21:666][911]LogBlueprintUserMessages: [BP_EnemyCharger2] Enemy killed
+[2025.03.02-21.18.21:842][932]LogBlueprintUserMessages: [Pistol_2] 45
+[2025.03.02-21.18.21:859][934]LogBlueprintUserMessages: [BP_EnemyCharger3] 73.244728
+[2025.03.02-21.18.27:785][643]LogBlueprintUserMessages: [Pistol_2] 44
+[2025.03.02-21.18.28:243][698]LogBlueprintUserMessages: [Pistol_2] 43
+[2025.03.02-21.18.28:245][698]LogBlueprintUserMessages: [BP_EnemyCharger3] 52.867519
+[2025.03.02-21.18.28:426][720]LogBlueprintUserMessages: [Pistol_2] 42
+[2025.03.02-21.18.28:428][720]LogBlueprintUserMessages: [BP_EnemyCharger3] 23.975952
+[2025.03.02-21.18.28:603][741]LogBlueprintUserMessages: [Pistol_2] 41
+[2025.03.02-21.18.28:605][741]LogBlueprintUserMessages: [BP_EnemyCharger3] Enemy killed
+[2025.03.02-21.18.28:787][763]LogBlueprintUserMessages: [Pistol_2] 40
+[2025.03.02-21.18.28:789][763]LogBlueprintUserMessages: [BP_EnemyCharger3] Enemy killed
+[2025.03.02-21.18.29:760][879]LogBlueprintUserMessages: [Projectile_Type-Enemy_Lazer_Fast_C_35] player hit
+[2025.03.02-21.18.35:018][510]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.18.35:026][511]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.18.35:035][512]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.18.35:043][513]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.18.35:051][514]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.18.35:060][515]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.18.35:068][516]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.18.35:076][517]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.18.35:085][518]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.18.37:031][751]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.18.37:039][752]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.18.37:047][753]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.18.37:056][754]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.18.37:064][755]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.18.37:072][756]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.18.37:081][757]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.18.37:089][758]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.18.37:097][759]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.18.37:106][760]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.18.37:114][761]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.18.37:122][762]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.18.37:131][763]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.18.37:139][764]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.18.37:147][765]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.18.37:156][766]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.18.37:164][767]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.18.37:172][768]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.18.37:181][769]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.18.37:189][770]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.18.37:197][771]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.18.37:206][772]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.18.37:214][773]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.18.37:222][774]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.18.37:231][775]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.18.37:239][776]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.18.37:247][777]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.18.37:256][778]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.18.37:264][779]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.18.37:272][780]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.18.37:281][781]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.18.37:289][782]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.18.37:297][783]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.18.37:306][784]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.18.37:314][785]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.18.37:322][786]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.18.37:331][787]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.18.37:339][788]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.18.37:347][789]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.18.37:980][865]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.18.37:989][866]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.18.37:997][867]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.18.38:006][868]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.18.38:014][869]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.18.38:023][870]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.18.38:031][871]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.18.38:039][872]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.18.38:048][873]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.18.38:057][874]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.18.38:065][875]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.18.38:073][876]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.18.38:086][877]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.18.38:094][878]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.18.38:102][879]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.18.38:110][880]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.18.38:119][881]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.18.38:127][882]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.18.38:135][883]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.18.38:144][884]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.18.38:152][885]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.18.38:160][886]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.18.38:169][887]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.18.38:177][888]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.18.38:185][889]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.18.38:194][890]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.18.38:202][891]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.18.38:210][892]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.18.38:219][893]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.18.38:227][894]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.18.38:235][895]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.18.38:244][896]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.18.38:252][897]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.18.38:260][898]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.18.38:269][899]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.18.38:277][900]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.18.38:285][901]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.18.38:294][902]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.18.44:299][622]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.03.02-21.18.44:299][622]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2025.03.02-21.18.44:299][622]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2025.03.02-21.18.45:067][714]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2025.03.02-21.18.45:067][714]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2025.03.02-21.18.46:184][843]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.02-21.18.46:185][843]LogWorld: BeginTearingDown for /Game/Dynamic/Levels/UEDPIE_0_ActualFirstLevel
+[2025.03.02-21.18.46:188][843]LogWorld: UWorld::CleanupWorld for ActualFirstLevel, bSessionEnded=true, bCleanupResources=true
+[2025.03.02-21.18.46:198][843]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.02-21.18.46:217][843]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.02-21.18.46:237][843]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.02-21.18.46:302][843]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.02-21.18.46:303][843]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2025.03.02-21.18.46:304][843]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2025.03.02-21.18.46:307][843]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.02-21.18.46:317][843]LogUObjectHash: Compacting FUObjectHashTables data took   4.08ms
+[2025.03.02-21.18.46:352][844]LogPlayLevel: Display: Destroying online subsystem :Context_100
+[2025.03.02-21.18.57:363][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   3.20ms
+[2025.03.02-21.18.57:459][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2025.03.02-21.18.57:639][ 67]LogSavePackage: Moving '../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Saved/ActualFirstLevel0049AA3D46194B823ECA45B4E6EF7C1D.tmp' to '../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/Dynamic/Levels/ActualFirstLevel.umap'
+[2025.03.02-21.18.57:652][ 67]LogFileHelpers: Saving map 'ActualFirstLevel' took 0.253
+[2025.03.02-21.18.57:776][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2025.03.02-21.18.57:882][ 67]LogSavePackage: Moving '../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Saved/DemoLevel1BB189E24EB390A7542BBF9BE68793B8.tmp' to '../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/Dynamic/Levels/DemoLevel.umap'
+[2025.03.02-21.18.57:923][ 67]LogFileHelpers: Saving map 'DemoLevel' took 0.271
+[2025.03.02-21.18.57:923][ 67]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dynamic/Agents/BP_Agent" FILE="../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/Dynamic/Agents/BP_Agent.uasset" SILENT=true
+[2025.03.02-21.18.58:112][ 67]LogSavePackage: Moving '../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Saved/BP_Agent0A51040B4823ADE3D6A4EB8D5A8DE59E.tmp' to '../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/Dynamic/Agents/BP_Agent.uasset'
+[2025.03.02-21.18.58:128][ 67]AssetCheck: New page: Asset Save: multiple assets
+[2025.03.02-21.18.58:128][ 67]LogContentValidation: Display: Validating Blueprint /Game/Dynamic/Agents/BP_Agent.BP_Agent
+[2025.03.02-21.18.58:128][ 67]LogContentValidation: Display: Validating World /Game/Dynamic/Levels/ActualFirstLevel.ActualFirstLevel
+[2025.03.02-21.18.58:128][ 67]LogContentValidation: Display: Validating World /Game/Dynamic/Levels/DemoLevel.DemoLevel
+[2025.03.02-21.20.12:993][241]BlueprintLog: New page: Compile BP_Agent
+[2025.03.02-21.20.13:219][241]LogUObjectHash: Compacting FUObjectHashTables data took   3.49ms
+[2025.03.02-21.20.14:059][293]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dynamic/Agents/BP_Agent" FILE="../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/Dynamic/Agents/BP_Agent.uasset" SILENT=true
+[2025.03.02-21.20.14:237][293]LogSavePackage: Moving '../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Saved/BP_Agent854BBDEC415900C033CD70896698F20D.tmp' to '../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/Dynamic/Agents/BP_Agent.uasset'
+[2025.03.02-21.20.14:253][293]AssetCheck: New page: Asset Save: BP_Agent
+[2025.03.02-21.20.14:253][293]LogContentValidation: Display: Validating Blueprint /Game/Dynamic/Agents/BP_Agent.BP_Agent
+[2025.03.02-21.20.22:427][223]LogTemp: Repeating last play command: Selected Viewport
+[2025.03.02-21.20.22:432][223]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.02-21.20.22:433][223]PIE: New page: PIE session: ActualFirstLevel (Mar 2, 2025, 5:20:22 AM)
+[2025.03.02-21.20.22:467][223]LogPlayLevel: Creating play world package: /Game/Dynamic/Levels/UEDPIE_0_ActualFirstLevel
+[2025.03.02-21.20.22:520][223]LogPlayLevel: PIE: StaticDuplicateObject took: (0.053712s)
+[2025.03.02-21.20.22:521][223]LogAIModule: Creating AISystem for world ActualFirstLevel
+[2025.03.02-21.20.22:521][223]LogPlayLevel: PIE: World Init took: (0.000918s)
+[2025.03.02-21.20.22:521][223]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dynamic/Levels/ActualFirstLevel.ActualFirstLevel to /Game/Dynamic/Levels/UEDPIE_0_ActualFirstLevel.ActualFirstLevel (0.054833s)
+[2025.03.02-21.20.22:588][223]LogUObjectHash: Compacting FUObjectHashTables data took   4.60ms
+[2025.03.02-21.20.22:590][223]LogAudio: Display: Creating Audio Device:                 Id: 46, Scope: Unique, Realtime: True
+[2025.03.02-21.20.22:590][223]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.02-21.20.22:590][223]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.02-21.20.22:590][223]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.02-21.20.22:590][223]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.02-21.20.22:590][223]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.03.02-21.20.22:590][223]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.02-21.20.22:590][223]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.03.02-21.20.22:590][223]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.02-21.20.22:591][223]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.02-21.20.22:591][223]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.02-21.20.22:591][223]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.02-21.20.22:591][223]LogAudioMixer: Display: Initializing audio mixer.
+[2025.03.02-21.20.22:602][223]LogAudioMixer: Display: 0: FrontLeft
+[2025.03.02-21.20.22:602][223]LogAudioMixer: Display: 1: FrontRight
+[2025.03.02-21.20.22:617][223]LogAudioMixer: Display: Using Audio Device Headphones (Realtek(R) Audio)
+[2025.03.02-21.20.22:617][223]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.02-21.20.22:617][223]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.02-21.20.22:617][223]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.02-21.20.22:617][223]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2025.03.02-21.20.22:617][223]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2025.03.02-21.20.22:617][223]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2025.03.02-21.20.22:618][223]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2025.03.02-21.20.22:618][223]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2025.03.02-21.20.22:618][223]LogInit: FAudioDevice initialized.
+[2025.03.02-21.20.22:618][223]LogAudio: Display: Audio Device (ID: 46) registered with world 'ActualFirstLevel'.
+[2025.03.02-21.20.22:644][223]LogLoad: Game class is 'GameMode_C'
+[2025.03.02-21.20.22:675][223]LogWorld: Bringing World /Game/Dynamic/Levels/UEDPIE_0_ActualFirstLevel.ActualFirstLevel up for play (max tick rate 0) at 2025.03.02-13.20.22
+[2025.03.02-21.20.22:678][223]LogWorld: Bringing up level for play took: 0.032813
+[2025.03.02-21.20.22:678][223]LogOnline: OSS: Creating online subsystem instance for: :Context_101
+[2025.03.02-21.20.22:680][223]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2025.03.02-21.20.22:680][223]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2025.03.02-21.20.22:680][223]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2025.03.02-21.20.22:682][223]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2025.03.02-21.20.22:683][223]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2025.03.02-21.20.22:683][223]PIE: Server logged in
+[2025.03.02-21.20.22:684][223]PIE: Play in editor total start time 0.253 seconds.
+[2025.03.02-21.20.27:446][783]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.27:455][784]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.27:463][785]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.27:471][786]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.27:480][787]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.27:488][788]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.27:496][789]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.27:505][790]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.27:513][791]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.27:521][792]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.27:530][793]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.27:538][794]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.27:547][795]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.27:555][796]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.27:563][797]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.27:572][798]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.27:580][799]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.27:588][800]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.27:597][801]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.27:605][802]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.27:613][803]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.27:622][804]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.27:630][805]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.27:638][806]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.27:647][807]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.27:655][808]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.27:663][809]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.27:672][810]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.27:680][811]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.27:688][812]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.27:697][813]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.27:705][814]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.27:713][815]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.27:722][816]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.27:730][817]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.27:738][818]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.27:747][819]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.34:358][605]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.34:366][606]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.34:374][607]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.34:383][608]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.34:391][609]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.34:399][610]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.34:408][611]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.34:416][612]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.34:424][613]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.34:433][614]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.34:441][615]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.34:449][616]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.34:458][617]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.34:466][618]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.34:474][619]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.34:483][620]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.34:491][621]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.34:499][622]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.34:508][623]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.34:516][624]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.34:524][625]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.50:975][598]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.50:975][598]LogBlueprintUserMessages: [BP_EnemyCharger_2] 50.0
+[2025.03.02-21.20.50:983][599]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.50:992][600]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.51:000][601]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.51:008][602]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.51:017][603]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.51:025][604]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.51:035][605]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.51:042][606]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.51:050][607]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.51:058][608]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.51:067][609]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.51:075][610]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.51:083][611]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.51:092][612]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.51:100][613]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.51:108][614]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.51:117][615]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.51:125][616]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.51:133][617]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.51:141][618]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.51:150][619]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.51:158][620]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.51:167][621]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.51:175][622]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.51:183][623]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.51:191][624]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.51:200][625]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.51:208][626]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.51:217][627]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.51:225][628]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.51:233][629]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.51:242][630]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.51:250][631]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.51:258][632]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.51:267][633]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.51:275][634]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.51:283][635]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.51:291][636]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.51:975][718]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.51:975][718]LogBlueprintUserMessages: [BP_EnemyCharger_2] Enemy killed
+[2025.03.02-21.20.52:000][721]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.52:008][722]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.52:017][723]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.52:025][724]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.52:034][725]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.52:042][726]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.52:050][727]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.52:058][728]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.52:067][729]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.52:075][730]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.52:083][731]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.52:091][732]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.52:100][733]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.54:641][ 38]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.54:641][ 38]LogBlueprintUserMessages: [BP_EnemyCharger2] 50.0
+[2025.03.02-21.20.54:650][ 39]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.54:658][ 40]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.54:666][ 41]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.54:674][ 42]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.54:683][ 43]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.54:691][ 44]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.54:700][ 45]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.54:708][ 46]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.54:716][ 47]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.54:724][ 48]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.54:733][ 49]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.54:741][ 50]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.54:749][ 51]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.54:758][ 52]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.54:766][ 53]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.54:775][ 54]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.54:783][ 55]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.54:791][ 56]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.56:475][258]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.56:475][258]LogBlueprintUserMessages: [BP_EnemyCharger2] Enemy killed
+[2025.03.02-21.20.56:499][261]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.56:508][262]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.56:516][263]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.56:524][264]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.56:533][265]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.56:541][266]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.56:550][267]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.56:558][268]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.56:567][269]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.56:574][270]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.56:583][271]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.56:591][272]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.56:600][273]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.56:608][274]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.56:616][275]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.56:624][276]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.56:633][277]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.56:641][278]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.56:650][279]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.56:658][280]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.56:666][281]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.56:674][282]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.56:683][283]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.56:691][284]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.56:700][285]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.56:708][286]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.56:716][287]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.56:724][288]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.56:733][289]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.56:741][290]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.56:750][291]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.57:557][388]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.57:557][388]LogBlueprintUserMessages: [BP_EnemyCharger3] 50.0
+[2025.03.02-21.20.57:566][389]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.57:574][390]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.57:583][391]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.57:591][392]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.57:599][393]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.57:608][394]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.57:616][395]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.57:624][396]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.57:633][397]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.57:641][398]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.57:649][399]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.57:658][400]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.57:666][401]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.57:674][402]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.57:683][403]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.57:691][404]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.57:699][405]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.57:707][406]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.57:716][407]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.57:724][408]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.57:733][409]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.57:741][410]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.57:749][411]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.57:757][412]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.57:766][413]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.57:774][414]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.57:783][415]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.57:792][416]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.57:799][417]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.57:807][418]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.57:816][419]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.57:824][420]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.58:650][519]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.58:650][519]LogBlueprintUserMessages: [BP_EnemyCharger3] Enemy killed
+[2025.03.02-21.20.58:692][524]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.58:700][525]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.58:708][526]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.58:717][527]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.58:725][528]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.58:733][529]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.58:742][530]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.58:750][531]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.58:758][532]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.58:767][533]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.58:775][534]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.58:783][535]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.58:792][536]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.58:800][537]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.58:808][538]LogBlueprintUserMessages: [BP_Agent_C_0] Hit
+[2025.03.02-21.20.59:741][650]LogBlueprintUserMessages: [SMG_2] 44
+[2025.03.02-21.20.59:809][658]LogBlueprintUserMessages: [SMG_2] 43
+[2025.03.02-21.20.59:891][667]LogBlueprintUserMessages: [SMG_2] 42
+[2025.03.02-21.20.59:966][676]LogBlueprintUserMessages: [SMG_2] 41
+[2025.03.02-21.21.00:023][683]LogBlueprintUserMessages: [BP_EnemyCharger3] Enemy killed
+[2025.03.02-21.21.00:041][685]LogBlueprintUserMessages: [SMG_2] 40
+[2025.03.02-21.21.00:116][694]LogBlueprintUserMessages: [SMG_2] 39
+[2025.03.02-21.21.00:191][703]LogBlueprintUserMessages: [SMG_2] 38
+[2025.03.02-21.21.00:267][712]LogBlueprintUserMessages: [SMG_2] 37
+[2025.03.02-21.21.05:165][300]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.03.02-21.21.05:165][300]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2025.03.02-21.21.05:165][300]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2025.03.02-21.21.10:800][976]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2025.03.02-21.21.10:800][976]LogGameState: Match State Changed from InProgress to LeavingMap
+[2025.03.02-21.21.10:800][976]LogNet: Browse: /Game/Dynamic/Levels/MainMenuMap
+[2025.03.02-21.21.10:800][976]LogLoad: LoadMap: /Game/Dynamic/Levels/MainMenuMap
+[2025.03.02-21.21.10:800][976]LogWorld: BeginTearingDown for /Game/Dynamic/Levels/UEDPIE_0_ActualFirstLevel
+[2025.03.02-21.21.10:801][976]LogWorld: UWorld::CleanupWorld for ActualFirstLevel, bSessionEnded=true, bCleanupResources=true
+[2025.03.02-21.21.10:805][976]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.02-21.21.10:865][976]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.02-21.21.10:878][976]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
+[2025.03.02-21.21.10:888][976]LogAudio: Display: Audio Device (ID: 46) registered with world 'MainMenuMap'.
+[2025.03.02-21.21.10:888][976]LogAIModule: Creating AISystem for world MainMenuMap
+[2025.03.02-21.21.10:888][976]LogLoad: Game class is 'MainMenuGameMode_C'
+[2025.03.02-21.21.10:889][976]LogWorld: Bringing World /Game/Dynamic/Levels/UEDPIE_0_MainMenuMap.MainMenuMap up for play (max tick rate 0) at 2025.03.02-13.21.10
+[2025.03.02-21.21.10:890][976]LogWorld: Bringing up level for play took: 0.000450
+[2025.03.02-21.21.10:890][976]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2025.03.02-21.21.10:890][976]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2025.03.02-21.21.10:891][976]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> NoCapture
+[2025.03.02-21.21.10:891][976]LogLoad: Took 0.090928 seconds to LoadMap(/Game/Dynamic/Levels/MainMenuMap)
+[2025.03.02-21.21.13:367][265]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.02-21.21.13:367][265]LogWorld: BeginTearingDown for /Game/Dynamic/Levels/UEDPIE_0_MainMenuMap
+[2025.03.02-21.21.13:367][265]LogWorld: UWorld::CleanupWorld for MainMenuMap, bSessionEnded=true, bCleanupResources=true
+[2025.03.02-21.21.13:368][265]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.02-21.21.13:377][265]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.02-21.21.13:391][265]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.02-21.21.13:446][265]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.02-21.21.13:447][265]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2025.03.02-21.21.13:448][265]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2025.03.02-21.21.13:451][265]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.02-21.21.13:455][265]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2025.03.02-21.21.13:478][266]LogPlayLevel: Display: Destroying online subsystem :Context_101
+[2025.03.02-21.21.14:886][413]LogUObjectHash: Compacting FUObjectHashTables data took   3.82ms
+[2025.03.02-21.21.14:966][413]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2025.03.02-21.21.15:147][413]LogSavePackage: Moving '../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Saved/ActualFirstLevel83D3C64E426B622AAD1D0EA882B1DB72.tmp' to '../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/Dynamic/Levels/ActualFirstLevel.umap'
+[2025.03.02-21.21.15:160][413]LogFileHelpers: Saving map 'ActualFirstLevel' took 0.251
+[2025.03.02-21.21.15:285][413]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2025.03.02-21.21.15:385][413]LogSavePackage: Moving '../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Saved/DemoLevelF266FAE04BA925409EF39FA03D7A7385.tmp' to '../../../../../CS425_SeniorProject/MainProject/Vertigo_Protocol/Vertigo_Protocol/Content/Dynamic/Levels/DemoLevel.umap'
+[2025.03.02-21.21.15:427][413]LogFileHelpers: Saving map 'DemoLevel' took 0.266
+[2025.03.02-21.21.15:452][413]AssetCheck: New page: Asset Save: multiple assets
+[2025.03.02-21.21.15:452][413]LogContentValidation: Display: Validating World /Game/Dynamic/Levels/ActualFirstLevel.ActualFirstLevel
+[2025.03.02-21.21.15:452][413]LogContentValidation: Display: Validating World /Game/Dynamic/Levels/DemoLevel.DemoLevel
+[2025.03.02-21.21.16:703][549]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
