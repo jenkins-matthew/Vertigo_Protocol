@@ -715,37 +715,3 @@ Script Stack (0 frames):
 [2025.04.28-05.35.55:634][  0]LogOutputDevice: Error: [Callstack] 0x00007ffbfd7ae8d7 KERNEL32.DLL!UnknownFunction []
 [2025.04.28-05.35.55:634][  0]LogOutputDevice: Error: [Callstack] 0x00007ffbfeb914fc ntdll.dll!UnknownFunction []
 [2025.04.28-05.35.55:634][  0]LogOutputDevice: Error: 
-[2025.04.28-05.35.55:679][  0]LogStats:                SubmitErrorReport -  0.000 s
-[2025.04.28-05.35.56:424][  0]LogStats:                    SendNewReport -  0.745 s
-[2025.04.28-05.35.56:424][  0]LogStats:             FDebug::EnsureFailed -  0.813 s
-[2025.04.28-05.35.56:427][  0]LogWorld: Bringing up level for play took: 0.818937
-[2025.04.28-05.35.56:431][  0]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
-[2025.04.28-05.35.56:431][  0]LogOutputDevice: Warning: 
-
-Script Stack (0 frames):
-
-[2025.04.28-05.35.56:446][  0]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.014 s
-[2025.04.28-05.35.56:446][  0]LogOutputDevice: Error: === Handled ensure: ===
-[2025.04.28-05.35.56:446][  0]LogOutputDevice: Error: 
-[2025.04.28-05.35.56:446][  0]LogOutputDevice: Error: Ensure condition failed: Class.IsValid() [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/Engine/Private/UserInterface/InputSettings.cpp] [Line: 453]
-[2025.04.28-05.35.56:446][  0]LogOutputDevice: Error: Invalid PlayerInput class in Input Settings. Manual reset required.
-[2025.04.28-05.35.56:446][  0]LogOutputDevice: Error: Stack: 
-[2025.04.28-05.35.56:446][  0]LogOutputDevice: Error: [Callstack] 0x00007ffb2d6f2709 UE4Editor-Engine.dll!UnknownFunction []
-[2025.04.28-05.35.56:446][  0]LogOutputDevice: Error: [Callstack] 0x00007ffb2cf066f3 UE4Editor-Engine.dll!UnknownFunction []
-[2025.04.28-05.35.56:446][  0]LogOutputDevice: Error: [Callstack] 0x00007ffb2c9fd7ee UE4Editor-Engine.dll!UnknownFunction []
-[2025.04.28-05.35.56:446][  0]LogOutputDevice: Error: [Callstack] 0x00007ffb2ca1105b UE4Editor-Engine.dll!UnknownFunction []
-[2025.04.28-05.35.56:446][  0]LogOutputDevice: Error: [Callstack] 0x00007ffb2c4eb769 UE4Editor-Engine.dll!UnknownFunction []
-[2025.04.28-05.35.56:446][  0]LogOutputDevice: Error: [Callstack] 0x00007ffb2c5498ad UE4Editor-Engine.dll!UnknownFunction []
-[2025.04.28-05.35.56:446][  0]LogOutputDevice: Error: [Callstack] 0x00007ffb2ce8e4ee UE4Editor-Engine.dll!UnknownFunction []
-[2025.04.28-05.35.56:446][  0]LogOutputDevice: Error: [Callstack] 0x00007ffb2ce389a3 UE4Editor-Engine.dll!UnknownFunction []
-[2025.04.28-05.35.56:446][  0]LogOutputDevice: Error: [Callstack] 0x00007ffb2c31dbfe UE4Editor-Engine.dll!UnknownFunction []
-[2025.04.28-05.35.56:446][  0]LogOutputDevice: Error: [Callstack] 0x00007ff7381f3290 UE4Editor.exe!UnknownFunction []
-[2025.04.28-05.35.56:446][  0]LogOutputDevice: Error: [Callstack] 0x00007ff738210e42 UE4Editor.exe!UnknownFunction []
-[2025.04.28-05.35.56:446][  0]LogOutputDevice: Error: [Callstack] 0x00007ff7382110ba UE4Editor.exe!UnknownFunction []
-[2025.04.28-05.35.56:446][  0]LogOutputDevice: Error: [Callstack] 0x00007ff7382140dd UE4Editor.exe!UnknownFunction []
-[2025.04.28-05.35.56:446][  0]LogOutputDevice: Error: [Callstack] 0x00007ff738225984 UE4Editor.exe!UnknownFunction []
-[2025.04.28-05.35.56:446][  0]LogOutputDevice: Error: [Callstack] 0x00007ff73822853a UE4Editor.exe!UnknownFunction []
-[2025.04.28-05.35.56:446][  0]LogOutputDevice: Error: [Callstack] 0x00007ffbfd7ae8d7 KERNEL32.DLL!UnknownFunction []
-[2025.04.28-05.35.56:446][  0]LogOutputDevice: Error: [Callstack] 0x00007ffbfeb914fc ntdll.dll!UnknownFunction []
-[2025.04.28-05.35.56:446][  0]LogOutputDevice: Error: 
-[2025.04.28-05.35.56:487][  0]LogStats:                SubmitErrorReport -  0.000 s
