@@ -748,4 +748,3 @@ Script Stack (0 frames):
 [2025.04.28-05.35.56:446][  0]LogOutputDevice: Error: [Callstack] 0x00007ffbfd7ae8d7 KERNEL32.DLL!UnknownFunction []
 [2025.04.28-05.35.56:446][  0]LogOutputDevice: Error: [Callstack] 0x00007ffbfeb914fc ntdll.dll!UnknownFunction []
 [2025.04.28-05.35.56:446][  0]LogOutputDevice: Error: 
-[2025.04.28-05.35.56:487][  0]LogStats:                SubmitErrorReport -  0.000 s
