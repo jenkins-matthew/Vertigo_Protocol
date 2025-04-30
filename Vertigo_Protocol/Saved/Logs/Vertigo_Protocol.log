@@ -989,3 +989,12 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2025.04.30-00.51.27:166][902]LogSavePackage: Moving 'D:/Users/kiera/OneDrive/Documents/Unreal Projects/Vertigo_Protocol/Saved/BP_OculusTyrant7E3CCA5F4DCD6CA476B10395CB5CB4CC.tmp' to 'D:/Users/kiera/OneDrive/Documents/Unreal Projects/Vertigo_Protocol/Content/Dynamic/Agents/BP_OculusTyrant.uasset'
 [2025.04.30-00.51.27:181][902]AssetCheck: New page: Asset Save: BP_OculusTyrant
 [2025.04.30-00.51.27:181][902]LogContentValidation: Display: Validating Blueprint /Game/Dynamic/Agents/BP_OculusTyrant.BP_OculusTyrant
+[2025.04.30-00.51.52:068][138]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2025.04.30-00.51.52:069][138]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Dynamic/Levels/MainMenuMap' took 0.062
+[2025.04.30-00.51.52:071][138]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Dynamic/SaveGame_BP] ([2] browsable assets)...
+[2025.04.30-00.51.52:071][138]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dynamic/SaveGame_BP]
+[2025.04.30-00.51.52:072][138]LogSavePackage: Moving 'D:/Users/kiera/OneDrive/Documents/Unreal Projects/Vertigo_Protocol/Saved/SaveGame_BP_Auto1661B4B644D8638D31546E88EC4025E6F.tmp' to 'D:/Users/kiera/OneDrive/Documents/Unreal Projects/Vertigo_Protocol/Saved/Autosaves/Game/Dynamic/SaveGame_BP_Auto1.uasset'
+[2025.04.30-00.51.52:073][138]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Dynamic/EnemySaveData] ([1] browsable assets)...
+[2025.04.30-00.51.52:073][138]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dynamic/EnemySaveData]
+[2025.04.30-00.51.52:073][138]LogSavePackage: Moving 'D:/Users/kiera/OneDrive/Documents/Unreal Projects/Vertigo_Protocol/Saved/EnemySaveData_Auto17DA5CBFA49BC23449999BDA1F2EA7C70.tmp' to 'D:/Users/kiera/OneDrive/Documents/Unreal Projects/Vertigo_Protocol/Saved/Autosaves/Game/Dynamic/EnemySaveData_Auto1.uasset'
+[2025.04.30-00.51.52:074][138]LogFileHelpers: Auto-saving content packages took 0.004
