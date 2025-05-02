@@ -1,0 +1,1244 @@
+﻿Log file open, 05/01/25 22:53:50
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Vertigo_Protocol
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.208512
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -8:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin SteamVR
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-18319896
+LogInit: Engine Version: 4.27.2-18319896+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2009) (), CPU: AMD Ryzen 7 7700X 8-Core Processor             , GPU: AMD Radeon RX 7900 XT
+LogInit: Compiled (64-bit): Nov 30 2021 07:12:08
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line: 
+LogInit: Base Directory: E:/Games/Epic Games/UE_4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Users/kiera/OneDrive/Documents/Unreal Projects/Vertigo_Protocol/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2025.05.02-05.53.51:647][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2025.05.02-05.53.51:647][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2025.05.02-05.53.51:647][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Users/kiera/OneDrive/Documents/Unreal Projects/Vertigo_Protocol/Saved/Config/Windows/Engine.ini]
+[2025.05.02-05.53.51:647][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2025.05.02-05.53.51:647][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:0]]
+[2025.05.02-05.53.51:647][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Users/kiera/OneDrive/Documents/Unreal Projects/Vertigo_Protocol/Saved/Config/Windows/Engine.ini]
+[2025.05.02-05.53.51:647][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Users/kiera/OneDrive/Documents/Unreal Projects/Vertigo_Protocol/Saved/Config/Windows/Engine.ini]
+[2025.05.02-05.53.51:647][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2025.05.02-05.53.51:647][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2025.05.02-05.53.51:647][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2025.05.02-05.53.51:647][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2025.05.02-05.53.51:647][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2025.05.02-05.53.51:647][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2025.05.02-05.53.51:647][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2025.05.02-05.53.51:647][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2025.05.02-05.53.51:647][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2025.05.02-05.53.51:647][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2025.05.02-05.53.51:647][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2025.05.02-05.53.51:647][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2025.05.02-05.53.51:647][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2025.05.02-05.53.51:647][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2025.05.02-05.53.51:647][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Users/kiera/OneDrive/Documents/Unreal Projects/Vertigo_Protocol/Saved/Config/Windows/Engine.ini]
+[2025.05.02-05.53.51:647][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2025.05.02-05.53.51:647][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2025.05.02-05.53.51:647][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2025.05.02-05.53.51:647][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2025.05.02-05.53.51:647][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2025.05.02-05.53.51:647][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2025.05.02-05.53.51:647][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2025.05.02-05.53.51:647][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2025.05.02-05.53.51:647][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2025.05.02-05.53.51:647][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2025.05.02-05.53.51:647][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2025.05.02-05.53.51:647][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2025.05.02-05.53.51:647][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2025.05.02-05.53.51:647][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2025.05.02-05.53.51:647][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Users/kiera/OneDrive/Documents/Unreal Projects/Vertigo_Protocol/Saved/Config/Windows/Engine.ini]
+[2025.05.02-05.53.51:647][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Users/kiera/OneDrive/Documents/Unreal Projects/Vertigo_Protocol/Saved/Config/Windows/Engine.ini]
+[2025.05.02-05.53.51:678][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Users/kiera/OneDrive/Documents/Unreal Projects/Vertigo_Protocol/Saved/Config/Windows/Scalability.ini]
+[2025.05.02-05.53.51:678][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2025.05.02-05.53.51:678][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2025.05.02-05.53.51:678][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Users/kiera/OneDrive/Documents/Unreal Projects/Vertigo_Protocol/Saved/Config/Windows/Scalability.ini]
+[2025.05.02-05.53.51:678][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2025.05.02-05.53.51:678][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Users/kiera/OneDrive/Documents/Unreal Projects/Vertigo_Protocol/Saved/Config/Windows/Scalability.ini]
+[2025.05.02-05.53.51:678][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2025.05.02-05.53.51:678][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2025.05.02-05.53.51:678][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2025.05.02-05.53.51:678][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2025.05.02-05.53.51:678][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2025.05.02-05.53.51:678][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2025.05.02-05.53.51:678][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2025.05.02-05.53.51:678][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2025.05.02-05.53.51:678][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2025.05.02-05.53.51:678][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2025.05.02-05.53.51:678][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2025.05.02-05.53.51:678][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2025.05.02-05.53.51:678][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2025.05.02-05.53.51:678][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2025.05.02-05.53.51:678][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2025.05.02-05.53.51:678][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2025.05.02-05.53.51:678][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2025.05.02-05.53.51:678][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2025.05.02-05.53.51:678][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Users/kiera/OneDrive/Documents/Unreal Projects/Vertigo_Protocol/Saved/Config/Windows/Scalability.ini]
+[2025.05.02-05.53.51:678][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2025.05.02-05.53.51:678][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2025.05.02-05.53.51:678][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2025.05.02-05.53.51:678][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2025.05.02-05.53.51:678][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2025.05.02-05.53.51:678][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2025.05.02-05.53.51:678][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2025.05.02-05.53.51:678][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2025.05.02-05.53.51:678][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2025.05.02-05.53.51:678][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2025.05.02-05.53.51:678][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2025.05.02-05.53.51:678][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2025.05.02-05.53.51:678][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2025.05.02-05.53.51:678][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2025.05.02-05.53.51:678][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2025.05.02-05.53.51:678][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2025.05.02-05.53.51:678][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2025.05.02-05.53.51:678][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2025.05.02-05.53.51:678][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2025.05.02-05.53.51:678][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2025.05.02-05.53.51:678][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2025.05.02-05.53.51:678][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2025.05.02-05.53.51:678][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2025.05.02-05.53.51:678][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2025.05.02-05.53.51:678][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2025.05.02-05.53.51:678][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2025.05.02-05.53.51:678][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2025.05.02-05.53.51:678][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2025.05.02-05.53.51:678][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2025.05.02-05.53.51:678][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2025.05.02-05.53.51:678][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Users/kiera/OneDrive/Documents/Unreal Projects/Vertigo_Protocol/Saved/Config/Windows/Scalability.ini]
+[2025.05.02-05.53.51:678][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2025.05.02-05.53.51:678][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2025.05.02-05.53.51:678][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2025.05.02-05.53.51:678][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2025.05.02-05.53.51:678][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2025.05.02-05.53.51:678][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2025.05.02-05.53.51:678][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2025.05.02-05.53.51:678][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2025.05.02-05.53.51:678][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2025.05.02-05.53.51:678][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Users/kiera/OneDrive/Documents/Unreal Projects/Vertigo_Protocol/Saved/Config/Windows/Scalability.ini]
+[2025.05.02-05.53.51:678][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2025.05.02-05.53.51:678][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2025.05.02-05.53.51:678][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2025.05.02-05.53.51:678][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2025.05.02-05.53.51:678][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2025.05.02-05.53.51:678][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2025.05.02-05.53.51:678][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2025.05.02-05.53.51:678][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2025.05.02-05.53.51:678][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2025.05.02-05.53.51:678][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2025.05.02-05.53.51:678][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2025.05.02-05.53.51:678][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2025.05.02-05.53.51:678][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2025.05.02-05.53.51:678][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2025.05.02-05.53.51:678][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2025.05.02-05.53.51:678][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2025.05.02-05.53.51:678][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2025.05.02-05.53.51:678][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2025.05.02-05.53.51:678][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2025.05.02-05.53.51:678][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2025.05.02-05.53.51:678][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2025.05.02-05.53.51:678][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2025.05.02-05.53.51:678][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2025.05.02-05.53.51:678][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2025.05.02-05.53.51:678][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2025.05.02-05.53.51:678][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2025.05.02-05.53.51:678][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2025.05.02-05.53.51:678][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2025.05.02-05.53.51:678][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Users/kiera/OneDrive/Documents/Unreal Projects/Vertigo_Protocol/Saved/Config/Windows/Scalability.ini]
+[2025.05.02-05.53.51:678][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2025.05.02-05.53.51:678][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2025.05.02-05.53.51:678][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Users/kiera/OneDrive/Documents/Unreal Projects/Vertigo_Protocol/Saved/Config/Windows/Scalability.ini]
+[2025.05.02-05.53.51:678][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2025.05.02-05.53.51:678][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2025.05.02-05.53.51:678][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2025.05.02-05.53.51:678][  0]LogInit: Selected Device Profile: [Windows]
+[2025.05.02-05.53.51:679][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2025.05.02-05.53.51:679][  0]LogHAL: Display: Platform has ~ 32 GB [33411727360 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2025.05.02-05.53.51:679][  0]LogInit: Going up to parent DeviceProfile []
+[2025.05.02-05.53.51:679][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Users/kiera/OneDrive/Documents/Unreal Projects/Vertigo_Protocol/Saved/Config/Windows/Scalability.ini]
+[2025.05.02-05.53.51:679][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2025.05.02-05.53.51:679][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2025.05.02-05.53.51:679][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Users/kiera/OneDrive/Documents/Unreal Projects/Vertigo_Protocol/Saved/Config/Windows/Scalability.ini]
+[2025.05.02-05.53.51:679][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2025.05.02-05.53.51:679][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Users/kiera/OneDrive/Documents/Unreal Projects/Vertigo_Protocol/Saved/Config/Windows/Scalability.ini]
+[2025.05.02-05.53.51:679][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2025.05.02-05.53.51:679][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2025.05.02-05.53.51:679][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2025.05.02-05.53.51:679][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2025.05.02-05.53.51:679][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2025.05.02-05.53.51:679][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2025.05.02-05.53.51:679][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2025.05.02-05.53.51:679][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2025.05.02-05.53.51:679][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2025.05.02-05.53.51:679][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2025.05.02-05.53.51:679][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2025.05.02-05.53.51:679][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2025.05.02-05.53.51:679][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2025.05.02-05.53.51:679][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2025.05.02-05.53.51:679][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2025.05.02-05.53.51:679][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2025.05.02-05.53.51:679][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2025.05.02-05.53.51:679][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2025.05.02-05.53.51:679][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Users/kiera/OneDrive/Documents/Unreal Projects/Vertigo_Protocol/Saved/Config/Windows/Scalability.ini]
+[2025.05.02-05.53.51:679][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2025.05.02-05.53.51:679][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2025.05.02-05.53.51:679][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2025.05.02-05.53.51:679][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2025.05.02-05.53.51:679][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2025.05.02-05.53.51:679][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2025.05.02-05.53.51:679][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2025.05.02-05.53.51:679][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2025.05.02-05.53.51:679][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2025.05.02-05.53.51:679][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2025.05.02-05.53.51:679][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2025.05.02-05.53.51:679][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2025.05.02-05.53.51:679][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2025.05.02-05.53.51:679][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2025.05.02-05.53.51:679][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2025.05.02-05.53.51:679][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2025.05.02-05.53.51:679][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2025.05.02-05.53.51:679][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2025.05.02-05.53.51:679][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2025.05.02-05.53.51:679][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2025.05.02-05.53.51:679][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2025.05.02-05.53.51:679][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2025.05.02-05.53.51:679][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2025.05.02-05.53.51:679][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2025.05.02-05.53.51:679][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2025.05.02-05.53.51:679][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2025.05.02-05.53.51:679][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2025.05.02-05.53.51:679][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2025.05.02-05.53.51:679][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2025.05.02-05.53.51:679][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2025.05.02-05.53.51:679][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Users/kiera/OneDrive/Documents/Unreal Projects/Vertigo_Protocol/Saved/Config/Windows/Scalability.ini]
+[2025.05.02-05.53.51:679][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2025.05.02-05.53.51:679][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2025.05.02-05.53.51:679][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2025.05.02-05.53.51:679][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2025.05.02-05.53.51:679][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2025.05.02-05.53.51:679][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2025.05.02-05.53.51:679][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2025.05.02-05.53.51:679][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2025.05.02-05.53.51:679][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2025.05.02-05.53.51:679][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Users/kiera/OneDrive/Documents/Unreal Projects/Vertigo_Protocol/Saved/Config/Windows/Scalability.ini]
+[2025.05.02-05.53.51:679][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2025.05.02-05.53.51:679][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2025.05.02-05.53.51:679][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2025.05.02-05.53.51:679][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2025.05.02-05.53.51:679][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2025.05.02-05.53.51:679][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2025.05.02-05.53.51:679][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2025.05.02-05.53.51:679][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2025.05.02-05.53.51:679][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2025.05.02-05.53.51:679][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2025.05.02-05.53.51:679][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2025.05.02-05.53.51:679][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2025.05.02-05.53.51:679][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2025.05.02-05.53.51:679][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2025.05.02-05.53.51:679][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2025.05.02-05.53.51:679][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2025.05.02-05.53.51:679][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2025.05.02-05.53.51:679][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2025.05.02-05.53.51:679][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2025.05.02-05.53.51:679][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2025.05.02-05.53.51:679][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2025.05.02-05.53.51:679][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2025.05.02-05.53.51:679][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2025.05.02-05.53.51:679][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2025.05.02-05.53.51:679][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2025.05.02-05.53.51:679][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2025.05.02-05.53.51:679][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2025.05.02-05.53.51:679][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2025.05.02-05.53.51:679][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Users/kiera/OneDrive/Documents/Unreal Projects/Vertigo_Protocol/Saved/Config/Windows/Scalability.ini]
+[2025.05.02-05.53.51:679][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2025.05.02-05.53.51:679][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2025.05.02-05.53.51:679][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Users/kiera/OneDrive/Documents/Unreal Projects/Vertigo_Protocol/Saved/Config/Windows/Scalability.ini]
+[2025.05.02-05.53.51:679][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2025.05.02-05.53.51:679][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2025.05.02-05.53.51:679][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2025.05.02-05.53.51:679][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2025.05.02-05.53.51:679][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2025.05.02-05.53.51:679][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2025.05.02-05.53.51:679][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2025.05.02-05.53.51:679][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Users/kiera/OneDrive/Documents/Unreal Projects/Vertigo_Protocol/Saved/Config/Windows/Engine.ini]
+[2025.05.02-05.53.51:679][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Users/kiera/OneDrive/Documents/Unreal Projects/Vertigo_Protocol/Saved/Config/Windows/Editor.ini]
+[2025.05.02-05.53.51:680][  0]LogInit: Computer: CHARLOTTE
+[2025.05.02-05.53.51:680][  0]LogInit: User: kiera
+[2025.05.02-05.53.51:680][  0]LogInit: CPU Page size=4096, Cores=8
+[2025.05.02-05.53.51:680][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2025.05.02-05.53.51:680][  0]LogMemory: Memory total: Physical=31.1GB (32GB approx)
+[2025.05.02-05.53.51:680][  0]LogMemory: Platform Memory Stats for Windows
+[2025.05.02-05.53.51:680][  0]LogMemory: Process Physical Memory: 156.89 MB used, 161.62 MB peak
+[2025.05.02-05.53.51:680][  0]LogMemory: Process Virtual Memory: 135.23 MB used, 135.23 MB peak
+[2025.05.02-05.53.51:680][  0]LogMemory: Physical Memory: 14395.81 MB used,  17468.09 MB free, 31863.91 MB total
+[2025.05.02-05.53.51:680][  0]LogMemory: Virtual Memory: 134172008.00 MB used,  45719.05 MB free, 134217728.00 MB total
+[2025.05.02-05.53.51:684][  0]LogWindows: WindowsPlatformFeatures enabled
+[2025.05.02-05.53.51:701][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2025.05.02-05.53.51:702][  0]LogInit: Using OS detected language (en-US).
+[2025.05.02-05.53.51:702][  0]LogInit: Using OS detected locale (en-US).
+[2025.05.02-05.53.51:703][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2025.05.02-05.53.51:850][  0]LogInit: Setting process to per monitor DPI aware
+[2025.05.02-05.53.51:871][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2025.05.02-05.53.51:884][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2025.05.02-05.53.51:884][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2025.05.02-05.53.51:988][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2025.05.02-05.53.51:995][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2025.05.02-05.53.51:995][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2025.05.02-05.53.51:995][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2025.05.02-05.53.51:995][  0]LogD3D11RHI: D3D11 adapters:
+[2025.05.02-05.53.52:074][  0]LogD3D11RHI:    0. 'AMD Radeon RX 7900 XT' (Feature Level 11_0)
+[2025.05.02-05.53.52:074][  0]LogD3D11RHI:       20402/0/15931 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x1002
+[2025.05.02-05.53.52:126][  0]LogD3D11RHI:    1. 'AMD Radeon(TM) Graphics' (Feature Level 11_0)
+[2025.05.02-05.53.52:126][  0]LogD3D11RHI:       459/0/15931 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1002
+[2025.05.02-05.53.52:128][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2025.05.02-05.53.52:129][  0]LogD3D11RHI:       0/0/15931 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2025.05.02-05.53.52:195][  0]LogD3D11RHI:    3. 'AMD Radeon RX 7900 XT' (Feature Level 11_0)
+[2025.05.02-05.53.52:195][  0]LogD3D11RHI:       20402/0/15931 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1002
+[2025.05.02-05.53.52:195][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2025.05.02-05.53.52:195][  0]LogD3D11RHI:     Description : AMD Radeon RX 7900 XT
+[2025.05.02-05.53.52:195][  0]LogD3D11RHI:     VendorId    : 1002
+[2025.05.02-05.53.52:195][  0]LogD3D11RHI:     DeviceId    : 744c
+[2025.05.02-05.53.52:195][  0]LogD3D11RHI:     SubSysId    : 471e1da2
+[2025.05.02-05.53.52:195][  0]LogD3D11RHI:     Revision    : 00cc
+[2025.05.02-05.53.52:195][  0]LogD3D11RHI:     DedicatedVideoMemory : 21393219584 bytes
+[2025.05.02-05.53.52:195][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2025.05.02-05.53.52:195][  0]LogD3D11RHI:     SharedSystemMemory : 16705863680 bytes
+[2025.05.02-05.53.52:195][  0]LogD3D11RHI:     AdapterLuid : 0 52180
+[2025.05.02-05.53.52:205][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2025.05.02-05.53.52:205][  0]LogD3D11RHI:     GPU DeviceId: 0x744c (for the marketing name, search the web for "GPU Device Id")
+[2025.05.02-05.53.52:205][  0]LogWindows: EnumDisplayDevices:
+[2025.05.02-05.53.52:205][  0]LogWindows:    0. 'AMD Radeon RX 7900 XT' (P:0 D:1)
+[2025.05.02-05.53.52:205][  0]LogWindows:    1. 'AMD Radeon RX 7900 XT' (P:1 D:1)
+[2025.05.02-05.53.52:205][  0]LogWindows:    2. 'AMD Radeon RX 7900 XT' (P:0 D:0)
+[2025.05.02-05.53.52:206][  0]LogWindows:    3. 'AMD Radeon RX 7900 XT' (P:0 D:0)
+[2025.05.02-05.53.52:206][  0]LogWindows:    4. 'AMD Radeon RX 7900 XT' (P:0 D:0)
+[2025.05.02-05.53.52:206][  0]LogWindows:    5. 'AMD Radeon(TM) Graphics' (P:0 D:0)
+[2025.05.02-05.53.52:206][  0]LogWindows:    6. 'AMD Radeon(TM) Graphics' (P:0 D:0)
+[2025.05.02-05.53.52:206][  0]LogWindows:    7. 'AMD Radeon(TM) Graphics' (P:0 D:0)
+[2025.05.02-05.53.52:207][  0]LogWindows:    8. 'AMD Radeon(TM) Graphics' (P:0 D:0)
+[2025.05.02-05.53.52:207][  0]LogWindows:    9. 'AMD Radeon(TM) Graphics' (P:0 D:0)
+[2025.05.02-05.53.52:207][  0]LogWindows:    10. 'Meta Virtual Monitor' (P:0 D:0)
+[2025.05.02-05.53.52:207][  0]LogWindows:    11. 'Meta Virtual Monitor' (P:0 D:0)
+[2025.05.02-05.53.52:207][  0]LogWindows:    12. 'Meta Virtual Monitor' (P:0 D:0)
+[2025.05.02-05.53.52:207][  0]LogWindows:    13. 'Meta Virtual Monitor' (P:0 D:0)
+[2025.05.02-05.53.52:208][  0]LogWindows:    14. 'Meta Virtual Monitor' (P:0 D:0)
+[2025.05.02-05.53.52:208][  0]LogWindows:    15. 'Meta Virtual Monitor' (P:0 D:0)
+[2025.05.02-05.53.52:208][  0]LogWindows:    16. 'Meta Virtual Monitor' (P:0 D:0)
+[2025.05.02-05.53.52:208][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:5 
+[2025.05.02-05.53.52:208][  0]LogD3D11RHI:     Adapter Name: AMD Radeon RX 7900 XT
+[2025.05.02-05.53.52:208][  0]LogD3D11RHI:   Driver Version: AMD Software: Adrenalin Edition 24.9.1 (internal:32.0.12011.1036, unified:32.0.12011.1036)
+[2025.05.02-05.53.52:208][  0]LogD3D11RHI:      Driver Date: 9-26-2024
+[2025.05.02-05.53.52:208][  0]LogRHI: Texture pool is 13743 MB (70% of 19634 MB)
+[2025.05.02-05.53.52:239][  0]LogD3D11RHI: Creating D3DDevice with AMD AGS, using adapter:
+[2025.05.02-05.53.52:239][  0]LogD3D11RHI:     Description : AMD Radeon RX 7900 XT
+[2025.05.02-05.53.52:239][  0]LogD3D11RHI:     VendorId    : 1002
+[2025.05.02-05.53.52:239][  0]LogD3D11RHI:     DeviceId    : 744c
+[2025.05.02-05.53.52:239][  0]LogD3D11RHI:     SubSysId    : 471e1da2
+[2025.05.02-05.53.52:239][  0]LogD3D11RHI:     Revision    : 00cc
+[2025.05.02-05.53.52:239][  0]LogD3D11RHI:     DedicatedVideoMemory : 21393219584 bytes
+[2025.05.02-05.53.52:239][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2025.05.02-05.53.52:239][  0]LogD3D11RHI:     SharedSystemMemory : 16705863680 bytes
+[2025.05.02-05.53.52:239][  0]LogD3D11RHI:     AdapterLuid : 0 52180
+[2025.05.02-05.53.52:300][  0]LogD3D11RHI: Created device via AGS, feature level 11_0, supported extensions 1fffffbf.
+[2025.05.02-05.53.52:300][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2025.05.02-05.53.52:300][  0]LogD3D11RHI: Async texture creation enabled
+[2025.05.02-05.53.52:300][  0]LogD3D11RHI: Array index from any shader is supported
+[2025.05.02-05.53.52:301][  0]LogD3D11RHI: HDR output is supported on display 0 (AMD Device: 0x0, Display: 0x1).
+[2025.05.02-05.53.52:313][  0]LogD3D11RHI: GPU Timing Frequency: 100.000000 (Debug: 2 1)
+[2025.05.02-05.53.52:554][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2025.05.02-05.53.52:568][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2025.05.02-05.53.52:568][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2025.05.02-05.53.52:568][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2025.05.02-05.53.52:568][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2025.05.02-05.53.52:568][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2025.05.02-05.53.52:568][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2025.05.02-05.53.52:568][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2025.05.02-05.53.52:568][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2025.05.02-05.53.52:568][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2025.05.02-05.53.52:568][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2025.05.02-05.53.52:581][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2025.05.02-05.53.52:581][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2025.05.02-05.53.52:587][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2025.05.02-05.53.52:590][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2025.05.02-05.53.52:594][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2025.05.02-05.53.52:597][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2025.05.02-05.53.52:604][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2025.05.02-05.53.52:607][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2025.05.02-05.53.52:611][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2025.05.02-05.53.52:624][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2025.05.02-05.53.52:624][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2025.05.02-05.53.52:630][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2025.05.02-05.53.52:634][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2025.05.02-05.53.52:637][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2025.05.02-05.53.52:640][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2025.05.02-05.53.52:646][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2025.05.02-05.53.52:646][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2025.05.02-05.53.52:653][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2025.05.02-05.53.52:657][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2025.05.02-05.53.52:660][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2025.05.02-05.53.52:663][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2025.05.02-05.53.52:663][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2025.05.02-05.53.52:668][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2025.05.02-05.53.52:688][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2025.05.02-05.53.52:712][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2025.05.02-05.53.52:712][  0]LogShaderCompilers: Guid format shader working directory is -21 characters bigger than the processId version (D:/Users/kiera/OneDrive/Documents/Unreal Projects/Vertigo_Protocol/Intermediate/Shaders/WorkingDirectory/29408/).
+[2025.05.02-05.53.52:713][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/kiera/AppData/Local/Temp/UnrealShaderWorkingDir/0111990A4DA8B3DE4A8E79A15484F44E/'.
+[2025.05.02-05.53.52:713][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2025.05.02-05.53.52:713][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2025.05.02-05.53.52:713][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2025.05.02-05.53.53:198][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2025.05.02-05.53.53:233][  0]LogDerivedDataCache: Loaded boot cache 0.03s 94MB C:/Users/kiera/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2025.05.02-05.53.53:234][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/kiera/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2025.05.02-05.53.53:234][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/Users/kiera/OneDrive/Documents/Unreal Projects/Vertigo_Protocol/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2025.05.02-05.53.53:234][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2025.05.02-05.53.53:234][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/Users/kiera/OneDrive/Documents/Unreal Projects/Vertigo_Protocol/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2025.05.02-05.53.53:234][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2025.05.02-05.53.53:246][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2025.05.02-05.53.53:246][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2025.05.02-05.53.53:246][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2025.05.02-05.53.53:251][  0]LogDerivedDataCache: Speed tests for C:/Users/kiera/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2025.05.02-05.53.53:251][  0]LogDerivedDataCache: Display: Performance to C:/Users/kiera/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.02ms. RandomReadSpeed=1867.22MBs, RandomWriteSpeed=212.75MBs. Assigned SpeedClass 'Local'
+[2025.05.02-05.53.53:252][  0]LogDerivedDataCache: Using Local data cache path C:/Users/kiera/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2025.05.02-05.53.53:252][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2025.05.02-05.53.53:252][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2025.05.02-05.53.53:282][  0]LogSlate: Using FreeType 2.10.0
+[2025.05.02-05.53.53:282][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2025.05.02-05.53.53:299][  0]LogAssetRegistry: FAssetRegistry took 0.0029 seconds to start up
+[2025.05.02-05.53.53:456][  0]LogInit: Selected Device Profile: [Windows]
+[2025.05.02-05.53.53:456][  0]LogInit: Active device profile: [000002762ED4C900][000002762C54D480 49] Windows
+[2025.05.02-05.53.53:456][  0]LogInit: Profiles: [000002762ED4C900][000002762C54D480 49] Windows, [000002762ED1B800][000002762C17F600 49] WindowsNoEditor, [000002762ED4F500][000002762C183780 49] WindowsServer, [000002762ED18E00][000002762C187900 49] WindowsClient, [000002762ED4F800][000002762D8EDA80 49] IOS, [000002762ED1A800][000002762D8F1C00 49] iPadAir, [000002762ED4E000][000002762D8F4200 49] iPadAir2, [000002762ECB4A00][000002762D8FC4C0 49] IPadPro, [000002762ECB4B00][000002762D8F8500 49] iPadAir3, [000002762ED19900][000002762D900680 49] iPadAir4, [000002762ECB7400][000002762D904800 49] iPadMini2, [000002762ED1AA00][000002762C17A940 49] iPadMini3, [000002762ECB5700][000002762D908A80 49] iPadMini4, [000002762ED4D100][000002762D90CBC0 49] iPadMini5, [000002762ECDC300][000002762D918E40 49] iPhone6, [000002762ECDC400][000002762D910E80 49] iPodTouch6, [000002762ECB7600][000002762D921140 49] iPhone7, [000002762ECB5800][000002762D91D180 49] iPodTouch7, [000002762ECDFF00][000002762D925300 49] iPhone5S, [000002762ED1A200][000002762D929480 49] iPhone6Plus, [000002762ECB4200][000002762D92D600 49] iPhone6S, [000002762ED1A400][000002762D931780 49] iPhone6SPlus, [000002762ECB7C00][000002762D935900 49] iPhone7Plus, [000002762ED18300][000002762D939A80 49] iPhoneSE, [000002762ECB7500][000002762D93DC00 49] iPhone8, [000002762ED19E00][000002762D940200 49] iPhone8Plus, [000002762ECB5100][000002762D944380 49] iPhoneX, [000002762ED18400][000002762D948500 49] iPhoneXS, [000002762ECB5300][000002762D94C680 49] iPhoneXSMax, [000002762ED19400][000002762D950800 49] iPhoneXR, [000002762ECB7800][000002762D954980 49] iPhone11, [000002762ED1AE00][000002762D958B00 49] iPhone11Pro, [000002762ECB7700][000002762D914C40 49] iPhone11ProMax, [000002762ED18F00][000002762D95CD80 49] iPhoneSE2, [000002762ECB6E00][000002762F970EC0 49] iPhone12Mini, [000002762ED1BC00][000002762F979040 49] iPhone12, [000002762ECB6400][000002762F97D1C0 49] iPhone12Pro, [000002762ED18700][000002762F981340 49] iPhone12ProMax, [000002762ECB6300][000002762F9854C0 49] iPadPro105, [000002762ED1B100][000002762F989640 49] iPadPro129, [000002762ECB6200][000002762A5B77C0 49] iPadPro97, [000002762ED18B00][000002762A5DB940 49] iPadPro2_129, [000002762ECB7200][000002762A643AC0 49] iPad5, [000002762ED1B400][00000276244FC0C0 49] iPad6, [000002762ECB7300][000002762FA92240 49] iPad7, [000002762ED18200][000002762FAF23C0 49] iPad8, [000002762ECB5A00][000002762FB08540 49] iPadPro11, [000002762ED19600][000002762FBB86C0 49] iPadPro2_11, [000002762ECB5D00][000002762FBCC840 49] iPadPro3_129, [000002762ED1B900][000002762FC809C0 49] iPadPro4_129, [000002762ECB7000][000002762FC84B40 49] AppleTV, [000002762ED1BF00][000002762FD40CC0 49] AppleTV4K, [000002762ECB4100][000002762F974E00 49] TVOS, [000002762ED1A500][000002762C2ACF40 49] Mac, [000002762ECB7B00][000002762C2B1080 49] MacClient, [000002762ED19B00][000002762F98D1C0 49] MacNoEditor, [000002762ECB6C00][000002762F995340 49] MacServer, [000002762ED18A00][000002762F9A14C0 49] Linux, [000002762ECB6000][000002762F9A9640 49] LinuxAArch64, [000002762ED1A700][000002762F9B17C0 49] LinuxNoEditor, [000002762ECB6500][000002762F9B9940 49] LinuxAArch64NoEditor, [000002762ED19500][000002762F9BDAC0 49] LinuxClient, [000002762ECB7900][000002762F9C00C0 49] LinuxAArch64Client, [000002762ED19700][000002762F9EA240 49] LinuxServer, [000002762ECB5900][000002762F9F23C0 49] LinuxAArch64Server, [000002762ED1B700][000002763095C540 49] Android, [000002762ECB4600][00000276309906C0 49] Android_Low, [000002762ED1AD00][000002762FA20840 49] Android_Mid, [000002762ED4FA00][000002762FA5E9C0 49] Android_High, [000002762ECDDC00][000002762FA62B40 49] Android_Default, [000002762ED4E100][000002762FA86CC0 49] Android_Adreno4xx, [000002762ECDE700][000002762FA8AE40 49] Android_Adreno5xx_Low, [000002762ED4CA00][000002762F990F80 49] Android_Adreno5xx, [000002762ECDED00][000002762FA8F0C0 49] Android_Adreno6xx, [000002762ED4D200][000002762FB81200 49] Android_Adreno6xx_Vulkan, [000002762ECDE800][000002762FC67340 49] Android_Mali_T6xx, [000002762ED4E600][00000276305874C0 49] Android_Mali_T7xx, [000002762ECDEE00][000002762FB85640 49] Android_Mali_T8xx, [000002762ED4F200][000002762FB9B7C0 49] Android_Mali_G71, [000002762ECDFC00][000002762C2F9940 49] Android_Mali_G72, [000002762ED4EA00][000002762C349AC0 49] Android_Mali_G72_Vulkan, [000002762ECDDB00][000002763074C0C0 49] Android_Mali_G76, [000002762ED4DA00][0000027630776240 49] Android_Mali_G76_Vulkan, [000002762ECDE000][00000276307E03C0 49] Android_Mali_G77, [000002762ED4ED00][000002763084E540 49] Android_Mali_G77_Vulkan, [000002762ECDF800][00000276308E26C0 49] Android_Mali_G78, [000002762ED4E800][0000027630928840 49] Android_Mali_G78_Vulkan, [000002762ECDD200][000002763092C9C0 49] Android_Mali_G710, [000002762ED4CE00][000002762FF12B40 49] Android_Mali_G710_Vulkan, [000002762ECDF500][000002762159ACC0 49] Android_Vulkan_SM5, [000002762ED4F400][00000276215ECE40 49] Android_PowerVR_G6xxx, [000002762ECDEC00][00000276215F0FC0 49] Android_PowerVR_GT7xxx, [000002762ED4FC00][00000276215F5140 49] Android_PowerVR_GE8xxx, [000002762ECDCE00][000002762FC6B280 49] Android_PowerVR_GM9xxx, [000002762ED4D800][000002763017B3C0 49] Android_PowerVR_GM9xxx_Vulkan, [000002762ECDE400][0000027630A99500 49] Android_TegraK1, [000002762ED4D000][0000027630AA5680 49] Android_Unknown_Vulkan, [000002762ED1BA00][0000027630AB3800 49] Lumin, [000002762ED4DE00][0000027630ABB980 49] Lumin_Desktop, [000002762ED19C00][0000027630ABFB00 49] HoloLens, 
+[2025.05.02-05.53.53:538][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2025.05.02-05.53.53:538][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2025.05.02-05.53.53:538][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2025.05.02-05.53.53:538][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2025.05.02-05.53.53:538][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2025.05.02-05.53.53:547][  0]LogNetVersion: Vertigo_Protocol 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 1914338960)
+[2025.05.02-05.53.53:800][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2025.05.02-05.53.53:834][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2025.05.02-05.53.53:839][  0]LogUObjectArray: 17178 objects as part of root set at end of initial load.
+[2025.05.02-05.53.53:839][  0]LogUObjectAllocator: 4302048 out of 0 bytes used by permanent object pool.
+[2025.05.02-05.53.53:839][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2025.05.02-05.53.53:995][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 498187C64928F436911C33A56CA1BD9A | Instance: C595117D474EE072E5BF418F49F4CB19 (CHARLOTTE-29408).
+[2025.05.02-05.53.54:021][  0]LogPython: Using Python 3.7.7
+[2025.05.02-05.53.54:363][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2025.05.02-05.53.54:368][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2025.05.02-05.53.54:537][  0]SourceControl: Source control is disabled
+[2025.05.02-05.53.54:537][  0]SourceControl: Source control is disabled
+[2025.05.02-05.53.54:539][  0]SourceControl: Source control is disabled
+[2025.05.02-05.53.54:541][  0]SourceControl: Source control is disabled
+[2025.05.02-05.53.54:547][  0]SourceControl: Source control is disabled
+[2025.05.02-05.53.54:552][  0]LogUProjectInfo: Found projects:
+[2025.05.02-05.53.54:667][  0]LogOpenImageDenoise: OIDN starting up
+[2025.05.02-05.53.54:693][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2025.05.02-05.53.54:709][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2025.05.02-05.53.54:709][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2025.05.02-05.53.54:823][  0]LogOcInput: OculusInput pre-init called
+[2025.05.02-05.53.54:966][  0]LogCollectionManager: Loaded 0 collections in 0.000601 seconds
+[2025.05.02-05.53.55:009][  0]LogFileCache: Scanning file cache for directory 'D:/Users/kiera/OneDrive/Documents/Unreal Projects/Vertigo_Protocol/Saved/Collections/' took 0.00s
+[2025.05.02-05.53.55:009][  0]LogFileCache: Scanning file cache for directory 'D:/Users/kiera/OneDrive/Documents/Unreal Projects/Vertigo_Protocol/Content/Developers/kiera/Collections/' took 0.00s
+[2025.05.02-05.53.55:009][  0]LogFileCache: Scanning file cache for directory 'D:/Users/kiera/OneDrive/Documents/Unreal Projects/Vertigo_Protocol/Content/Collections/' took 0.00s
+[2025.05.02-05.53.55:009][  0]LogEngine: Initializing Engine...
+[2025.05.02-05.53.55:078][  0]LogHMD: Optional extension XR_VARJO_quad_views is not available
+[2025.05.02-05.53.55:078][  0]LogHMD: Warning: Required extension XR_EXT_eye_gaze_interaction is not available
+[2025.05.02-05.53.55:078][  0]LogHMD: Could not enable all required OpenXR extensions for OpenXREyeTracker on current system. This plugin will be loaded but ignored, but will be enabled on a target platform that supports the required extension.
+[2025.05.02-05.53.55:081][  0]LogHMD: Failed to get an OpenXR system, result is XR_ERROR_FORM_FACTOR_UNAVAILABLE. Please check that your runtime supports VR headsets.
+[2025.05.02-05.53.55:081][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2025.05.02-05.53.55:081][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2025.05.02-05.53.55:082][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2025.05.02-05.53.55:153][  0]LogInit: Initializing FReadOnlyCVARCache
+[2025.05.02-05.53.55:158][  0]LogAIModule: Creating AISystem for world Untitled
+[2025.05.02-05.53.55:159][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2025.05.02-05.53.55:161][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2025.05.02-05.53.55:161][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2025.05.02-05.53.55:161][  0]LogAudio: Display: Audio Device Manager Initialized
+[2025.05.02-05.53.55:162][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2025.05.02-05.53.55:162][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.02-05.53.55:162][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.02-05.53.55:162][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.02-05.53.55:162][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.02-05.53.55:162][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.05.02-05.53.55:162][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.02-05.53.55:162][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.05.02-05.53.55:162][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.02-05.53.55:162][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.02-05.53.55:162][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.02-05.53.55:162][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.02-05.53.55:162][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2025.05.02-05.53.55:172][  0]LogAudioMixer: Display: 0: FrontLeft
+[2025.05.02-05.53.55:172][  0]LogAudioMixer: Display: 1: FrontRight
+[2025.05.02-05.53.55:187][  0]LogAudioMixer: Display: Using Audio Device Speakers (High Definition Audio Device)
+[2025.05.02-05.53.55:188][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.02-05.53.55:190][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.02-05.53.55:190][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.02-05.53.55:190][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2025.05.02-05.53.55:190][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2025.05.02-05.53.55:190][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2025.05.02-05.53.55:191][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2025.05.02-05.53.55:191][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2025.05.02-05.53.55:191][  0]LogInit: FAudioDevice initialized.
+[2025.05.02-05.53.55:191][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2025.05.02-05.53.55:191][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2025.05.02-05.53.55:241][  0]LogDerivedDataCache: Saved boot cache 0.05s 94MB C:/Users/kiera/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2025.05.02-05.53.55:241][  0]LogInit: Texture streaming: Enabled
+[2025.05.02-05.53.55:250][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.27.2-18319896+++UE4+Release-4.27
+[2025.05.02-05.53.55:253][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2025.05.02-05.53.55:253][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2025.05.02-05.53.55:254][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2025.05.02-05.53.55:278][  0]LogInit: Transaction tracking system initialized
+[2025.05.02-05.53.55:294][  0]BlueprintLog: New page: Editor Load
+[2025.05.02-05.53.55:341][  0]LocalizationService: Localization service is disabled
+[2025.05.02-05.53.55:358][  0]TimingProfiler: Initialize
+[2025.05.02-05.53.55:358][  0]TimingProfiler: OnSessionChanged
+[2025.05.02-05.53.55:358][  0]LoadingProfiler: Initialize
+[2025.05.02-05.53.55:358][  0]LoadingProfiler: OnSessionChanged
+[2025.05.02-05.53.55:358][  0]NetworkingProfiler: Initialize
+[2025.05.02-05.53.55:358][  0]NetworkingProfiler: OnSessionChanged
+[2025.05.02-05.53.55:358][  0]MemoryProfiler: Initialize
+[2025.05.02-05.53.55:358][  0]MemoryProfiler: OnSessionChanged
+[2025.05.02-05.53.55:451][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2025.05.02-05.53.55:452][  0]LogCook: Display: Mobile HDR setting 1
+[2025.05.02-05.53.55:580][  0]LogFileCache: Scanning file cache for directory 'D:/Users/kiera/OneDrive/Documents/Unreal Projects/Vertigo_Protocol/Content/' took 0.01s
+[2025.05.02-05.53.55:710][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2025.05.02-05.53.55:712][  0]SourceControl: Source control is disabled
+[2025.05.02-05.53.55:712][  0]LogUnrealEdMisc: Loading editor; pre map load, took 5.319
+[2025.05.02-05.53.55:712][  0]Cmd: MAP LOAD FILE="D:/Users/kiera/OneDrive/Documents/Unreal Projects/Vertigo_Protocol/Content/Dynamic/Levels/MainMenuMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2025.05.02-05.53.55:712][  0]LightingResults: New page: Lighting Build
+[2025.05.02-05.53.55:713][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2025.05.02-05.53.55:713][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.02-05.53.55:713][  0]MapCheck: New page: Map Check
+[2025.05.02-05.53.55:713][  0]LightingResults: New page: Lighting Build
+[2025.05.02-05.53.55:731][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.05.02-05.53.55:734][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2025.05.02-05.53.55:844][  0]LogProperty: Error: FStructProperty::Serialize Loading: Property 'StructProperty /Game/Dynamic/SaveGame_BP.SaveGame_BP_C:SavedEnemyData.SavedEnemyData'. Unknown structure.
+[2025.05.02-05.53.56:594][  0]LogClass: Warning: Property SavedEnemyData of SavedEnemyData has a struct type mismatch (tag FallbackStruct != prop EnemySaveData) in package:  FObjectReader. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2025.05.02-05.53.57:397][  0]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave Ascend_to_Nothingness...
+[2025.05.02-05.53.57:421][  0]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Dynamic/Audio/Music/Ascend_to_Nothingness.Ascend_to_Nothingness will be modified from 40 to 40.
+[2025.05.02-05.54.01:268][  0]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 74624612 while cooking SoundWave /Game/Dynamic/Audio/Music/Ascend_to_Nothingness.Ascend_to_Nothingness.
+[2025.05.02-05.54.01:543][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenuMap'.
+[2025.05.02-05.54.01:544][  0]LogAIModule: Creating AISystem for world MainMenuMap
+[2025.05.02-05.54.01:547][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.05.02-05.54.01:562][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2025.05.02-05.54.01:563][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.05.02-05.54.01:563][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.068ms to complete.
+[2025.05.02-05.54.01:563][  0]LogFileHelpers: Loading map 'MainMenuMap' took 5.851
+[2025.05.02-05.54.01:564][  0]LogUnrealEdMisc: Total Editor Startup Time, took 11.171
+[2025.05.02-05.54.01:663][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.02-05.54.01:666][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.02-05.54.01:670][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.02-05.54.01:673][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.02-05.54.01:682][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0066 seconds. Added 3822 classes and 928 folders.
+[2025.05.02-05.54.01:684][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2025.05.02-05.54.01:684][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2025.05.02-05.54.01:684][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2025.05.02-05.54.01:684][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2025.05.02-05.54.01:684][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/Games/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack' (chunk index -1, root 'root:/') mounted
+[2025.05.02-05.54.01:684][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/Games/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack)
+[2025.05.02-05.54.01:684][  0]LogPakFile: OnPakFileMounted2Time == 0.000036
+[2025.05.02-05.54.01:686][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2025.05.02-05.54.01:686][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2025.05.02-05.54.01:686][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2025.05.02-05.54.01:686][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/Games/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2025.05.02-05.54.01:686][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/Games/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack)
+[2025.05.02-05.54.01:686][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2025.05.02-05.54.01:686][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2025.05.02-05.54.01:686][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2025.05.02-05.54.01:686][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2025.05.02-05.54.01:686][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/Games/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2025.05.02-05.54.01:686][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/Games/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack)
+[2025.05.02-05.54.01:686][  0]LogPakFile: OnPakFileMounted2Time == 0.000019
+[2025.05.02-05.54.01:686][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2025.05.02-05.54.01:686][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2025.05.02-05.54.01:686][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2025.05.02-05.54.01:686][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/Games/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2025.05.02-05.54.01:686][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/Games/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack)
+[2025.05.02-05.54.01:686][  0]LogPakFile: OnPakFileMounted2Time == 0.000020
+[2025.05.02-05.54.01:687][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2025.05.02-05.54.01:687][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2025.05.02-05.54.01:687][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2025.05.02-05.54.01:687][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/Games/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2025.05.02-05.54.01:687][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/Games/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack)
+[2025.05.02-05.54.01:687][  0]LogPakFile: OnPakFileMounted2Time == 0.000018
+[2025.05.02-05.54.01:687][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2025.05.02-05.54.01:687][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2025.05.02-05.54.01:687][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2025.05.02-05.54.01:687][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/Games/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2025.05.02-05.54.01:687][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/Games/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack)
+[2025.05.02-05.54.01:687][  0]LogPakFile: OnPakFileMounted2Time == 0.000017
+[2025.05.02-05.54.01:687][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2025.05.02-05.54.01:687][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2025.05.02-05.54.01:687][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2025.05.02-05.54.01:687][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/Games/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack' (chunk index -1, root 'root:/') mounted
+[2025.05.02-05.54.01:687][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/Games/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack)
+[2025.05.02-05.54.01:687][  0]LogPakFile: OnPakFileMounted2Time == 0.000017
+[2025.05.02-05.54.01:687][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2025.05.02-05.54.01:687][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2025.05.02-05.54.01:687][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2025.05.02-05.54.01:687][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/Games/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack' (chunk index -1, root 'root:/') mounted
+[2025.05.02-05.54.01:687][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/Games/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack)
+[2025.05.02-05.54.01:687][  0]LogPakFile: OnPakFileMounted2Time == 0.000017
+[2025.05.02-05.54.01:688][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2025.05.02-05.54.01:688][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2025.05.02-05.54.01:688][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2025.05.02-05.54.01:688][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/Games/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack' (chunk index -1, root 'root:/') mounted
+[2025.05.02-05.54.01:688][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/Games/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack)
+[2025.05.02-05.54.01:688][  0]LogPakFile: OnPakFileMounted2Time == 0.000017
+[2025.05.02-05.54.01:688][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2025.05.02-05.54.01:688][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2025.05.02-05.54.01:688][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2025.05.02-05.54.01:688][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/Games/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack' (chunk index -1, root 'root:/') mounted
+[2025.05.02-05.54.01:688][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/Games/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack)
+[2025.05.02-05.54.01:688][  0]LogPakFile: OnPakFileMounted2Time == 0.000017
+[2025.05.02-05.54.01:688][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2025.05.02-05.54.01:688][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2025.05.02-05.54.01:688][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2025.05.02-05.54.01:688][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/Games/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack' (chunk index -1, root 'root:/') mounted
+[2025.05.02-05.54.01:688][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/Games/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack)
+[2025.05.02-05.54.01:688][  0]LogPakFile: OnPakFileMounted2Time == 0.000019
+[2025.05.02-05.54.01:689][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2025.05.02-05.54.01:689][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2025.05.02-05.54.01:689][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2025.05.02-05.54.01:689][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/Games/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack' (chunk index -1, root 'root:/') mounted
+[2025.05.02-05.54.01:689][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/Games/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack)
+[2025.05.02-05.54.01:689][  0]LogPakFile: OnPakFileMounted2Time == 0.000017
+[2025.05.02-05.54.01:689][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2025.05.02-05.54.01:689][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2025.05.02-05.54.01:689][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2025.05.02-05.54.01:689][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/Games/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack' (chunk index -1, root 'root:/') mounted
+[2025.05.02-05.54.01:689][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/Games/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack)
+[2025.05.02-05.54.01:689][  0]LogPakFile: OnPakFileMounted2Time == 0.000017
+[2025.05.02-05.54.01:689][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2025.05.02-05.54.01:689][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2025.05.02-05.54.01:689][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2025.05.02-05.54.01:689][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/Games/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2025.05.02-05.54.01:689][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/Games/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack)
+[2025.05.02-05.54.01:689][  0]LogPakFile: OnPakFileMounted2Time == 0.000017
+[2025.05.02-05.54.01:689][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2025.05.02-05.54.01:689][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2025.05.02-05.54.01:689][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2025.05.02-05.54.01:689][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/Games/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2025.05.02-05.54.01:689][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/Games/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack)
+[2025.05.02-05.54.01:689][  0]LogPakFile: OnPakFileMounted2Time == 0.000017
+[2025.05.02-05.54.01:689][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2025.05.02-05.54.01:689][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2025.05.02-05.54.01:689][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2025.05.02-05.54.01:689][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/Games/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack' (chunk index -1, root 'root:/') mounted
+[2025.05.02-05.54.01:689][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/Games/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack)
+[2025.05.02-05.54.01:689][  0]LogPakFile: OnPakFileMounted2Time == 0.000017
+[2025.05.02-05.54.01:690][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2025.05.02-05.54.01:690][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2025.05.02-05.54.01:690][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2025.05.02-05.54.01:690][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/Games/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2025.05.02-05.54.01:690][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/Games/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack)
+[2025.05.02-05.54.01:690][  0]LogPakFile: OnPakFileMounted2Time == 0.000018
+[2025.05.02-05.54.01:690][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2025.05.02-05.54.01:690][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2025.05.02-05.54.01:690][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2025.05.02-05.54.01:690][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/Games/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack' (chunk index -1, root 'root:/') mounted
+[2025.05.02-05.54.01:690][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/Games/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack)
+[2025.05.02-05.54.01:690][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2025.05.02-05.54.01:690][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2025.05.02-05.54.01:690][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2025.05.02-05.54.01:690][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2025.05.02-05.54.01:690][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/Games/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack' (chunk index -1, root 'root:/') mounted
+[2025.05.02-05.54.01:690][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/Games/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack)
+[2025.05.02-05.54.01:690][  0]LogPakFile: OnPakFileMounted2Time == 0.000017
+[2025.05.02-05.54.01:691][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2025.05.02-05.54.01:691][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2025.05.02-05.54.01:691][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2025.05.02-05.54.01:691][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/Games/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack' (chunk index -1, root 'root:/') mounted
+[2025.05.02-05.54.01:691][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/Games/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack)
+[2025.05.02-05.54.01:691][  0]LogPakFile: OnPakFileMounted2Time == 0.000017
+[2025.05.02-05.54.01:691][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2025.05.02-05.54.01:691][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2025.05.02-05.54.01:691][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2025.05.02-05.54.01:691][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/Games/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack' (chunk index -1, root 'root:/') mounted
+[2025.05.02-05.54.01:691][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/Games/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack)
+[2025.05.02-05.54.01:691][  0]LogPakFile: OnPakFileMounted2Time == 0.000017
+[2025.05.02-05.54.01:691][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2025.05.02-05.54.01:691][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2025.05.02-05.54.01:691][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2025.05.02-05.54.01:691][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/Games/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack' (chunk index -1, root 'root:/') mounted
+[2025.05.02-05.54.01:691][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/Games/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack)
+[2025.05.02-05.54.01:691][  0]LogPakFile: OnPakFileMounted2Time == 0.000017
+[2025.05.02-05.54.01:691][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2025.05.02-05.54.01:691][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2025.05.02-05.54.01:691][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2025.05.02-05.54.01:691][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/Games/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack' (chunk index -1, root 'root:/') mounted
+[2025.05.02-05.54.01:691][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/Games/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack)
+[2025.05.02-05.54.01:691][  0]LogPakFile: OnPakFileMounted2Time == 0.000018
+[2025.05.02-05.54.01:692][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2025.05.02-05.54.01:692][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2025.05.02-05.54.01:692][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2025.05.02-05.54.01:692][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/Games/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack' (chunk index -1, root 'root:/') mounted
+[2025.05.02-05.54.01:692][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/Games/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack)
+[2025.05.02-05.54.01:692][  0]LogPakFile: OnPakFileMounted2Time == 0.000019
+[2025.05.02-05.54.01:692][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2025.05.02-05.54.01:692][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2025.05.02-05.54.01:692][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2025.05.02-05.54.01:692][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/Games/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack' (chunk index -1, root 'root:/') mounted
+[2025.05.02-05.54.01:692][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/Games/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack)
+[2025.05.02-05.54.01:692][  0]LogPakFile: OnPakFileMounted2Time == 0.000017
+[2025.05.02-05.54.01:692][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2025.05.02-05.54.01:692][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2025.05.02-05.54.01:692][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2025.05.02-05.54.01:692][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/Games/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack' (chunk index -1, root 'root:/') mounted
+[2025.05.02-05.54.01:692][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/Games/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack)
+[2025.05.02-05.54.01:692][  0]LogPakFile: OnPakFileMounted2Time == 0.000018
+[2025.05.02-05.54.01:719][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2025.05.02-05.54.01:719][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2025.05.02-05.54.01:756][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2025.05.02-05.54.01:756][  0]LogLoad: (Engine Initialization) Total time: 11.36 seconds
+[2025.05.02-05.54.01:756][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2025.05.02-05.54.01:788][  0]LogAssetRegistry: Asset discovery search completed in 8.4892 seconds
+[2025.05.02-05.54.01:790][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+[2025.05.02-05.54.01:792][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2025.05.02-05.54.01:799][  0]LogSlate: Took 0.000137 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2025.05.02-05.54.01:799][  0]LogSlate: Took 0.000100 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2025.05.02-05.54.01:800][  0]LogSlate: Took 0.000088 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2025.05.02-05.54.01:868][  1]LogRenderer: Reallocating scene render targets to support 804x356 Format 10 NumSamples 1 (Frame:1).
+[2025.05.02-05.54.02:778][179]LogSlate: Took 0.000173 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.05.02-05.54.04:668][491]LogRenderer: Reallocating scene render targets to support 1616x804 Format 10 NumSamples 1 (Frame:461).
+[2025.05.02-05.54.11:030][714]LogContentBrowser: Deferred new asset file creation: NewInterface
+[2025.05.02-05.54.11:043][714]LogContentBrowser: Creating deferred item: NewInterface
+[2025.05.02-05.54.15:553][522]LogContentBrowser: Attempting asset rename: NewInterface -> BPI_EnemyData
+[2025.05.02-05.54.15:554][522]LogContentBrowser: End creating deferred item NewInterface
+[2025.05.02-05.54.23:727][199]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Dynamic/Agents/EnemyDamageInterface.EnemyDamageInterface
+[2025.05.02-05.54.23:787][199]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 126 classes and 0 folders.
+[2025.05.02-05.54.28:239][ 39]LogSlate: Window 'EnemyDamageInterface' being destroyed
+[2025.05.02-05.54.28:248][ 39]LogSlate: Window 'EnemyDamageInterface' being destroyed
+[2025.05.02-05.54.28:250][ 39]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2025.05.02-05.54.28:250][ 39]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.02-05.54.36:486][613]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Dynamic/Agents/BPI_EnemyData.BPI_EnemyData
+[2025.05.02-05.54.36:587][613]LogSlate: Took 0.000176 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.05.02-05.55.51:268][  5]LogSlate: Took 0.000192 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2025.05.02-05.55.58:081][297]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dynamic/Agents/BPI_EnemyData" FILE="D:/Users/kiera/OneDrive/Documents/Unreal Projects/Vertigo_Protocol/Content/Dynamic/Agents/BPI_EnemyData.uasset" SILENT=true
+[2025.05.02-05.55.58:083][297]LogSavePackage: Moving 'D:/Users/kiera/OneDrive/Documents/Unreal Projects/Vertigo_Protocol/Saved/BPI_EnemyData859EB80149D978BD5DA5088ED9A6940C.tmp' to 'D:/Users/kiera/OneDrive/Documents/Unreal Projects/Vertigo_Protocol/Content/Dynamic/Agents/BPI_EnemyData.uasset'
+[2025.05.02-05.55.58:101][297]AssetCheck: New page: Asset Save: BPI_EnemyData
+[2025.05.02-05.55.58:101][297]LogContentValidation: Display: Validating Blueprint /Game/Dynamic/Agents/BPI_EnemyData.BPI_EnemyData
+[2025.05.02-05.55.59:119][431]BlueprintLog: New page: Compile BPI_EnemyData
+[2025.05.02-05.55.59:134][431]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2025.05.02-05.55.59:505][482]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dynamic/Agents/BPI_EnemyData" FILE="D:/Users/kiera/OneDrive/Documents/Unreal Projects/Vertigo_Protocol/Content/Dynamic/Agents/BPI_EnemyData.uasset" SILENT=true
+[2025.05.02-05.55.59:507][482]LogSavePackage: Moving 'D:/Users/kiera/OneDrive/Documents/Unreal Projects/Vertigo_Protocol/Saved/BPI_EnemyData88CD81CA49E60905FCFAC1873DE5EB76.tmp' to 'D:/Users/kiera/OneDrive/Documents/Unreal Projects/Vertigo_Protocol/Content/Dynamic/Agents/BPI_EnemyData.uasset'
+[2025.05.02-05.55.59:522][482]AssetCheck: New page: Asset Save: BPI_EnemyData
+[2025.05.02-05.55.59:522][482]LogContentValidation: Display: Validating Blueprint /Game/Dynamic/Agents/BPI_EnemyData.BPI_EnemyData
+[2025.05.02-05.56.38:575][298]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Dynamic/Agents/BP_EnemyCharger.BP_EnemyCharger
+[2025.05.02-05.56.38:959][299]LogSlate: Took 0.000218 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2025.05.02-05.56.46:831][245]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.05.02-05.58.42:820][ 59]BlueprintLog: New page: Compile BP_EnemyCharger
+[2025.05.02-05.58.42:855][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2025.05.02-05.58.42:881][ 59]LogSlate: Took 0.000158 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2025.05.02-05.58.43:240][ 99]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dynamic/Agents/BP_EnemyCharger" FILE="D:/Users/kiera/OneDrive/Documents/Unreal Projects/Vertigo_Protocol/Content/Dynamic/Agents/BP_EnemyCharger.uasset" SILENT=true
+[2025.05.02-05.58.43:258][ 99]LogSavePackage: Moving 'D:/Users/kiera/OneDrive/Documents/Unreal Projects/Vertigo_Protocol/Saved/BP_EnemyCharger620DFF4E489DE2D1D1581C924AEF6FBA.tmp' to 'D:/Users/kiera/OneDrive/Documents/Unreal Projects/Vertigo_Protocol/Content/Dynamic/Agents/BP_EnemyCharger.uasset'
+[2025.05.02-05.58.43:273][ 99]AssetCheck: New page: Asset Save: BP_EnemyCharger
+[2025.05.02-05.58.43:273][ 99]LogContentValidation: Display: Validating Blueprint /Game/Dynamic/Agents/BP_EnemyCharger.BP_EnemyCharger
+[2025.05.02-05.58.46:972][659]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Dynamic/Agents/BP_EnemyGunner.BP_EnemyGunner
+[2025.05.02-05.58.57:997][601]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2025.05.02-05.58.58:014][601]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.05.02-05.59.15:745][828]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dynamic/Agents/BP_EnemyGunner" FILE="D:/Users/kiera/OneDrive/Documents/Unreal Projects/Vertigo_Protocol/Content/Dynamic/Agents/BP_EnemyGunner.uasset" SILENT=true
+[2025.05.02-05.59.15:772][828]LogSavePackage: Moving 'D:/Users/kiera/OneDrive/Documents/Unreal Projects/Vertigo_Protocol/Saved/BP_EnemyGunnerA4FC925A46922D7CC2BE958E2A7DF7A1.tmp' to 'D:/Users/kiera/OneDrive/Documents/Unreal Projects/Vertigo_Protocol/Content/Dynamic/Agents/BP_EnemyGunner.uasset'
+[2025.05.02-05.59.15:794][828]AssetCheck: New page: Asset Save: BP_EnemyGunner
+[2025.05.02-05.59.15:794][828]LogContentValidation: Display: Validating Blueprint /Game/Dynamic/Agents/BP_EnemyGunner.BP_EnemyGunner
+[2025.05.02-05.59.16:444][909]BlueprintLog: New page: Compile BP_EnemyGunner
+[2025.05.02-05.59.16:486][909]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2025.05.02-05.59.16:804][942]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dynamic/Agents/BP_EnemyGunner" FILE="D:/Users/kiera/OneDrive/Documents/Unreal Projects/Vertigo_Protocol/Content/Dynamic/Agents/BP_EnemyGunner.uasset" SILENT=true
+[2025.05.02-05.59.16:827][942]LogSavePackage: Moving 'D:/Users/kiera/OneDrive/Documents/Unreal Projects/Vertigo_Protocol/Saved/BP_EnemyGunnerE0FF712E47151F00A2EFDFB87DCDD4C7.tmp' to 'D:/Users/kiera/OneDrive/Documents/Unreal Projects/Vertigo_Protocol/Content/Dynamic/Agents/BP_EnemyGunner.uasset'
+[2025.05.02-05.59.16:844][942]AssetCheck: New page: Asset Save: BP_EnemyGunner
+[2025.05.02-05.59.16:844][942]LogContentValidation: Display: Validating Blueprint /Game/Dynamic/Agents/BP_EnemyGunner.BP_EnemyGunner
+[2025.05.02-05.59.44:430][157]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dynamic/Agents/BP_EnemyGunner" FILE="D:/Users/kiera/OneDrive/Documents/Unreal Projects/Vertigo_Protocol/Content/Dynamic/Agents/BP_EnemyGunner.uasset" SILENT=true
+[2025.05.02-05.59.44:450][157]LogSavePackage: Moving 'D:/Users/kiera/OneDrive/Documents/Unreal Projects/Vertigo_Protocol/Saved/BP_EnemyGunnerC6C89D4C4FE57D32F37DD583B38C2FD0.tmp' to 'D:/Users/kiera/OneDrive/Documents/Unreal Projects/Vertigo_Protocol/Content/Dynamic/Agents/BP_EnemyGunner.uasset'
+[2025.05.02-05.59.44:469][157]AssetCheck: New page: Asset Save: BP_EnemyGunner
+[2025.05.02-05.59.44:469][157]LogContentValidation: Display: Validating Blueprint /Game/Dynamic/Agents/BP_EnemyGunner.BP_EnemyGunner
+[2025.05.02-05.59.44:879][203]BlueprintLog: New page: Compile BP_EnemyGunner
+[2025.05.02-05.59.44:918][203]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2025.05.02-05.59.45:202][240]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dynamic/Agents/BP_EnemyGunner" FILE="D:/Users/kiera/OneDrive/Documents/Unreal Projects/Vertigo_Protocol/Content/Dynamic/Agents/BP_EnemyGunner.uasset" SILENT=true
+[2025.05.02-05.59.45:226][240]LogSavePackage: Moving 'D:/Users/kiera/OneDrive/Documents/Unreal Projects/Vertigo_Protocol/Saved/BP_EnemyGunner7C7F45CE4D9C41B14B3394B4361AB269.tmp' to 'D:/Users/kiera/OneDrive/Documents/Unreal Projects/Vertigo_Protocol/Content/Dynamic/Agents/BP_EnemyGunner.uasset'
+[2025.05.02-05.59.45:254][240]AssetCheck: New page: Asset Save: BP_EnemyGunner
+[2025.05.02-05.59.45:254][240]LogContentValidation: Display: Validating Blueprint /Game/Dynamic/Agents/BP_EnemyGunner.BP_EnemyGunner
+[2025.05.02-05.59.47:309][546]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Dynamic/Agents/BP_EnemyMachineGun.BP_EnemyMachineGun
+[2025.05.02-05.59.51:363][853]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2025.05.02-05.59.51:378][853]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.05.02-06.00.04:121][382]LogSavePackage: Moving 'D:/Users/kiera/OneDrive/Documents/Unreal Projects/Vertigo_Protocol/Saved/BP_EnemyMachineGunFAD855E34A739CAA5C5DFCBD9AAC31A0.tmp' to 'D:/Users/kiera/OneDrive/Documents/Unreal Projects/Vertigo_Protocol/Content/Dynamic/Agents/BP_EnemyMachineGun.uasset'
+[2025.05.02-06.00.04:142][382]AssetCheck: New page: Asset Save: BP_EnemyMachineGun
+[2025.05.02-06.00.04:142][382]LogContentValidation: Display: Validating Blueprint /Game/Dynamic/Agents/BP_EnemyMachineGun.BP_EnemyMachineGun
+[2025.05.02-06.00.04:377][406]BlueprintLog: New page: Compile BP_EnemyMachineGun
+[2025.05.02-06.00.04:422][406]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2025.05.02-06.00.04:941][456]LogSavePackage: Moving 'D:/Users/kiera/OneDrive/Documents/Unreal Projects/Vertigo_Protocol/Saved/BP_EnemyMachineGunBF29489C41E23287D86AF8A1A6972972.tmp' to 'D:/Users/kiera/OneDrive/Documents/Unreal Projects/Vertigo_Protocol/Content/Dynamic/Agents/BP_EnemyMachineGun.uasset'
+[2025.05.02-06.00.04:964][456]AssetCheck: New page: Asset Save: BP_EnemyMachineGun
+[2025.05.02-06.00.04:964][456]LogContentValidation: Display: Validating Blueprint /Game/Dynamic/Agents/BP_EnemyMachineGun.BP_EnemyMachineGun
+[2025.05.02-06.00.08:049][800]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Dynamic/Agents/BP_EnemyMachineGunner.BP_EnemyMachineGunner
+[2025.05.02-06.00.11:697][  7]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2025.05.02-06.00.11:712][  7]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.05.02-06.00.26:979][650]BlueprintLog: New page: Compile BP_EnemyMachineGunner
+[2025.05.02-06.00.27:021][650]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2025.05.02-06.00.27:329][677]LogSavePackage: Moving 'D:/Users/kiera/OneDrive/Documents/Unreal Projects/Vertigo_Protocol/Saved/BP_EnemyMachineGunner4F9A746540E8A503478DC9BE1BF12712.tmp' to 'D:/Users/kiera/OneDrive/Documents/Unreal Projects/Vertigo_Protocol/Content/Dynamic/Agents/BP_EnemyMachineGunner.uasset'
+[2025.05.02-06.00.27:347][677]AssetCheck: New page: Asset Save: BP_EnemyMachineGunner
+[2025.05.02-06.00.27:347][677]LogContentValidation: Display: Validating Blueprint /Game/Dynamic/Agents/BP_EnemyMachineGunner.BP_EnemyMachineGunner
+[2025.05.02-06.00.30:620][143]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Dynamic/Agents/BP_EnemyMachineGunnerRoof.BP_EnemyMachineGunnerRoof
+[2025.05.02-06.00.37:753][395]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2025.05.02-06.00.37:771][395]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.05.02-06.00.53:513][180]LogSavePackage: Moving 'D:/Users/kiera/OneDrive/Documents/Unreal Projects/Vertigo_Protocol/Saved/BP_EnemyMachineGunnerRoof63F6012D40D05741B79326A46AB72D7F.tmp' to 'D:/Users/kiera/OneDrive/Documents/Unreal Projects/Vertigo_Protocol/Content/Dynamic/Agents/BP_EnemyMachineGunnerRoof.uasset'
+[2025.05.02-06.00.53:534][180]AssetCheck: New page: Asset Save: BP_EnemyMachineGunnerRoof
+[2025.05.02-06.00.53:534][180]LogContentValidation: Display: Validating Blueprint /Game/Dynamic/Agents/BP_EnemyMachineGunnerRoof.BP_EnemyMachineGunnerRoof
+[2025.05.02-06.00.53:778][204]BlueprintLog: New page: Compile BP_EnemyMachineGunnerRoof
+[2025.05.02-06.00.53:823][204]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2025.05.02-06.00.56:373][547]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Dynamic/Agents/BP_EnemyPatrolAndShoot.BP_EnemyPatrolAndShoot
+[2025.05.02-06.01.01:757][961]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2025.05.02-06.01.01:773][961]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.05.02-06.01.15:458][554]BlueprintLog: New page: Compile BP_EnemyPatrolAndShoot
+[2025.05.02-06.01.15:504][554]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2025.05.02-06.01.15:790][582]LogSavePackage: Moving 'D:/Users/kiera/OneDrive/Documents/Unreal Projects/Vertigo_Protocol/Saved/BP_EnemyPatrolAndShootC8C0367C4D16FED6EAD0BD9270F96A54.tmp' to 'D:/Users/kiera/OneDrive/Documents/Unreal Projects/Vertigo_Protocol/Content/Dynamic/Agents/BP_EnemyPatrolAndShoot.uasset'
+[2025.05.02-06.01.15:807][582]AssetCheck: New page: Asset Save: BP_EnemyPatrolAndShoot
+[2025.05.02-06.01.15:807][582]LogContentValidation: Display: Validating Blueprint /Game/Dynamic/Agents/BP_EnemyPatrolAndShoot.BP_EnemyPatrolAndShoot
+[2025.05.02-06.01.17:865][856]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Dynamic/Agents/BP_EnemyTurret.BP_EnemyTurret
+[2025.05.02-06.01.21:406][121]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2025.05.02-06.01.21:422][121]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.05.02-06.01.24:856][502]LogEditorTransaction: Undo Create Pin Link
+[2025.05.02-06.01.42:167][509]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dynamic/Agents/BP_EnemyTurret" FILE="D:/Users/kiera/OneDrive/Documents/Unreal Projects/Vertigo_Protocol/Content/Dynamic/Agents/BP_EnemyTurret.uasset" SILENT=true
+[2025.05.02-06.01.42:179][509]LogSavePackage: Moving 'D:/Users/kiera/OneDrive/Documents/Unreal Projects/Vertigo_Protocol/Saved/BP_EnemyTurret136E8C8B4FABD185E360A9A4F7FA5891.tmp' to 'D:/Users/kiera/OneDrive/Documents/Unreal Projects/Vertigo_Protocol/Content/Dynamic/Agents/BP_EnemyTurret.uasset'
+[2025.05.02-06.01.42:202][509]AssetCheck: New page: Asset Save: BP_EnemyTurret
+[2025.05.02-06.01.42:202][509]LogContentValidation: Display: Validating Blueprint /Game/Dynamic/Agents/BP_EnemyTurret.BP_EnemyTurret
+[2025.05.02-06.01.42:897][595]BlueprintLog: New page: Compile BP_EnemyTurret
+[2025.05.02-06.01.42:948][595]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2025.05.02-06.01.43:219][624]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dynamic/Agents/BP_EnemyTurret" FILE="D:/Users/kiera/OneDrive/Documents/Unreal Projects/Vertigo_Protocol/Content/Dynamic/Agents/BP_EnemyTurret.uasset" SILENT=true
+[2025.05.02-06.01.43:231][624]LogSavePackage: Moving 'D:/Users/kiera/OneDrive/Documents/Unreal Projects/Vertigo_Protocol/Saved/BP_EnemyTurret504320404F4081B08CE9748D6FFE837D.tmp' to 'D:/Users/kiera/OneDrive/Documents/Unreal Projects/Vertigo_Protocol/Content/Dynamic/Agents/BP_EnemyTurret.uasset'
+[2025.05.02-06.01.43:256][624]AssetCheck: New page: Asset Save: BP_EnemyTurret
+[2025.05.02-06.01.43:256][624]LogContentValidation: Display: Validating Blueprint /Game/Dynamic/Agents/BP_EnemyTurret.BP_EnemyTurret
+[2025.05.02-06.01.45:006][858]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Dynamic/Agents/BP_EnemyTurret_Gunner.BP_EnemyTurret_Gunner
+[2025.05.02-06.01.47:310][ 43]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2025.05.02-06.01.47:326][ 43]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.05.02-06.01.58:971][521]BlueprintLog: New page: Compile BP_EnemyTurret_Gunner
+[2025.05.02-06.01.59:021][521]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2025.05.02-06.01.59:296][547]LogSavePackage: Moving 'D:/Users/kiera/OneDrive/Documents/Unreal Projects/Vertigo_Protocol/Saved/BP_EnemyTurret_GunnerE36FEC6F41873C8DFCB09AA1B7BD24DA.tmp' to 'D:/Users/kiera/OneDrive/Documents/Unreal Projects/Vertigo_Protocol/Content/Dynamic/Agents/BP_EnemyTurret_Gunner.uasset'
+[2025.05.02-06.01.59:319][547]AssetCheck: New page: Asset Save: BP_EnemyTurret_Gunner
+[2025.05.02-06.01.59:320][547]LogContentValidation: Display: Validating Blueprint /Game/Dynamic/Agents/BP_EnemyTurret_Gunner.BP_EnemyTurret_Gunner
+[2025.05.02-06.02.01:636][897]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Dynamic/Agents/BP_level1_boss.BP_level1_boss
+[2025.05.02-06.02.03:546][ 25]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2025.05.02-06.02.03:546][ 25]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.02-06.02.09:119][944]LogSavePackage: Moving 'D:/Users/kiera/OneDrive/Documents/Unreal Projects/Vertigo_Protocol/Saved/BP_EnemyTurret_GunnerA2A6A7EB47722625108B8FA3618A990B.tmp' to 'D:/Users/kiera/OneDrive/Documents/Unreal Projects/Vertigo_Protocol/Content/Dynamic/Agents/BP_EnemyTurret_Gunner.uasset'
+[2025.05.02-06.02.09:134][944]AssetCheck: New page: Asset Save: BP_EnemyTurret_Gunner
+[2025.05.02-06.02.09:134][944]LogContentValidation: Display: Validating Blueprint /Game/Dynamic/Agents/BP_EnemyTurret_Gunner.BP_EnemyTurret_Gunner
+[2025.05.02-06.02.14:247][540]BlueprintLog: New page: Compile BP_EnemyPatrolAndShoot
+[2025.05.02-06.02.14:297][540]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2025.05.02-06.02.14:621][575]LogSavePackage: Moving 'D:/Users/kiera/OneDrive/Documents/Unreal Projects/Vertigo_Protocol/Saved/BP_EnemyPatrolAndShoot16F15BBD49230D0BF74AF4B30E4251F5.tmp' to 'D:/Users/kiera/OneDrive/Documents/Unreal Projects/Vertigo_Protocol/Content/Dynamic/Agents/BP_EnemyPatrolAndShoot.uasset'
+[2025.05.02-06.02.14:645][575]AssetCheck: New page: Asset Save: BP_EnemyPatrolAndShoot
+[2025.05.02-06.02.14:645][575]LogContentValidation: Display: Validating Blueprint /Game/Dynamic/Agents/BP_EnemyPatrolAndShoot.BP_EnemyPatrolAndShoot
+[2025.05.02-06.02.18:981][206]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Dynamic/GameMode.GameMode
+[2025.05.02-06.02.50:395][966]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dynamic/GameMode" FILE="D:/Users/kiera/OneDrive/Documents/Unreal Projects/Vertigo_Protocol/Content/Dynamic/GameMode.uasset" SILENT=true
+[2025.05.02-06.02.50:459][966]LogSavePackage: Moving 'D:/Users/kiera/OneDrive/Documents/Unreal Projects/Vertigo_Protocol/Saved/GameMode7491DFE14530C0361CE652ADF0E7E944.tmp' to 'D:/Users/kiera/OneDrive/Documents/Unreal Projects/Vertigo_Protocol/Content/Dynamic/GameMode.uasset'
+[2025.05.02-06.02.50:481][966]AssetCheck: New page: Asset Save: GameMode
+[2025.05.02-06.02.50:481][966]LogContentValidation: Display: Validating Blueprint /Game/Dynamic/GameMode.GameMode
+[2025.05.02-06.02.51:227][ 17]BlueprintLog: New page: Compile GameMode
+[2025.05.02-06.02.51:306][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2025.05.02-06.02.51:591][ 30]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dynamic/GameMode" FILE="D:/Users/kiera/OneDrive/Documents/Unreal Projects/Vertigo_Protocol/Content/Dynamic/GameMode.uasset" SILENT=true
+[2025.05.02-06.02.51:653][ 30]LogSavePackage: Moving 'D:/Users/kiera/OneDrive/Documents/Unreal Projects/Vertigo_Protocol/Saved/GameModeBCB0EA9447E6864889BE11BC066CE5EB.tmp' to 'D:/Users/kiera/OneDrive/Documents/Unreal Projects/Vertigo_Protocol/Content/Dynamic/GameMode.uasset'
+[2025.05.02-06.02.51:673][ 30]AssetCheck: New page: Asset Save: GameMode
+[2025.05.02-06.02.51:673][ 30]LogContentValidation: Display: Validating Blueprint /Game/Dynamic/GameMode.GameMode
+[2025.05.02-06.02.52:965][125]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dynamic/GameMode" FILE="D:/Users/kiera/OneDrive/Documents/Unreal Projects/Vertigo_Protocol/Content/Dynamic/GameMode.uasset" SILENT=true
+[2025.05.02-06.02.53:024][125]LogSavePackage: Moving 'D:/Users/kiera/OneDrive/Documents/Unreal Projects/Vertigo_Protocol/Saved/GameModeDF7769844444D6A784E19F8544E1E412.tmp' to 'D:/Users/kiera/OneDrive/Documents/Unreal Projects/Vertigo_Protocol/Content/Dynamic/GameMode.uasset'
+[2025.05.02-06.02.53:043][125]AssetCheck: New page: Asset Save: GameMode
+[2025.05.02-06.02.53:043][125]LogContentValidation: Display: Validating Blueprint /Game/Dynamic/GameMode.GameMode
+[2025.05.02-06.03.09:323][361]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dynamic/GameMode" FILE="D:/Users/kiera/OneDrive/Documents/Unreal Projects/Vertigo_Protocol/Content/Dynamic/GameMode.uasset" SILENT=true
+[2025.05.02-06.03.09:381][361]LogSavePackage: Moving 'D:/Users/kiera/OneDrive/Documents/Unreal Projects/Vertigo_Protocol/Saved/GameMode07D8E2D34C4ACEA885B55181337159CC.tmp' to 'D:/Users/kiera/OneDrive/Documents/Unreal Projects/Vertigo_Protocol/Content/Dynamic/GameMode.uasset'
+[2025.05.02-06.03.09:400][361]AssetCheck: New page: Asset Save: GameMode
+[2025.05.02-06.03.09:400][361]LogContentValidation: Display: Validating Blueprint /Game/Dynamic/GameMode.GameMode
+[2025.05.02-06.03.09:634][380]BlueprintLog: New page: Compile GameMode
+[2025.05.02-06.03.09:708][380]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2025.05.02-06.03.09:973][392]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dynamic/GameMode" FILE="D:/Users/kiera/OneDrive/Documents/Unreal Projects/Vertigo_Protocol/Content/Dynamic/GameMode.uasset" SILENT=true
+[2025.05.02-06.03.10:026][392]LogSavePackage: Moving 'D:/Users/kiera/OneDrive/Documents/Unreal Projects/Vertigo_Protocol/Saved/GameMode56280EE044130CAE950816B1C1906006.tmp' to 'D:/Users/kiera/OneDrive/Documents/Unreal Projects/Vertigo_Protocol/Content/Dynamic/GameMode.uasset'
+[2025.05.02-06.03.10:050][392]AssetCheck: New page: Asset Save: GameMode
+[2025.05.02-06.03.10:051][392]LogContentValidation: Display: Validating Blueprint /Game/Dynamic/GameMode.GameMode
+[2025.05.02-06.03.39:642][262]BlueprintLog: New page: Compile BPI_EnemyData
+[2025.05.02-06.03.39:706][262]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2025.05.02-06.03.39:881][280]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dynamic/Agents/BPI_EnemyData" FILE="D:/Users/kiera/OneDrive/Documents/Unreal Projects/Vertigo_Protocol/Content/Dynamic/Agents/BPI_EnemyData.uasset" SILENT=true
+[2025.05.02-06.03.39:882][280]LogSavePackage: Moving 'D:/Users/kiera/OneDrive/Documents/Unreal Projects/Vertigo_Protocol/Saved/BPI_EnemyData02C668244B07FD8B8A063684EB2F835C.tmp' to 'D:/Users/kiera/OneDrive/Documents/Unreal Projects/Vertigo_Protocol/Content/Dynamic/Agents/BPI_EnemyData.uasset'
+[2025.05.02-06.03.39:900][280]AssetCheck: New page: Asset Save: BPI_EnemyData
+[2025.05.02-06.03.39:900][280]LogContentValidation: Display: Validating Blueprint /Game/Dynamic/Agents/BPI_EnemyData.BPI_EnemyData
+[2025.05.02-06.04.18:490][356]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dynamic/Agents/BP_EnemyCharger" FILE="D:/Users/kiera/OneDrive/Documents/Unreal Projects/Vertigo_Protocol/Content/Dynamic/Agents/BP_EnemyCharger.uasset" SILENT=true
+[2025.05.02-06.04.18:507][356]LogSavePackage: Moving 'D:/Users/kiera/OneDrive/Documents/Unreal Projects/Vertigo_Protocol/Saved/BP_EnemyCharger38A6749F40BA3DD5562558B47023E883.tmp' to 'D:/Users/kiera/OneDrive/Documents/Unreal Projects/Vertigo_Protocol/Content/Dynamic/Agents/BP_EnemyCharger.uasset'
+[2025.05.02-06.04.18:522][356]AssetCheck: New page: Asset Save: BP_EnemyCharger
+[2025.05.02-06.04.18:522][356]LogContentValidation: Display: Validating Blueprint /Game/Dynamic/Agents/BP_EnemyCharger.BP_EnemyCharger
+[2025.05.02-06.04.19:420][451]BlueprintLog: New page: Compile BP_EnemyCharger
+[2025.05.02-06.04.19:479][451]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2025.05.02-06.04.19:745][474]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dynamic/Agents/BP_EnemyCharger" FILE="D:/Users/kiera/OneDrive/Documents/Unreal Projects/Vertigo_Protocol/Content/Dynamic/Agents/BP_EnemyCharger.uasset" SILENT=true
+[2025.05.02-06.04.19:762][474]LogSavePackage: Moving 'D:/Users/kiera/OneDrive/Documents/Unreal Projects/Vertigo_Protocol/Saved/BP_EnemyCharger1BBC2CC54C57E080DE63449EB55B49AF.tmp' to 'D:/Users/kiera/OneDrive/Documents/Unreal Projects/Vertigo_Protocol/Content/Dynamic/Agents/BP_EnemyCharger.uasset'
+[2025.05.02-06.04.19:783][474]AssetCheck: New page: Asset Save: BP_EnemyCharger
+[2025.05.02-06.04.19:783][474]LogContentValidation: Display: Validating Blueprint /Game/Dynamic/Agents/BP_EnemyCharger.BP_EnemyCharger
+[2025.05.02-06.04.26:735][854]BlueprintLog: New page: Compile BP_EnemyCharger
+[2025.05.02-06.04.26:795][854]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2025.05.02-06.04.27:091][878]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dynamic/Agents/BP_EnemyCharger" FILE="D:/Users/kiera/OneDrive/Documents/Unreal Projects/Vertigo_Protocol/Content/Dynamic/Agents/BP_EnemyCharger.uasset" SILENT=true
+[2025.05.02-06.04.27:108][878]LogSavePackage: Moving 'D:/Users/kiera/OneDrive/Documents/Unreal Projects/Vertigo_Protocol/Saved/BP_EnemyChargerADC7B6CF4529DF0F97FCB3BBAD300CDE.tmp' to 'D:/Users/kiera/OneDrive/Documents/Unreal Projects/Vertigo_Protocol/Content/Dynamic/Agents/BP_EnemyCharger.uasset'
+[2025.05.02-06.04.27:122][878]AssetCheck: New page: Asset Save: BP_EnemyCharger
+[2025.05.02-06.04.27:122][878]LogContentValidation: Display: Validating Blueprint /Game/Dynamic/Agents/BP_EnemyCharger.BP_EnemyCharger
+[2025.05.02-06.04.29:644][146]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dynamic/Agents/BP_EnemyCharger" FILE="D:/Users/kiera/OneDrive/Documents/Unreal Projects/Vertigo_Protocol/Content/Dynamic/Agents/BP_EnemyCharger.uasset" SILENT=true
+[2025.05.02-06.04.29:659][146]LogSavePackage: Moving 'D:/Users/kiera/OneDrive/Documents/Unreal Projects/Vertigo_Protocol/Saved/BP_EnemyCharger73030C3B426269AA3E5174BE177087A4.tmp' to 'D:/Users/kiera/OneDrive/Documents/Unreal Projects/Vertigo_Protocol/Content/Dynamic/Agents/BP_EnemyCharger.uasset'
+[2025.05.02-06.04.29:675][146]AssetCheck: New page: Asset Save: BP_EnemyCharger
+[2025.05.02-06.04.29:675][146]LogContentValidation: Display: Validating Blueprint /Game/Dynamic/Agents/BP_EnemyCharger.BP_EnemyCharger
+[2025.05.02-06.04.30:738][247]BlueprintLog: New page: Compile BP_EnemyCharger
+[2025.05.02-06.04.30:798][247]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2025.05.02-06.04.31:182][279]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dynamic/Agents/BP_EnemyCharger" FILE="D:/Users/kiera/OneDrive/Documents/Unreal Projects/Vertigo_Protocol/Content/Dynamic/Agents/BP_EnemyCharger.uasset" SILENT=true
+[2025.05.02-06.04.31:199][279]LogSavePackage: Moving 'D:/Users/kiera/OneDrive/Documents/Unreal Projects/Vertigo_Protocol/Saved/BP_EnemyCharger7744514340D244FA0C59C0BCD144E9F3.tmp' to 'D:/Users/kiera/OneDrive/Documents/Unreal Projects/Vertigo_Protocol/Content/Dynamic/Agents/BP_EnemyCharger.uasset'
+[2025.05.02-06.04.31:213][279]AssetCheck: New page: Asset Save: BP_EnemyCharger
+[2025.05.02-06.04.31:213][279]LogContentValidation: Display: Validating Blueprint /Game/Dynamic/Agents/BP_EnemyCharger.BP_EnemyCharger
+[2025.05.02-06.04.44:032][741]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dynamic/Agents/BP_EnemyGunner" FILE="D:/Users/kiera/OneDrive/Documents/Unreal Projects/Vertigo_Protocol/Content/Dynamic/Agents/BP_EnemyGunner.uasset" SILENT=true
+[2025.05.02-06.04.44:056][741]LogSavePackage: Moving 'D:/Users/kiera/OneDrive/Documents/Unreal Projects/Vertigo_Protocol/Saved/BP_EnemyGunner18DF58EF41D38FA054490DA0DEFBE653.tmp' to 'D:/Users/kiera/OneDrive/Documents/Unreal Projects/Vertigo_Protocol/Content/Dynamic/Agents/BP_EnemyGunner.uasset'
+[2025.05.02-06.04.44:073][741]AssetCheck: New page: Asset Save: BP_EnemyGunner
+[2025.05.02-06.04.44:073][741]LogContentValidation: Display: Validating Blueprint /Game/Dynamic/Agents/BP_EnemyGunner.BP_EnemyGunner
+[2025.05.02-06.04.44:774][804]BlueprintLog: New page: Compile BP_EnemyGunner
+[2025.05.02-06.04.44:845][804]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2025.05.02-06.04.45:129][828]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dynamic/Agents/BP_EnemyGunner" FILE="D:/Users/kiera/OneDrive/Documents/Unreal Projects/Vertigo_Protocol/Content/Dynamic/Agents/BP_EnemyGunner.uasset" SILENT=true
+[2025.05.02-06.04.45:154][828]LogSavePackage: Moving 'D:/Users/kiera/OneDrive/Documents/Unreal Projects/Vertigo_Protocol/Saved/BP_EnemyGunner2AC5817F489EDA6CD3CC6EB9215C2FB5.tmp' to 'D:/Users/kiera/OneDrive/Documents/Unreal Projects/Vertigo_Protocol/Content/Dynamic/Agents/BP_EnemyGunner.uasset'
+[2025.05.02-06.04.45:170][828]AssetCheck: New page: Asset Save: BP_EnemyGunner
+[2025.05.02-06.04.45:170][828]LogContentValidation: Display: Validating Blueprint /Game/Dynamic/Agents/BP_EnemyGunner.BP_EnemyGunner
+[2025.05.02-06.04.55:815][997]LogSavePackage: Moving 'D:/Users/kiera/OneDrive/Documents/Unreal Projects/Vertigo_Protocol/Saved/BP_EnemyMachineGun911F72644BB52E5D285FDFB6A487B931.tmp' to 'D:/Users/kiera/OneDrive/Documents/Unreal Projects/Vertigo_Protocol/Content/Dynamic/Agents/BP_EnemyMachineGun.uasset'
+[2025.05.02-06.04.55:831][997]AssetCheck: New page: Asset Save: BP_EnemyMachineGun
+[2025.05.02-06.04.55:831][997]LogContentValidation: Display: Validating Blueprint /Game/Dynamic/Agents/BP_EnemyMachineGun.BP_EnemyMachineGun
+[2025.05.02-06.04.56:195][ 31]BlueprintLog: New page: Compile BP_EnemyMachineGun
+[2025.05.02-06.04.56:254][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2025.05.02-06.04.56:627][ 62]LogSavePackage: Moving 'D:/Users/kiera/OneDrive/Documents/Unreal Projects/Vertigo_Protocol/Saved/BP_EnemyMachineGunF2C8D0B44F0CF0D22A41E49D0845379A.tmp' to 'D:/Users/kiera/OneDrive/Documents/Unreal Projects/Vertigo_Protocol/Content/Dynamic/Agents/BP_EnemyMachineGun.uasset'
+[2025.05.02-06.04.56:643][ 62]AssetCheck: New page: Asset Save: BP_EnemyMachineGun
+[2025.05.02-06.04.56:643][ 62]LogContentValidation: Display: Validating Blueprint /Game/Dynamic/Agents/BP_EnemyMachineGun.BP_EnemyMachineGun
+[2025.05.02-06.05.12:142][852]LogSavePackage: Moving 'D:/Users/kiera/OneDrive/Documents/Unreal Projects/Vertigo_Protocol/Saved/BP_EnemyMachineGunner776EA04C45473F6B529A5AB424236BAA.tmp' to 'D:/Users/kiera/OneDrive/Documents/Unreal Projects/Vertigo_Protocol/Content/Dynamic/Agents/BP_EnemyMachineGunner.uasset'
+[2025.05.02-06.05.12:159][852]AssetCheck: New page: Asset Save: BP_EnemyMachineGunner
+[2025.05.02-06.05.12:159][852]LogContentValidation: Display: Validating Blueprint /Game/Dynamic/Agents/BP_EnemyMachineGunner.BP_EnemyMachineGunner
+[2025.05.02-06.05.12:634][900]BlueprintLog: New page: Compile BP_EnemyMachineGunner
+[2025.05.02-06.05.12:693][900]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2025.05.02-06.05.12:946][917]LogSavePackage: Moving 'D:/Users/kiera/OneDrive/Documents/Unreal Projects/Vertigo_Protocol/Saved/BP_EnemyMachineGunner3681F3674F4F703BBC922C891140AFC2.tmp' to 'D:/Users/kiera/OneDrive/Documents/Unreal Projects/Vertigo_Protocol/Content/Dynamic/Agents/BP_EnemyMachineGunner.uasset'
+[2025.05.02-06.05.12:963][917]AssetCheck: New page: Asset Save: BP_EnemyMachineGunner
+[2025.05.02-06.05.12:963][917]LogContentValidation: Display: Validating Blueprint /Game/Dynamic/Agents/BP_EnemyMachineGunner.BP_EnemyMachineGunner
+[2025.05.02-06.05.23:117][ 44]LogSavePackage: Moving 'D:/Users/kiera/OneDrive/Documents/Unreal Projects/Vertigo_Protocol/Saved/BP_EnemyMachineGunnerRoof2B2691A64D819E5B66684981104CE7E5.tmp' to 'D:/Users/kiera/OneDrive/Documents/Unreal Projects/Vertigo_Protocol/Content/Dynamic/Agents/BP_EnemyMachineGunnerRoof.uasset'
+[2025.05.02-06.05.23:136][ 44]AssetCheck: New page: Asset Save: BP_EnemyMachineGunnerRoof
+[2025.05.02-06.05.23:136][ 44]LogContentValidation: Display: Validating Blueprint /Game/Dynamic/Agents/BP_EnemyMachineGunnerRoof.BP_EnemyMachineGunnerRoof
+[2025.05.02-06.05.23:907][110]BlueprintLog: New page: Compile BP_EnemyMachineGunnerRoof
+[2025.05.02-06.05.23:967][110]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2025.05.02-06.05.24:180][124]LogSavePackage: Moving 'D:/Users/kiera/OneDrive/Documents/Unreal Projects/Vertigo_Protocol/Saved/BP_EnemyMachineGunnerRoof3265355A400A062E717648A28D48C1FE.tmp' to 'D:/Users/kiera/OneDrive/Documents/Unreal Projects/Vertigo_Protocol/Content/Dynamic/Agents/BP_EnemyMachineGunnerRoof.uasset'
+[2025.05.02-06.05.24:200][124]AssetCheck: New page: Asset Save: BP_EnemyMachineGunnerRoof
+[2025.05.02-06.05.24:200][124]LogContentValidation: Display: Validating Blueprint /Game/Dynamic/Agents/BP_EnemyMachineGunnerRoof.BP_EnemyMachineGunnerRoof
+[2025.05.02-06.05.29:993][761]LogSavePackage: Moving 'D:/Users/kiera/OneDrive/Documents/Unreal Projects/Vertigo_Protocol/Saved/BP_EnemyPatrolAndShoot9DEED53A437E6C3356E2DBBB65F7996C.tmp' to 'D:/Users/kiera/OneDrive/Documents/Unreal Projects/Vertigo_Protocol/Content/Dynamic/Agents/BP_EnemyPatrolAndShoot.uasset'
+[2025.05.02-06.05.30:010][761]AssetCheck: New page: Asset Save: BP_EnemyPatrolAndShoot
+[2025.05.02-06.05.30:010][761]LogContentValidation: Display: Validating Blueprint /Game/Dynamic/Agents/BP_EnemyPatrolAndShoot.BP_EnemyPatrolAndShoot
+[2025.05.02-06.05.30:425][807]BlueprintLog: New page: Compile BP_EnemyPatrolAndShoot
+[2025.05.02-06.05.30:477][807]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2025.05.02-06.05.39:959][846]LogSavePackage: Moving 'D:/Users/kiera/OneDrive/Documents/Unreal Projects/Vertigo_Protocol/Saved/BP_EnemyPatrolAndShoot288A762F4D3AD2593C0B8A9BD40A7633.tmp' to 'D:/Users/kiera/OneDrive/Documents/Unreal Projects/Vertigo_Protocol/Content/Dynamic/Agents/BP_EnemyPatrolAndShoot.uasset'
+[2025.05.02-06.05.39:976][846]AssetCheck: New page: Asset Save: BP_EnemyPatrolAndShoot
+[2025.05.02-06.05.39:977][846]LogContentValidation: Display: Validating Blueprint /Game/Dynamic/Agents/BP_EnemyPatrolAndShoot.BP_EnemyPatrolAndShoot
+[2025.05.02-06.05.40:664][903]BlueprintLog: New page: Compile BP_EnemyPatrolAndShoot
+[2025.05.02-06.05.40:723][903]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2025.05.02-06.05.41:004][922]LogSavePackage: Moving 'D:/Users/kiera/OneDrive/Documents/Unreal Projects/Vertigo_Protocol/Saved/BP_EnemyPatrolAndShoot67F2841346FF10166FEDA88DD81A580A.tmp' to 'D:/Users/kiera/OneDrive/Documents/Unreal Projects/Vertigo_Protocol/Content/Dynamic/Agents/BP_EnemyPatrolAndShoot.uasset'
+[2025.05.02-06.05.41:082][922]AssetCheck: New page: Asset Save: BP_EnemyPatrolAndShoot
+[2025.05.02-06.05.41:082][922]LogContentValidation: Display: Validating Blueprint /Game/Dynamic/Agents/BP_EnemyPatrolAndShoot.BP_EnemyPatrolAndShoot
+[2025.05.02-06.05.49:986][959]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dynamic/Agents/BP_EnemyTurret" FILE="D:/Users/kiera/OneDrive/Documents/Unreal Projects/Vertigo_Protocol/Content/Dynamic/Agents/BP_EnemyTurret.uasset" SILENT=true
+[2025.05.02-06.05.50:000][959]LogSavePackage: Moving 'D:/Users/kiera/OneDrive/Documents/Unreal Projects/Vertigo_Protocol/Saved/BP_EnemyTurretA16CBC4D41654F296C849AA5CBAF087D.tmp' to 'D:/Users/kiera/OneDrive/Documents/Unreal Projects/Vertigo_Protocol/Content/Dynamic/Agents/BP_EnemyTurret.uasset'
+[2025.05.02-06.05.50:014][959]AssetCheck: New page: Asset Save: BP_EnemyTurret
+[2025.05.02-06.05.50:014][959]LogContentValidation: Display: Validating Blueprint /Game/Dynamic/Agents/BP_EnemyTurret.BP_EnemyTurret
+[2025.05.02-06.05.50:578][ 20]BlueprintLog: New page: Compile BP_EnemyTurret
+[2025.05.02-06.05.50:632][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2025.05.02-06.05.50:894][ 42]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dynamic/Agents/BP_EnemyTurret" FILE="D:/Users/kiera/OneDrive/Documents/Unreal Projects/Vertigo_Protocol/Content/Dynamic/Agents/BP_EnemyTurret.uasset" SILENT=true
+[2025.05.02-06.05.50:907][ 42]LogSavePackage: Moving 'D:/Users/kiera/OneDrive/Documents/Unreal Projects/Vertigo_Protocol/Saved/BP_EnemyTurret848029614AD505AD2121C48636E8F7EE.tmp' to 'D:/Users/kiera/OneDrive/Documents/Unreal Projects/Vertigo_Protocol/Content/Dynamic/Agents/BP_EnemyTurret.uasset'
+[2025.05.02-06.05.50:924][ 42]AssetCheck: New page: Asset Save: BP_EnemyTurret
+[2025.05.02-06.05.50:924][ 42]LogContentValidation: Display: Validating Blueprint /Game/Dynamic/Agents/BP_EnemyTurret.BP_EnemyTurret
+[2025.05.02-06.06.00:000][ 64]LogSavePackage: Moving 'D:/Users/kiera/OneDrive/Documents/Unreal Projects/Vertigo_Protocol/Saved/BP_EnemyTurret_GunnerEBA136F24807A7814F6268A69ED59098.tmp' to 'D:/Users/kiera/OneDrive/Documents/Unreal Projects/Vertigo_Protocol/Content/Dynamic/Agents/BP_EnemyTurret_Gunner.uasset'
+[2025.05.02-06.06.00:031][ 64]AssetCheck: New page: Asset Save: BP_EnemyTurret_Gunner
+[2025.05.02-06.06.00:031][ 64]LogContentValidation: Display: Validating Blueprint /Game/Dynamic/Agents/BP_EnemyTurret_Gunner.BP_EnemyTurret_Gunner
+[2025.05.02-06.06.00:756][135]BlueprintLog: New page: Compile BP_EnemyTurret_Gunner
+[2025.05.02-06.06.00:811][135]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2025.05.02-06.06.01:068][158]LogSavePackage: Moving 'D:/Users/kiera/OneDrive/Documents/Unreal Projects/Vertigo_Protocol/Saved/BP_EnemyTurret_Gunner4F7AD6EF47478D232A465BB5560393EB.tmp' to 'D:/Users/kiera/OneDrive/Documents/Unreal Projects/Vertigo_Protocol/Content/Dynamic/Agents/BP_EnemyTurret_Gunner.uasset'
+[2025.05.02-06.06.01:085][158]AssetCheck: New page: Asset Save: BP_EnemyTurret_Gunner
+[2025.05.02-06.06.01:085][158]LogContentValidation: Display: Validating Blueprint /Game/Dynamic/Agents/BP_EnemyTurret_Gunner.BP_EnemyTurret_Gunner
+[2025.05.02-06.06.40:301][837]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dynamic/GameMode" FILE="D:/Users/kiera/OneDrive/Documents/Unreal Projects/Vertigo_Protocol/Content/Dynamic/GameMode.uasset" SILENT=true
+[2025.05.02-06.06.40:354][837]LogSavePackage: Moving 'D:/Users/kiera/OneDrive/Documents/Unreal Projects/Vertigo_Protocol/Saved/GameMode812DECC448BC66D2FF003CBF06131991.tmp' to 'D:/Users/kiera/OneDrive/Documents/Unreal Projects/Vertigo_Protocol/Content/Dynamic/GameMode.uasset'
+[2025.05.02-06.06.40:370][837]AssetCheck: New page: Asset Save: GameMode
+[2025.05.02-06.06.40:370][837]LogContentValidation: Display: Validating Blueprint /Game/Dynamic/GameMode.GameMode
+[2025.05.02-06.06.41:053][899]BlueprintLog: New page: Compile GameMode
+[2025.05.02-06.06.41:125][899]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2025.05.02-06.06.41:440][916]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dynamic/GameMode" FILE="D:/Users/kiera/OneDrive/Documents/Unreal Projects/Vertigo_Protocol/Content/Dynamic/GameMode.uasset" SILENT=true
+[2025.05.02-06.06.41:493][916]LogSavePackage: Moving 'D:/Users/kiera/OneDrive/Documents/Unreal Projects/Vertigo_Protocol/Saved/GameModeC315799A4F7551A24EBD5897C59E0E47.tmp' to 'D:/Users/kiera/OneDrive/Documents/Unreal Projects/Vertigo_Protocol/Content/Dynamic/GameMode.uasset'
+[2025.05.02-06.06.41:509][916]AssetCheck: New page: Asset Save: GameMode
+[2025.05.02-06.06.41:509][916]LogContentValidation: Display: Validating Blueprint /Game/Dynamic/GameMode.GameMode
+[2025.05.02-06.06.44:207][245]LogTemp: Repeating last play command: Selected Viewport
+[2025.05.02-06.06.44:212][245]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.02-06.06.44:212][245]PIE: New page: PIE session: MainMenuMap (May 1, 2025, 4:06:44 PM)
+[2025.05.02-06.06.44:213][245]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2025.05.02-06.06.44:215][245]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2025.05.02-06.06.44:215][245]LogPlayLevel: Creating play world package: /Game/Dynamic/Levels/UEDPIE_0_MainMenuMap
+[2025.05.02-06.06.44:217][245]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001345s)
+[2025.05.02-06.06.44:217][245]LogAIModule: Creating AISystem for world MainMenuMap
+[2025.05.02-06.06.44:218][245]LogPlayLevel: PIE: World Init took: (0.000937s)
+[2025.05.02-06.06.44:218][245]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dynamic/Levels/MainMenuMap.MainMenuMap to /Game/Dynamic/Levels/UEDPIE_0_MainMenuMap.MainMenuMap (0.002379s)
+[2025.05.02-06.06.44:249][245]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2025.05.02-06.06.44:250][245]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2025.05.02-06.06.44:250][245]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.02-06.06.44:250][245]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.02-06.06.44:250][245]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.02-06.06.44:250][245]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.02-06.06.44:250][245]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.05.02-06.06.44:250][245]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.02-06.06.44:250][245]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.05.02-06.06.44:250][245]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.02-06.06.44:250][245]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.02-06.06.44:250][245]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.02-06.06.44:250][245]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.02-06.06.44:250][245]LogAudioMixer: Display: Initializing audio mixer.
+[2025.05.02-06.06.44:255][245]LogAudioMixer: Display: 0: FrontLeft
+[2025.05.02-06.06.44:255][245]LogAudioMixer: Display: 1: FrontRight
+[2025.05.02-06.06.44:264][245]LogAudioMixer: Display: Using Audio Device Speakers (High Definition Audio Device)
+[2025.05.02-06.06.44:264][245]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.02-06.06.44:264][245]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.02-06.06.44:264][245]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.02-06.06.44:264][245]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2025.05.02-06.06.44:264][245]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2025.05.02-06.06.44:264][245]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2025.05.02-06.06.44:265][245]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2025.05.02-06.06.44:265][245]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2025.05.02-06.06.44:265][245]LogInit: FAudioDevice initialized.
+[2025.05.02-06.06.44:265][245]LogAudio: Display: Audio Device (ID: 2) registered with world 'MainMenuMap'.
+[2025.05.02-06.06.44:275][245]LogLoad: Game class is 'MainMenuGameMode_C'
+[2025.05.02-06.06.44:276][245]LogWorld: Bringing World /Game/Dynamic/Levels/UEDPIE_0_MainMenuMap.MainMenuMap up for play (max tick rate 300) at 2025.05.01-23.06.44
+[2025.05.02-06.06.44:276][245]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2025.05.02-06.06.44:286][245]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.010 s
+[2025.05.02-06.06.44:286][245]LogOutputDevice: Error: === Handled ensure: ===
+[2025.05.02-06.06.44:286][245]LogOutputDevice: Error: 
+[2025.05.02-06.06.44:286][245]LogOutputDevice: Error: Ensure condition failed: Class.IsValid() [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/Engine/Private/UserInterface/InputSettings.cpp] [Line: 460]
+[2025.05.02-06.06.44:286][245]LogOutputDevice: Error: Invalid InputComponent class in Input Settings. Manual reset required.
+[2025.05.02-06.06.44:286][245]LogOutputDevice: Error: Stack: 
+[2025.05.02-06.06.44:286][245]LogOutputDevice: Error: [Callstack] 0x00007ffee9341e99 UE4Editor-Engine.dll!UnknownFunction []
+[2025.05.02-06.06.44:286][245]LogOutputDevice: Error: [Callstack] 0x00007ffee8b56373 UE4Editor-Engine.dll!UnknownFunction []
+[2025.05.02-06.06.44:286][245]LogOutputDevice: Error: [Callstack] 0x00007ffee8120454 UE4Editor-Engine.dll!UnknownFunction []
+[2025.05.02-06.06.44:286][245]LogOutputDevice: Error: [Callstack] 0x00007ffee8132da8 UE4Editor-Engine.dll!UnknownFunction []
+[2025.05.02-06.06.44:286][245]LogOutputDevice: Error: [Callstack] 0x00007ffee8bd461d UE4Editor-Engine.dll!UnknownFunction []
+[2025.05.02-06.06.44:286][245]LogOutputDevice: Error: [Callstack] 0x00007ffee7f6e979 UE4Editor-Engine.dll!UnknownFunction []
+[2025.05.02-06.06.44:286][245]LogOutputDevice: Error: [Callstack] 0x00007ffee5c32c45 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2025.05.02-06.06.44:286][245]LogOutputDevice: Error: [Callstack] 0x00007ffee5c5622f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2025.05.02-06.06.44:286][245]LogOutputDevice: Error: [Callstack] 0x00007ffee5c3397d UE4Editor-UnrealEd.dll!UnknownFunction []
+[2025.05.02-06.06.44:286][245]LogOutputDevice: Error: [Callstack] 0x00007ffee5c73772 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2025.05.02-06.06.44:286][245]LogOutputDevice: Error: [Callstack] 0x00007ffee5c76d31 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2025.05.02-06.06.44:286][245]LogOutputDevice: Error: [Callstack] 0x00007ffee5c765f8 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2025.05.02-06.06.44:286][245]LogOutputDevice: Error: [Callstack] 0x00007ffee56d0c8c UE4Editor-UnrealEd.dll!UnknownFunction []
+[2025.05.02-06.06.44:286][245]LogOutputDevice: Error: [Callstack] 0x00007ffee5fd2ba6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2025.05.02-06.06.44:286][245]LogOutputDevice: Error: [Callstack] 0x00007ff7927e87a0 UE4Editor.exe!UnknownFunction []
+[2025.05.02-06.06.44:286][245]LogOutputDevice: Error: [Callstack] 0x00007ff792800fcc UE4Editor.exe!UnknownFunction []
+[2025.05.02-06.06.44:286][245]LogOutputDevice: Error: [Callstack] 0x00007ff7928010ba UE4Editor.exe!UnknownFunction []
+[2025.05.02-06.06.44:286][245]LogOutputDevice: Error: [Callstack] 0x00007ff7928040dd UE4Editor.exe!UnknownFunction []
+[2025.05.02-06.06.44:286][245]LogOutputDevice: Error: [Callstack] 0x00007ff792815984 UE4Editor.exe!UnknownFunction []
+[2025.05.02-06.06.44:286][245]LogOutputDevice: Error: [Callstack] 0x00007ff79281853a UE4Editor.exe!UnknownFunction []
+[2025.05.02-06.06.44:286][245]LogOutputDevice: Error: [Callstack] 0x00007ff80f09e8d7 KERNEL32.DLL!UnknownFunction []
+[2025.05.02-06.06.44:286][245]LogOutputDevice: Error: [Callstack] 0x00007ff810e114fc ntdll.dll!UnknownFunction []
+[2025.05.02-06.06.44:286][245]LogOutputDevice: Error: 
