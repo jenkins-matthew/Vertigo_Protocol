@@ -300,10 +300,58 @@
 			]
 		},
 		{
+			"ShaderMapHash": "F840C18FDED900EE0E736190A25BAD34DF898BEB",
+			"Assets": [
+				"/Game/Static/Textures/BulletHole"
+			]
+		},
+		{
 			"ShaderMapHash": "FBCB2D711B23F52BA4A320CF170194D3822963B4",
 			"Assets": [
 				"/Game/Static/Assets/Material/Emissive/M_Tracer",
 				"/Game/Static/Assets/Material/Emissive/M_Tracer_Plasma"
+			]
+		},
+		{
+			"ShaderMapHash": "7DA2D9F2B83B23300F328BD33C71E09662155252",
+			"Assets": [
+				"/Game/Static/Assets/Weapons/Weapon_Components/VFX_FlipBooks/MuzzleFlashFlipBook_4x4_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "17C0FD591CC444AB95B8E817ED2F784A634CD79E",
+			"Assets": [
+				"/Game/Static/Assets/Weapons/VFX/FlipBooks/SmokeDistallFlipbookComplete-01_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "8C4CCEC171C53B740EBD2CCFBE04DD0933269A60",
+			"Assets": [
+				"/Game/Static/Assets/Weapons/VFX/FlipBooks/ImpactType1Flip_6x5_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "E513D8CCB0BC63982DDB99CA9EDBB285FA13ED61",
+			"Assets": [
+				"/Game/Static/Assets/Weapons/VFX/FlipBooks/ExplosionFlipBookComplete-01_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "9F89B068D837B34686F6DC67E6642CB4534F0D2F",
+			"Assets": [
+				"/Game/Static/Assets/Weapons/VFX/FlipBooks/D_BulletHole"
+			]
+		},
+		{
+			"ShaderMapHash": "F132378749F9805B49F94BCCDD9B74EE3AB40636",
+			"Assets": [
+				"/Game/Static/Assets/Material/Basic/Basic_Yellow"
+			]
+		},
+		{
+			"ShaderMapHash": "27C35857384863DDADE4045287AD6BA71BD24C78",
+			"Assets": [
+				"/Game/Static/Assets/Material/Basic/Basic_Red"
 			]
 		},
 		{
@@ -313,9 +361,9 @@
 			]
 		},
 		{
-			"ShaderMapHash": "27C35857384863DDADE4045287AD6BA71BD24C78",
+			"ShaderMapHash": "18A9A7E455DE62C41A72416106DDD4B97727F0D2",
 			"Assets": [
-				"/Game/Static/Assets/Material/Basic/Basic_Red"
+				"/Game/Static/Assets/Weapons/VFX/FlipBooks/SmokeExplosionFlipBookComplete-01_Mat"
 			]
 		},
 		{
@@ -334,57 +382,6 @@
 			"ShaderMapHash": "C380564A6414222F6A7E5F57D0F14982D5FD4F14",
 			"Assets": [
 				"/Engine/EngineSky/M_Sky_Panning_Clouds2"
-			]
-		},
-		{
-			"ShaderMapHash": "4808F2C13D119176F2E8C48220A0C41C36814F04",
-			"Assets": [
-				"/Game/Static/StarterContent/Props/Materials/M_Lamp",
-				"/Game/StarterContent/Props/Materials/M_Lamp"
-			]
-		},
-		{
-			"ShaderMapHash": "73675733B6C9FB625BD19471C448920CFCC717FE",
-			"Assets": [
-				"/Game/Static/StarterContent/Particles/Materials/M_smoke_subUV",
-				"/Game/StarterContent/Particles/Materials/M_smoke_subUV"
-			]
-		},
-		{
-			"ShaderMapHash": "E728275E86305BFF6DC77C8B1CF973DB1FB3C6C7",
-			"Assets": [
-				"/Game/Static/StarterContent/Particles/Materials/M_Spark",
-				"/Game/StarterContent/Particles/Materials/M_Spark"
-			]
-		},
-		{
-			"ShaderMapHash": "5FB583605FAD51777093E020EDE159CC4A7441AB",
-			"Assets": [
-				"/Game/Static/StarterContent/Particles/Materials/M_Radial_Gradient",
-				"/Game/StarterContent/Particles/Materials/M_Radial_Gradient",
-				"/Game/Static/StarterContent/Particles/Materials/M_radial_ramp",
-				"/Game/StarterContent/Particles/Materials/M_radial_ramp"
-			]
-		},
-		{
-			"ShaderMapHash": "13B9C1BFAE87A304BD7E1C7C6112EEF4A5AA66A5",
-			"Assets": [
-				"/Game/Static/StarterContent/Particles/Materials/M_Heat_Distortion",
-				"/Game/StarterContent/Particles/Materials/M_Heat_Distortion"
-			]
-		},
-		{
-			"ShaderMapHash": "DB4A6E58D03435E971AEBB01A0B5F65BA94DCCD5",
-			"Assets": [
-				"/Game/Static/StarterContent/Particles/Materials/M_Fire_SubUV",
-				"/Game/StarterContent/Particles/Materials/M_Fire_SubUV"
-			]
-		},
-		{
-			"ShaderMapHash": "F66FC83168E3609D05D512B3BC2E29DE9767506D",
-			"Assets": [
-				"/Game/Static/StarterContent/Materials/M_Basic_Floor",
-				"/Game/StarterContent/Materials/M_Basic_Floor"
 			]
 		},
 		{
@@ -696,6 +693,57 @@
 			]
 		},
 		{
+			"ShaderMapHash": "4808F2C13D119176F2E8C48220A0C41C36814F04",
+			"Assets": [
+				"/Game/Static/StarterContent/Props/Materials/M_Lamp",
+				"/Game/StarterContent/Props/Materials/M_Lamp"
+			]
+		},
+		{
+			"ShaderMapHash": "73675733B6C9FB625BD19471C448920CFCC717FE",
+			"Assets": [
+				"/Game/Static/StarterContent/Particles/Materials/M_smoke_subUV",
+				"/Game/StarterContent/Particles/Materials/M_smoke_subUV"
+			]
+		},
+		{
+			"ShaderMapHash": "E728275E86305BFF6DC77C8B1CF973DB1FB3C6C7",
+			"Assets": [
+				"/Game/Static/StarterContent/Particles/Materials/M_Spark",
+				"/Game/StarterContent/Particles/Materials/M_Spark"
+			]
+		},
+		{
+			"ShaderMapHash": "5FB583605FAD51777093E020EDE159CC4A7441AB",
+			"Assets": [
+				"/Game/Static/StarterContent/Particles/Materials/M_Radial_Gradient",
+				"/Game/StarterContent/Particles/Materials/M_Radial_Gradient",
+				"/Game/Static/StarterContent/Particles/Materials/M_radial_ramp",
+				"/Game/StarterContent/Particles/Materials/M_radial_ramp"
+			]
+		},
+		{
+			"ShaderMapHash": "13B9C1BFAE87A304BD7E1C7C6112EEF4A5AA66A5",
+			"Assets": [
+				"/Game/Static/StarterContent/Particles/Materials/M_Heat_Distortion",
+				"/Game/StarterContent/Particles/Materials/M_Heat_Distortion"
+			]
+		},
+		{
+			"ShaderMapHash": "DB4A6E58D03435E971AEBB01A0B5F65BA94DCCD5",
+			"Assets": [
+				"/Game/Static/StarterContent/Particles/Materials/M_Fire_SubUV",
+				"/Game/StarterContent/Particles/Materials/M_Fire_SubUV"
+			]
+		},
+		{
+			"ShaderMapHash": "F66FC83168E3609D05D512B3BC2E29DE9767506D",
+			"Assets": [
+				"/Game/Static/StarterContent/Materials/M_Basic_Floor",
+				"/Game/StarterContent/Materials/M_Basic_Floor"
+			]
+		},
+		{
 			"ShaderMapHash": "00ACD0B43BEB9AE01C373EBB8D2FFA362E9E34ED",
 			"Assets": [
 				"/Engine/EngineMaterials/AntiAliasedTextMaterialTranslucent"
@@ -768,57 +816,15 @@
 			]
 		},
 		{
-			"ShaderMapHash": "14A8D00258AB46C874F88DA42879E4E098FEA5A1",
-			"Assets": [
-				"/Game/Static/Materials/PostProcessing/PP_CeilShading_Outline"
-			]
-		},
-		{
-			"ShaderMapHash": "7DA2D9F2B83B23300F328BD33C71E09662155252",
-			"Assets": [
-				"/Game/Static/Assets/Weapons/Weapon_Components/VFX_FlipBooks/MuzzleFlashFlipBook_4x4_Mat"
-			]
-		},
-		{
-			"ShaderMapHash": "18A9A7E455DE62C41A72416106DDD4B97727F0D2",
-			"Assets": [
-				"/Game/Static/Assets/Weapons/VFX/FlipBooks/SmokeExplosionFlipBookComplete-01_Mat"
-			]
-		},
-		{
-			"ShaderMapHash": "17C0FD591CC444AB95B8E817ED2F784A634CD79E",
-			"Assets": [
-				"/Game/Static/Assets/Weapons/VFX/FlipBooks/SmokeDistallFlipbookComplete-01_Mat"
-			]
-		},
-		{
-			"ShaderMapHash": "8C4CCEC171C53B740EBD2CCFBE04DD0933269A60",
-			"Assets": [
-				"/Game/Static/Assets/Weapons/VFX/FlipBooks/ImpactType1Flip_6x5_Mat"
-			]
-		},
-		{
-			"ShaderMapHash": "F132378749F9805B49F94BCCDD9B74EE3AB40636",
-			"Assets": [
-				"/Game/Static/Assets/Material/Basic/Basic_Yellow"
-			]
-		},
-		{
-			"ShaderMapHash": "E513D8CCB0BC63982DDB99CA9EDBB285FA13ED61",
-			"Assets": [
-				"/Game/Static/Assets/Weapons/VFX/FlipBooks/ExplosionFlipBookComplete-01_Mat"
-			]
-		},
-		{
-			"ShaderMapHash": "9F89B068D837B34686F6DC67E6642CB4534F0D2F",
-			"Assets": [
-				"/Game/Static/Assets/Weapons/VFX/FlipBooks/D_BulletHole"
-			]
-		},
-		{
 			"ShaderMapHash": "B2A3EEA64C292E62C262D14AE48FE45DACDB2C7D",
 			"Assets": [
 				"/Game/Static/Assets/Material/Emissive/M_Emissive_Blank"
+			]
+		},
+		{
+			"ShaderMapHash": "14A8D00258AB46C874F88DA42879E4E098FEA5A1",
+			"Assets": [
+				"/Game/Static/Materials/PostProcessing/PP_CeilShading_Outline"
 			]
 		},
 		{
@@ -851,12 +857,6 @@
 			"ShaderMapHash": "D054099F9FE5B3925975F75E609DFFDDAC00ABF7",
 			"Assets": [
 				"/Game/Static/Assets/Material/SubSurface/Red_Beacon"
-			]
-		},
-		{
-			"ShaderMapHash": "BDA51C4EB89A08C968262CCFA0EDA4D5A5246817",
-			"Assets": [
-				"/Engine/EngineMaterials/DefaultTextMaterialOpaque_2"
 			]
 		},
 		{
