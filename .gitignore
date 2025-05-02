@@ -72,3 +72,6 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Vertigo_Protocol/Saved/Cooked/WindowsNoEditor/Vertigo_Protocol/Content/Static/Assets/Weapons/Weapons/Guns/Attachments/Flashlight_TXT-01.uasset
+Vertigo_Protocol/Saved/Cooked/WindowsNoEditor/Vertigo_Protocol/Content/Static/Assets/Weapons/Weapons/Guns/Attachments/Flashlight_TXT-01.uexp
+Vertigo_Protocol/Saved/StagedBuilds/WindowsNoEditor/Vertigo_Protocol/Content/Paks/Vertigo_Protocol-WindowsNoEditor.pak
