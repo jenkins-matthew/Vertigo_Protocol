@@ -65,6 +65,18 @@
 			]
 		},
 		{
+			"ShaderMapHash": "E6C881C4367A017C30CB5E1C97A435C113595511",
+			"Assets": [
+				"/SpeedTreeImporter/SpeedTree9/SpeedTreeBillboardMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "A954F8FBE7BFB625D53290FA0E043AE0D60F25A7",
+			"Assets": [
+				"/SpeedTreeImporter/SpeedTree9/SpeedTreeMaster"
+			]
+		},
+		{
 			"ShaderMapHash": "634BE28D834184364042562DF8D2C9F628C4777D",
 			"Assets": [
 				"/OpenXR/Devices/GoogleDaydream/MI_GoogleDaydream",
@@ -91,18 +103,6 @@
 			"ShaderMapHash": "55691DB30875E073E96ED8309D594252A7C2E2A9",
 			"Assets": [
 				"/Engine/EngineDebugMaterials/M_VolumeRenderSphereTracePP"
-			]
-		},
-		{
-			"ShaderMapHash": "E6C881C4367A017C30CB5E1C97A435C113595511",
-			"Assets": [
-				"/SpeedTreeImporter/SpeedTree9/SpeedTreeBillboardMaster"
-			]
-		},
-		{
-			"ShaderMapHash": "A954F8FBE7BFB625D53290FA0E043AE0D60F25A7",
-			"Assets": [
-				"/SpeedTreeImporter/SpeedTree9/SpeedTreeMaster"
 			]
 		},
 		{
@@ -287,12 +287,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "810F6C5FC6CF1E95884055DE60D8D0E15B74DC65",
-			"Assets": [
-				"/Game/Static/Assets/Weapons/Materials/M_LightFunction"
-			]
-		},
-		{
 			"ShaderMapHash": "DF22970824430D8A3AD2C0266C312E0A6E0BC7A9",
 			"Assets": [
 				"/Game/StarterContent/Materials/M_Basic_Wall",
@@ -313,9 +307,34 @@
 			]
 		},
 		{
+			"ShaderMapHash": "810F6C5FC6CF1E95884055DE60D8D0E15B74DC65",
+			"Assets": [
+				"/Game/Static/Assets/Weapons/Materials/M_LightFunction"
+			]
+		},
+		{
+			"ShaderMapHash": "514E1BD24614DCEB6AB493A243F2D60BA8E95940",
+			"Assets": [
+				"/Game/Static/Materials/M_Base",
+				"/Game/Static/Materials/M_Base_Lighting"
+			]
+		},
+		{
 			"ShaderMapHash": "7DA2D9F2B83B23300F328BD33C71E09662155252",
 			"Assets": [
 				"/Game/Static/Assets/Weapons/Weapon_Components/VFX_FlipBooks/MuzzleFlashFlipBook_4x4_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "C8BD135535CC511B7289B55F1C7C6C35E8585967",
+			"Assets": [
+				"/Game/Static/Assets/Material/SubSurface/Blue_Beacon"
+			]
+		},
+		{
+			"ShaderMapHash": "27C35857384863DDADE4045287AD6BA71BD24C78",
+			"Assets": [
+				"/Game/Static/Assets/Material/Basic/Basic_Red"
 			]
 		},
 		{
@@ -346,18 +365,6 @@
 			"ShaderMapHash": "F132378749F9805B49F94BCCDD9B74EE3AB40636",
 			"Assets": [
 				"/Game/Static/Assets/Material/Basic/Basic_Yellow"
-			]
-		},
-		{
-			"ShaderMapHash": "27C35857384863DDADE4045287AD6BA71BD24C78",
-			"Assets": [
-				"/Game/Static/Assets/Material/Basic/Basic_Red"
-			]
-		},
-		{
-			"ShaderMapHash": "C8BD135535CC511B7289B55F1C7C6C35E8585967",
-			"Assets": [
-				"/Game/Static/Assets/Material/SubSurface/Blue_Beacon"
 			]
 		},
 		{
@@ -816,12 +823,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "B2A3EEA64C292E62C262D14AE48FE45DACDB2C7D",
-			"Assets": [
-				"/Game/Static/Assets/Material/Emissive/M_Emissive_Blank"
-			]
-		},
-		{
 			"ShaderMapHash": "14A8D00258AB46C874F88DA42879E4E098FEA5A1",
 			"Assets": [
 				"/Game/Static/Materials/PostProcessing/PP_CeilShading_Outline"
@@ -831,6 +832,12 @@
 			"ShaderMapHash": "035B9BE2DBA739BB8A17B97AAB610E0218C36DBB",
 			"Assets": [
 				"/Game/Static/Assets/Material/GridMaterial/M_Grid_World"
+			]
+		},
+		{
+			"ShaderMapHash": "B2A3EEA64C292E62C262D14AE48FE45DACDB2C7D",
+			"Assets": [
+				"/Game/Static/Assets/Material/Emissive/M_Emissive_Blank"
 			]
 		},
 		{
@@ -847,16 +854,21 @@
 			]
 		},
 		{
-			"ShaderMapHash": "6C80021D77B7FBE5BA85056BEC9D641E61C28711",
-			"Assets": [
-				"/Game/Static/StarterContent/Props/Materials/M_Door",
-				"/Game/StarterContent/Props/Materials/M_Door"
-			]
-		},
-		{
 			"ShaderMapHash": "D054099F9FE5B3925975F75E609DFFDDAC00ABF7",
 			"Assets": [
 				"/Game/Static/Assets/Material/SubSurface/Red_Beacon"
+			]
+		},
+		{
+			"ShaderMapHash": "F56F63B2961E1BFD44539B61C94FF0119DE67163",
+			"Assets": [
+				"/Game/Static/Assets/Material/SubSurface/Red_Beacon_2"
+			]
+		},
+		{
+			"ShaderMapHash": "0CBDCC26D508F8DA53C3690B854C2D22B002CF46",
+			"Assets": [
+				"/Game/Static/Assets/Vehicles/2_prop_blades2_prop_blades_a_Mat"
 			]
 		},
 		{
@@ -885,6 +897,13 @@
 			"Assets": [
 				"/Game/Static/StarterContent/Props/Materials/M_MaterialSphere",
 				"/Game/StarterContent/Props/Materials/M_MaterialSphere"
+			]
+		},
+		{
+			"ShaderMapHash": "6C80021D77B7FBE5BA85056BEC9D641E61C28711",
+			"Assets": [
+				"/Game/Static/StarterContent/Props/Materials/M_Door",
+				"/Game/StarterContent/Props/Materials/M_Door"
 			]
 		},
 		{
